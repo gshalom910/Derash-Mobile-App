@@ -1,0 +1,308 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "the current language"
+  },
+  "app_name": "Derash",
+  "@app_name": {
+    "description": "the name of the app"
+  },
+  "home": "Home",
+  "@home": {
+    "description": ""
+  },
+  "emergency": "Emergency",
+  "@emergency": {
+    "description": ""
+  },
+  "hospitals": "Hospitals",
+  "@hospitals": {
+    "description": ""
+  },
+  "account": "Account",
+  "@account": {
+    "description": ""
+  },
+  "camera_picker": "Camera",
+  "@camera_picker": {
+    "description": ""
+  },
+  "gallery_picker": "Gallery",
+  "@gallery_picker": {
+    "description": ""
+  },
+  "save": "Save",
+  "@save": {
+    "description": ""
+  },
+  "continue_btn": "Continue",
+  "@continue_btn": {
+    "description": ""
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": ""
+  },
+  "no": "No",
+  "@no": {
+    "description": ""
+  },
+  "call_ambulance": "Call an Ambulance",
+  "@call_ambulance": {
+    "description": ""
+  },
+  "name_hint": "Name",
+  "@name_hint": {
+    "description": ""
+  },
+  "menu_english": "English",
+  "@menu_english": {
+    "description": ""
+  },
+  "menu_amharic": "አማርኛ",
+  "@menu_amharic": {
+    "description": ""
+  },
+  "menu_oromic": "Affan Oromo",
+  "@menu_oromic": {
+    "description": ""
+  },
+  "age_hint": "Age",
+  "@age_hint": {
+    "description": ""
+  },
+  "sex_hint": "Sex",
+  "@sex_hint": {
+    "description": ""
+  },
+  "sex_empty_hint": "Sex :",
+  "@sex_empty_hint": {
+    "description": ""
+  },
+  "age_empty_hint": "Age :",
+  "@age_empty_hint": {
+    "description": ""
+  },
+  "blood_group_empty_hint": "Blood group :",
+  "@blood_group_empty_hint": {
+    "description": ""
+  },
+  "sex_male": "Male",
+  "@sex_male": {
+    "description": ""
+  },
+  "sex_female": "Female",
+  "@sex_female": {
+    "description": ""
+  },
+  "age_error_text": "Please add your age first",
+  "@age_error_text": {
+    "description": ""
+  },
+  "name_error_text": "Please add your name first",
+  "@name_error_text": {
+    "description": ""
+  },
+  "blood_error_text": "Please select your blood Group first",
+  "@blood_error_text": {
+    "description": ""
+  },
+  "sex_error_text": "Please select your sex first",
+  "@sex_error_text": {
+    "description": ""
+  },
+  "blood_hint": "Blood group",
+  "@blood_hint": {
+    "description": ""
+  },
+  "add_item": "Add",
+  "@add_item": {
+    "description": ""
+  },
+  "select_your_image": "Select your image",
+  "@select_your_image": {
+    "description": ""
+  },
+  "empty_subtitle": "You can click the plus button below to add more items",
+  "@empty_subtitle": {
+    "description": ""
+  },
+  "empty_emergencyContact_subtitle": "Click the plus button below to add your Emergency Contacts",
+  "@empty_subtitle": {
+    "description": ""
+  },
+   "empty_allergies_subtitle": "Click the plus button below to add your Allergies ",
+  "@empty_subtitle": {
+    "description": ""
+  },
+   "empty_medicalCondition_subtitle": "Click the plus button below to add your Medical Conditions",
+  "@empty_subtitle": {
+    "description": ""
+  },
+   "empty_medication_subtitle": "Click the plus button below to add the Medication you are taking ",
+  "@empty_subtitle": {
+    "description": ""
+  },
+  "empty_title": "No Items here yet",
+  "@empty_title": {
+    "description": ""
+  },
+  "edit_profile": "Edit your profile",
+  "@edit_profile": {
+    "description": ""
+  },
+  "learn_more": "Learn more",
+  "@learn_more": {
+    "description": ""
+  },
+  "emergency_services": "Emergency services",
+  "@emergency_services": {
+    "description": ""
+  },
+  "facebook_title": "Facebook",
+  "@facebook_title": {
+    "description": ""
+  },
+  "instagram_title": "Instagram",
+  "@instagram_title": {
+    "description": ""
+  },
+  "linkedin_title": "LinkedIn",
+  "@linkedin_title": {
+    "description": ""
+  },
+  "telegram_title": "Telegram",
+  "@telegram_title": {
+    "description": ""
+  },
+  "delete_contact_title": "Delete this Contact",
+  "@delete_contact_title": {
+    "description": ""
+  },
+  "delete_this_title": "Delete this",
+  "@delete_this_title": {
+    "description": ""
+  },
+  "are_you_sure_delete": "Are you sure you want to delete",
+  "@are_you_sure_delete": {
+    "description": ""
+  },
+  "emergency_services_subtitle": "In case of emergency click one of the ambulance services below to dial and get help.",
+  "@emergency_services_subtitle": {
+    "description": ""
+  },
+  "donate_blood": "Donate Blood",
+  "@donate_blood": {
+    "description": ""
+  },
+  "about_first_aid": "About First Aid",
+  "@about_first_aid": {
+    "description": ""
+  },
+  "definition":"Definition",
+  "about_first_aid_description": " First aid is emergency care given immediately to an injured person. The purpose of first aid is to minimize injury and future disability. In serious cases, first aid may be necessary to keep the victim alive.",
+  "@about_first_aid_description": {
+    "description": ""
+  },
+  "becoming_first_aider":"Becoming a first aider",
+  "prepare_yourself":"Prepare yourself",
+  "prepare__yourself_description":"Recognize the emotional and physical needs of all involved, including your own. This includes being aware of and managing your reactions so that you can focus on the casualty and make an assessment.",
+  "work_with_us": "Work with us in promoting preventive medicine by increasing awareness",
+  "@work_with_us": {
+    "description": ""
+  },
+  "key_steps_title":"The key steps to being an effective first aider are:",
+  "key_steps_description":"i. Be calm in your approach\nii. Be aware of risks to yourself and others\niii. Build and maintain trust from the casualty and the bystanders\niv. Give early treatment, treating the most serious (life threatening) conditions first\nv. Call for appropriate help\nvi.Remember your own needs",
+  "first_aid_legal":" First aid according to a legal perspectives ",
+  "first_aid_legal_description": "Although providing first aid requires morality, some fear the legal consequences and the consequences of seeing an injured person. The reality, however, is just the opposite: Pursuant to Article 575 of the Ethiopian Criminal Code says “Whoever intentionally leaves without help a person in imminent and grave peril of his life, person or health, when he could have lent him assistance, direct or indirect, without risk to himself or to third parties, is punishable with simple imprisonment not exceeding six months, or fine.” Therefore, while it is important to take proper training in first aid, it is important to provide first aid without fear, as the law stands by us and punish those who does not provide assistance. It is important to note, however, that this does not harm us or others.",
+  "emergency_contact_title": "Emergency contacts",
+  "emergency_contact_subtitle": "Hi there, you can add or edit your profile here. this information will be handy for your doctor",
+  "allergies_title": "Allergies",
+  "allergies_subtitle": "Hi there, you can add or edit your profile here. this information will be handy for your doctor",
+  "conditions_title": "Medical conditions",
+  "conditions_subtitle": "Hi there, you can add or edit your profile here. this information will be handy for your doctor",
+  "medication_title": "Current medication",
+  "medication_subtitle": "Hi there, you can add or edit your profile here. this information will be handy for your doctor",
+  "profile_title": "Your profile",
+  "profile_subtitle": "Hi there, you can add or edit your profile here. this information will be handy for your doctor",
+  "empty_contacts_title": "You have no emergency contacts yet",
+  "empty_allergies_title": "You have no allergies yet",
+  "empty_conditions_title": "You have no medical conditions yet",
+  "empty_medications_title": "You are not taking any medications now",
+  "ministry_of_health_name": "Ministry Of Health - Ethiopia",
+  "ministry_of_health_vision": "To see healthy, productive and prosperous Ethiopians.",
+  "ministry_of_health_description": "\u2022\t Our Vision To see healthy, productive and prosperous Ethiopians.  \u2022 \t Our Mission To promote health and well being of Ethiopians through providing and regulating a comprehensive package of promotive, preventive, curative and rehabilitative health services of the highest possible quality in an equitable manner.",
+  "chfe_name": "The Childrens Heart Fund of Ethiopia",
+  "chfe_vision": "Our vision is to set standards of cardiac care in Ethiopia by the year 2024/25.",
+  "chfe_description": "The Children\u2019s Heart Fund of Ethiopia (CHFE) was established in 1989 G.C. as a non-governmental and charitable organization focused on helping children with coronary illness being the first organization to exercise cardiac medical service in Ethiopia. From its foundation, it has set out characterized prompt, moderate, and long-haul targets to save lives from heart disease and educate the society on causes of the disease.  \u2022\tOur Vision Our vision is to set standards of cardiac care in Ethiopia by the year 2024/25.  \u2022\t Our Mission Our main reason of existence is to deliver international standard cardiac care for children and adults and provide tailor-made cardiac speciality training and undertake preventive and curative cardiac research through our strong community engagement partnership and collaboration.",
+  "chfe": "Donate to Cardiac Center Ethiopia",
+  "chfe_title_one": "Donate through SMS",
+  "chfe_are_you_sure": "Are you sure you want to donate {amount} birr",
+  "@chfe_are_you_sure":{
+"description":"",
+"placeholders":{
+  "amount":{
+    "type": "int"
+  }
+}
+  },
+  "chfe_birr": "birr",
+  "chfe_title_two": "Donate through Bank",
+  "bank_info": "Click here to get bank account information",
+  "chfe_title_three": "Donate through Foreign Currency Account",
+  "chfe_bank_subtitle": "Here are the bank accounts you can donate to",
+  "chfe_copied": "Copied to clipboard",
+  "donate_one_birr": "Donate 1 Birr",
+  "donate_ten_birr": "Donate 10 Birr",
+  "donate_fifty_birr": "Donate 50 Birr",
+  "donate_hundred_birr": "Donate 100 Birr",
+  "sms_failed": "sms failed, please try again letter",
+  "get_bank_info": "Get Bank Information",
+  "foreign_bank_info": "Get Foreign Currency Account",
+  "foreign_bank_branch": "Churchill Branch",
+  "foreign_bank_swift": "Swift code = AWINETAA",
+  "medica_link_name": "Blue Health Ethiopia ",
+  "medica_link_vision_title":"• Our Vision",
+  "medica_link_vision_subtitle": "Our vision is to be an influential healthcare leader in creating a skilled community through easily accessible knowledge in preventive medicine.",
+  "medica_link_description": "Blue Health Ethiopia is a medical consultancy company founded by medical doctors of Haramaya University graduates and an experienced computer engineer. The company is founded as a social enterprise with the aim of promoting preventive medicine by which we lead the road to future healthcare.  \u2022\tOur Vision Our vision is to be an influential healthcare leader in creating a skilled community through easily accessible knowledge in preventive medicine.  \u2022\t Our Mission Inspire hope, promote health, safety and well-being by providing the best care to the general population through integrated education, focused training and coaching, healthcare digitizing, clinical consultation, and research.",
+ "medica_link_mission_title": "• Our Mission",
+ "medica_link_mission_subtitle": "Inspire hope, promote health, safety and well-being by providing the best care to the general population through integrated education, focused training and coaching, healthcare digitizing, clinical consultation, and research.",
+  "blood_bank_name": "National Blood Bank Service",
+  "blood_bank_description": "National Blood Bank Service is a non profit governmental organization established with core function of community mobilization and education on voluntary blood donation, blood collection, laboratory processing, testing and production of blood distribute to health facilities promote appropriate clinical use of blood.",
+  "hospital_near_by": "Hospitals nearby",
+  "languages": "Change Language",
+  "select_a_language": "Select a Language",
+  "about_us": "About Us",
+  "app_version": "Derash App v- 1.0",
+  "kilometers": "km",
+  "away": "away",
+  "location_is_off": "we cant estimate the distance, your location is off",
+  "to_dial": "Click to dial",
+  "to_donate": "Click to donate",
+  "to_copy": "Click to copy account number",
+  "to_maps": "Click to open on google maps",
+  "to_page": "Click to open page",
+  "your_name": "Your Name goes here",
+  "our_sponsors": "Our Sponsors",
+  "more_info": "More Info",
+  "social_media": "Social",
+  "meccare_title": "MEICIP for different regions",
+  "meccare_subtitle": "click on the locations to call",
+  "meccare": "MEICIP",
+  "meccare_mekelle": "Mekelle",
+  "meccare_harar": "Harar",
+  "meccare_bahirdar": "Bahirdar",
+  "meccare_hawassa": "Hawassa",
+  "meccare_jimma": "Jimma",
+  "ems": "EMS",
+  "redcross": "RedCross",
+  "tebita_aambulance": "Tebita ambulance service",
+  "tebita_fire_dep": "Fire Department",
+  "tirita_ambulance": "Tirita ambulance service",
+  "wudase_center": "Wudase diagnostic center",
+  "add_contact": "Add Emergency Contacts",
+  "add_allergy": "Add Allergy",
+  "add_medical_condition": "Add Medical Condition",
+  "add_medication": "Current Medication",
+  "phone_hint": "phone"
+}
