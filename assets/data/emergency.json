@@ -1,0 +1,3022 @@
+{
+  "emergencies":[
+
+    
+{
+  "name":"Allergy/Anaphulaxis",
+  "iconUrl":"assets/images/allergies_icon.png",
+  "language": "en",
+  "description":[
+    {
+      "title":"WHAT TO DO FOR AN ALLERGY",
+      "imageUrl":"assets/images/allergies_icon.png",
+      "vedioUrl":"",
+      "content":"• Assess the casualty's signs and symptoms. Ask if she has any known allergy.\n\n• Remove the trigger if possible, or move the casualty from the trigger.\n\n• Treat any symptoms. Allow the casualty to take her own medication for a known allergy.\n\n• If you are at all concerned about the casualty's condition, seek medical advice.\n",
+      "isMain":true
+    },
+    {
+      "title":"WHAT TO DO FOR ANAPHYLAXIS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Call for emergency help.\n\n• If the casualty's signs and symptoms. Ask if she/he has any known allergy.\n\n•Remove the trigger if possible, or move the casualty to take his/her own medication for a known allergy.\n\n•If you are at all concerned about the casualty's condition,seek medical advice. \n",
+      "isMain":true
+    },
+    {
+      "title":"ALLERGY",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t An allergy is an abnormal reaction of the body's defense system (immune response) to a normally harmless 'trigger' substance (or allergen). An allergy can present itself as a mild itching, swelling, wheezing, or digestive condition, or can progress to full-blown anaphylaxis, or anaphylactic shock",
+      "isMain":false
+    },
+
+    {
+      "title":"Common allergy triggers",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t Common allergy triggers include pollen, dust, nuts, shellfish, eggs, wasp and bee stings, latex, and certain medications. Skin changes can be subtle, absent, or variable in some cases.",
+      "isMain":false
+    },
+    {
+      "title":"ANAPHYLAXIS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t This is a severe allergic reaction affecting the whole body. It may develop within seconds or minutes of contact with a trigger and is potentially fatal. In an anaphylactic reaction, chemicals are released into the blood that widen (dilate) blood vessels. This causes blood pressure to fall and air passages to narrow (constrict), resulting in breathing difficulties. In addition, the tongue and throat can swell, obstructing the airway. The amount of oxygen reaching the vital organs can be severely reduced, causing hypoxia.",
+      "isMain":false
+    },
+    
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t Common triggers include: nuts, shellfish, eggs, wasp and bee stings, latex, and certain medications. A casualty with anaphylactic shock needs emergency treatment with an injection of epinephrine.",
+      "isMain":false
+    },
+    {
+      "title":"Epinephrine (adrenaline)",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t This medicine helps to stop allergies and is recommended for people with anaphylaxis. This medicine is available in a variety of forms, called EP Pen, in an anti-inflammatory drug. It is recommended that a person with anaphylaxis carry more than one EPP because more than one EP may be needed. . Apply the epiphany to the outside of the thigh and let stand for 5 to 10 seconds. After we give, we need to get rid of the sting.",
+      "isMain":false
+    },
+    {
+      "title":"Antihistamine",
+      "imageUrl":"assets/images/anaphylaxis_ig.png",
+      "vedioUrl":"",
+      "content":"\t\t\t\t In addition to epinephrine, antihistamines may be prescribed by an allergist. This can be done in different ways. Therefore, if the patient has a prescription antihistamine, give it according to the dosage.",
+      "isMain":false
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+{
+  "name":"አለርጂ / አናፊላክሲስ",
+  "iconUrl":"assets/images/allergies_icon.png",
+  "language": "am",
+  "description":[
+    {
+      "title":"የአለርጂ የመጀመሪያ እርዳታ",
+      "imageUrl":"assets/images/allergies_icon.png",
+      "vedioUrl":"",
+      "content":"• የጉዳቱን ምልክቶች እና ምልክቶች ይገምግሙ። የታወቀ አለርጂ ካለባት ይጠይቁ፡፡\n\n• የሚቻል ከሆነ አለርጂ ሊያስከስቱ የሚችሉ ነገሮችን ያስወግዱ ፣ ወይም ተጎጂውን አለርጂ ሊያስከስቱ ከሚችሉ ነገሮች ያንቀሳቅሱት።\n\n• ማንኛውንም ምልክቶች ይታከም ፡፡ ጉዳት ለደረሰበት ሰው ለሚታወቅ አለርጂ የራሳቸውን መድሃኒት እንዲወስዱ ያድርጉ፡፡\n\n• ስለ ተጎጂው ሁኔታ በጭራሽ የሚያሳስብዎት ከሆነ የሕክምና ምክር ይጠይቁ፡፡\n",
+      "isMain":true
+    },
+    {
+      "title":"የአናፍላክሲስ የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ታማሚው ከዚህ በፊት አናፍላክሲስ ከነበረው ወይም አሁን የአናፍላክሲስ ምልክቶች ካሳየ ወደ አምቡላንስ  ይደውሉና እርዳታን ይጠይቁ፡፡\n\n•አድሬናሊን (ኢፒ ፔን) ካለው እሱን ይስጡት ወይም ሲሰጥ ያግዙት፡፡\n•የታማሚውን በማገገሚያ (ሪከቨሪ) አቀማመጥ ያሳርፉዋቸው\n\n•ታማሚው ራሱን ከሳተ ‘አመዝጉሎ’ ተግባራትን ይፈጽሙ፤ እሰትንፋስ ለመስጠት ይዘጋጁ፡፡\n",
+      "isMain":true
+    },
+    {
+      "title":"አለርጂ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t አለርጂ  የሰውነታችን በሽታ መከላከያ ስርዓት ወደ ሰውነታችን የተለያየ ባዕድ ነገሮችና በሽታ አምጪ ተህዋሲያን ወደ ሰውነታችን ሲገቡ የተለያዩ የመከላከል እርምጃዎችን ይወስዳሉ፡፡ አለርጂ መለስተኛ (ቀለል ያለ) ወይም የተባባሰ(አናፍላክሲስ) ሊሆን ይችላል፡፡ የአለርጂ ምልክቶች የንግግር መተሳሰር፣ የሰውነት መደንዘዝ፣ የፊት በከፊል መዛነፍ፣ ሃይለኛ እራስ ምታት፣ ራስን መሳት፣ የእጅና እግር አለመታዘዝ ወዘተ ሊሆኑ ይችላሉ፡፡",
+      "isMain":false
+    },
+    {
+      "title":"አለርጂ ሊያስከስቱ የሚችሉ ነገሮች",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t ለሰውነታችን ውጪያዊ የሆኑ እንደ ምግብ፣ አበባ ብናኝ፣ አዋራ፣ የነፍሳት ንክሻ፣ መድሃኒቶች፣ ኬሚካሎች ወዘተ ሊሆኑ ይችላሉ፡፡",
+      "isMain":false
+    },
+    {
+      "title":"አናፊላክሲስ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t አናፍላክሲስ የአለርጂ አይነት ሆኖ እጅግ አደገኛ እና ለህይወትም አስጊ ነው፡፡ አናፍላክሲስ ገዳይ ስለሆነም በአፋጣኝ ህክምና ማግኘት ያስፈልጋል፡፡አናፍላክሲስ ምልክቶች፣ ማስመለስና ሆድ ቁርጠት፣ የከንፈርና ምላስ ማበጥ፣ የቆዳ መቆጣት፣ ማሳከክና መቆጥቆጥ፣ የአይን መቅላትና ማልቀስ፣ ለመተንፈስ መቸገር፣ የከንፈር፣ ምላስ፣ ፊት እና ጉሮሮ ማበጥ፣ ደረትና ጉሮሮ ላይ የመወጣጠር ስሜት፣ ማስመለስና ሆድ ቁርጠት፣ የቆዳ መቆጣት፣ ማሳከክና መቆጥቆጥ፣ ራስን መሳት ወዘተ ሊሆኑ ይችላሉ፡፡",
+      "isMain":false
+    },
+    {
+      "title":"ኢፒነፍሪን (አድሬናሊን)",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t ይህ መድሃኒት አለርጂ ለማቆም የሚረዳ ሲሆን አንድ አናፍላክሲስ ያጋጠመው ሰው ይዞት እንዲንቀሳቀስ ይመከራል፡፡ ይህ መድሃኒት ለመውጋት በሚመች መልኩ ተዘጋጅቶ ኢፒ ፔን በሚል መልኩ በተለያየ መጠን የተዘጋጀ ነው፡፡ አናፍላክሲስያጋጠመው ሰው ከአንድ በላይ ኢፒ ፔን ይዞ ቢንቀሳቀስ ይመከራል ምክንያቱም ከአንድ በላይ ሊያስፈልግ ስለሚችል ነው፡፡ኢፒ ፔንበተለያየ መጠን ለአዋቂና ህጻናት ተብሎ ይዘጋጃል (0.15 ሚ.ግ 15 ኪ.ግ እስከ 30 ኪ.ግ እና 0.3 ሚ.ግ ከ 30 ኪ.ግ በላይ ለሆኑ)፡፡ ኢፒፔን በታፋ በውጪኛው ክፍል ላይ ጫን በማለት ለ 5 እስከ 10 ሰከንድ በመቆየት ይሰጣል፡፡ ሰጥተን ከጨረስን በኃላ የተወጋውን ታፋማሸት ያስፈልጋል፡፡",
+      "isMain":false
+    },
+    {
+      "title":"አንቲሂስታሚን",
+      "imageUrl":"assets/images/anaphylaxis_ig.png",
+      "vedioUrl":"",
+      "content":"\t\t\t\t ከኢፒነፍሪን ሌላም በአለርጂ የተጠቃ ሰው አንቲሂስታሚን ከህክምና ባለሞያ ሊጠቀም ይችላል፤ ይህም በተለያየ መልኩሊዘጋጅ ይችላል፡፡ ስለሆነም ታማሚው በሐኪም የታዘዘ አንቲሂስታሚን ካለው ላዩ ላይ ባለው አወሳሰድ መሰረት ይስጡት፡፡",
+      "isMain":false
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+{
+  "name":"Alarjii/ Anaafilaaksis",
+  "iconUrl":"assets/images/allergies_icon.png",
+  "language": "om",
+  "description":[
+    {
+      "title":"Alarjii Tajaajila Yalaa Jalqaa",
+      "imageUrl":"assets/images/allergies_icon.png",
+      "vedioUrl":"",
+      "content":"• Mallattoolee midhaama madalani. Alaarjikii beekame yoo qabataan gaafadha.\n\n• Yoo Kan dandahamuu taatee wantaa allaarjiikif nama saaxiluu danda’an dhabamsiisuu yookaan wanta midhamaa sanaa allaarjikiif isaa saxiluu danda’uu biraa sochoosaa.\n\n• Mallatoolee kamiyyu taanaan haa yaalaman. Nama miidhamnii irra gahe allaarjii beekame qabuuf qoricha Kan mataa isaanii akka fudhatan godhu.\n\n• Waayee miidhamaa sirumayyu Kan si yaachisuu yoo tahe gorsaa yaalaa fayyaa gaafadha.\n",
+      "isMain":true
+    },
+    {
+      "title":"Tajaajila duraa Anaafilaaksis",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Dhukkubsatichi kana dura anaafilaaksis yoo qabaate ykn amma mallattoolee yoo agarsiise gara ambulaansii bilbilaa deeggarsa gaafadhaa.\n\n• Adireenaaliinii yoo qabaate kennaa fi ykn akka kennamuuf gargaarsa godhaafii.\n\n• Dhukkubsaticha teessuma bayyanachiisuutiin teessissa\n\n• Dhukkubsatichi yoo of wallaaale qilleensa kennuufii yaalaa \n",
+      "isMain":true
+    },
+    {
+      "title":"Alarjii",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t Alarjii  Sirnoonni qaamaa keenya dhukkubarraa ittisan yommuu qaamolee alagaa garagaraa fi jarmoolee dhukkuba fidan gara qaama keenyatti seenan tarkaanfii ittisaa ni fudhatu. Alarjin selphas cimaas ta'uu hin denda'a. Mallatooleen alarjii araabnii hidhamuu. qamnii hadooduu,mataa dhukkubii hamaa of walaaluu harkii fi milii ajaajamu dhabu fi k.k.f ta'uu danda'a.",
+      "isMain":false
+    },
+    {
+      "title":"Alarjiin kan uumamu yommuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t qaamni keenya wantoota qaamaan alaa kan akka nyaataa,daakuu daraaraa awwaara, raammoleen nama hiddan, qorichoota fi keemikaalotaf kannen biroo ta'uu danda'uu.",
+      "isMain":false
+    },
+    {
+      "title":"Anaafilaaksis",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t Anaafilaaksis gosa alarjii yoo ta‟u baay‟ee hammaataa fi lubbuuf kan sodaachisuudha. Anaafilaaksis Lubbuu kan galaafatu waan ta‟eef hatattamaan yaalamuu barbaachisa.",
+      "isMain":false
+    },
+    {
+      "title":"phinafiriin (adreenaaliin)",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\t\t\t\t Qorichi (dawaan) kun Alarjii dhaabuuf kan gargaaru yoo ta‟u namni anaafilaaksisiin rakkisu tokko kiisii isaa keessatti baatee akka soocha‟u ni gorfama. Qorichi kun akka dirachuuf (waraannachuuf) qalamaan wal fakkeeffamee (iippii peen) hammamtaa garagaraatiin kan hojjeetameedha. Namni anaafilaaksisiin rakkisu tokko ol baatee yoo deeme gaariidha. Sababni isaaas tokko ol barbaachisuu mala waan ta‟eefi.",
+      "isMain":false
+    },
+    {
+      "title":"Hiistaamiinii",
+      "imageUrl":"assets/images/anaphylaxis_ig.png",
+      "vedioUrl":"",
+      "content":"\t\t\t\t iippinafiriiniin alatti nma alarjiin qabameef hiistaamiiniin ogeessa fayyaatiin kennamu faayidaa qabaachuu mala. Kunis bifoota garagaraatiin kan qophaaye ta‟uu mala. Waan kana ta‟eef dhukkubsataan hiistaamiinii qabu akka hakimni ajajeefitti ykn immoo gubbaa qorichaarratii akka barreeffametti kennaafii",
+      "isMain":false
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Asthma attack",
+  "iconUrl":"assets/images/asthma_inhaler.png",
+  "language":"en",
+  "description":[
+     {
+      "title":"WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Keep calm and reassure the casualty\n• Sit her/him down in the position she/he finds most comfortable do not let her/him lie down.\n• A mild attack should ease in a few minutes. If it does not, ask the casualty to take another dose from her/him inhaler.\n•Call for emergency\n• Help the casualty use her inhaler as required as shown in z video below",
+      "isMain":true
+    },
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" In an asthma attack, the muscles of the air passages in the lungs go into spasm. As a result, the airwaysbecome narrowed, which makes breathing difficult.",
+      "isMain":false
+    },
+    {
+      "title":"Trigger for an asthma attack",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• An allergy\n• A cold\n• A particular drug\n•Cigarette smoke\n• At other times, there is no obvious trigger.",
+      "isMain":false
+    },
+    {
+      "title":"SYMPTOMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Difficulty breathing\n• Wheezing\n•Difficulty speaking, leading to short sentences and whispering\n• Caughing\n• Distress and anxiety\n• Features of hypoxia , such as a grey-blue tinge to the lips, earlobes, and nailbeds (cyanosis)\n• Exhaustion in a severe attack. If the attack worsens, the casualty may stop breathing and lose consciousness",
+      "isMain":false
+    },  {
+      "title":"YOUR AIMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• To ease breathing\n• To obtain medical help if necessary",
+      "isMain":false
+    }
+
+
+  ]
+},
+
+{
+  "name":"አስም",
+  "iconUrl":"assets/images/asthma_inhaler.png",
+  "language":"am",
+  "description":[
+     {
+      "title":"የአስም የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ታማሚውን ያረጋጉት\n• ታማሚው በሚፈልጉት አኳሃን እንዲቀመጡ ያድርጋቸው\n• የሚነፋ የሚጠቀሙ ከሆነ እርሱን እንዲውስዱ ያግዙዋቸው\n• መስኮትና በር በመክፈት ንጹህ አየር እንዲያገኙ ያድርጉ\n• የመጀመሪያ ማፈን ከሆነ፣ በሚነፋው ለውጥ ከሌለው ወደ ህክምና ተቋም ይውሰዱዋቸው\n• መተንፈስ ካቆመ እስትንፋስ መስጠት ይጀምሩ\n• የአስም በሽታ የተባባሰበትን ሰው ወደ ህክምና ተቋም እንዲሄድ ያድርጉ፡፡",
+      "isMain":true
+    },
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" አስም ማለት የታችኛው የአየር ቱቦ በተለያዩ አለርጂ በሆኑብን ምክንያቶች ሲያብጥና ሲጠብ እንዲሁም በንፍጥ መሳይ ፈሳሽ ሲዘጋ የሚፈጠር ነው፡፡ \n ይህም ሲሆን ታማሚውም ለመተነፈስ አስቸጋሪ ይሆንበታል፤በተጨማሪ ሳል፣ ሲር ሲር የሚል ድምጽ ማውጣት እንዲሁም ትንፋሽ ማጠርም ይኖረዋል፡፡ \n \nአስም እንዳለበት ደረጃ ከቀላል ማፈን እስከ ሙሉ ለሙሉ ትንፋሽን መከልከል ሊደርስ ይችላል፡፡ \n \nአስም በአብዛኛውን ላይጠፋ የሚችል ህመም ሲሆን ነገር ግን ምልክቶቹን መቆጣጠር ይቻላል፡፡ በአስም በሽታ የተጠቃ ሰው እንደ አስፈላጊነቱ በቋሚነት መድሃኒት እንዲጠቀም ሊደረግ ይችላል፡፡",
+      "isMain":false
+    },
+    {
+      "title":"ቀስቃሾች",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ቅዝቃዜ\n• አለርጂ\n• አንዳንድ መድሃኒቶች\n• አንዳንዴ ደግሞ፣ ይህ ነው የሚባል ቀስቃሽ ምክንያቶች የሉም",
+      "isMain":false
+    },
+    {
+      "title":"የአስም በሽታ ምልክቶች",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ለመተንፈስ መቸገር\n• በቂ አየር እያገኙ እንዳልሆነ መሰማት\n•ቶሎ ቶሎ መተንፈስ\n• ማሳልና እንደ ንፍጥ ያለ አክታ\n• ሲተነፍሱ ማፋጨት ወይም ሲር ሲር ማለት\n• የደረት አካባቢ ህመም&\n• በጣም የተባባሰ ከሆነም ትንፋሽ መቋረጥ",
+      "isMain":false
+    },  {
+      "title":"አላማ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• መተንፈስን ለማቃለል\n• አስፈላጊ ከሆነ የሕክምና ዕርዳታ ለማግኘት",
+      "isMain":false
+    }
+
+
+  ]
+},
+
+
+{
+  "name":"Asmii",
+  "iconUrl":"assets/images/asthma_inhaler.png",
+  "language":"om",
+  "description":[
+     {
+      "title":"Gargaarsa duraa asmiif godhamuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Miidhamaa tasgabbeesaa\n• Dhukkubsataan haala isaa mijaawwuti akka taa'u gochuu\n• Qoriicha asmii kan biifamu yoo ni fayyadama ta'e akka fudhatu gochuu.\n•Foddaafi balbala banuun akka qilleensa qulqulluu argatu gochuu\n• Ukkaamamuu jalqabaa yoo ta'e, qorichaa asmii biifamuun jujiirama yoo hin qabaane gara mana yaalaa geessaani\n• Hargansuun yoo dhaabbate hafuura kennu jalqabaa\n• Nama dhukkubni asmii itti jabaate akka mana yaala deemu godhaa.",
+      "isMain":true
+    },
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" Asmii jechuun yeroo ujummoon qilleensaa gara gadii wantoota alaarjii nutti ta'aniin dhiita'uufi dhiphatu akkasumas dhangala'aa furri fakkaatuun cufamu kan uumamuudha. yeroo kun ta'u dhukkubsataanis harganuun rakkoo itti ta'u,qufa'aa dabalataa,sagalee sir sir (kir kir) jedhu baasuufi hafuura haruu qabachuu danda'a. \n \n Asmiin akkumaa sadarkaa isaati ukkaamamuu salphaa irra kaasse hanga guutumaan guutu hargansuu dhoorkqutti geesisuu danda'a \n \nAsmiin yeroo baayyee dhukkuba baduu waan hin taaneef mallattoolee isaa garuu to'achuun ni danda'ama. Nama dhukkuba asmiin qabameef akka barbaachisumaa isaati dhabbatatti dawaa akka fayyadamuu gochuun ni danda'ama",
+      "isMain":false
+    },
+    {
+      "title":"Wantoota namatti kassan (hammeessan)",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Qorra\n• Alerjii\n• Qorichoota tokko tokko\n• Yeroo tokko tokko ammoo kana jedhamee wantoota namatti kaasan hin berkamu",
+      "isMain":false
+    },
+    {
+      "title":"Mallattoolee dhukkuba asmii",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Hafuura baasuuf rakkachuu\n• Qilleensa gaha akka argataa hin jiree ofitti dhagahamuu\n• Dafanii dafanii harganuu\n• Qufa'uufi aakii furri fakkaatu baasuu\n• Yeroo hafuura baaftan fiisuu ykn sagalee kir kir jedhu dhageesisuu\n• Dhukkubbi naannoo qomaa\n• Yoo baayyee jabaate harganuun dhaabachuu danda'a",
+      "isMain":false
+    },  {
+      "title":"Kayyoo",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Hafuur baafannaa salphisuuf\n• Borbaachisaa yootahe gargaarsa yaalaa argachu",
+      "isMain":false
+    }
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Burns",
+  "iconUrl":"assets/images/fire.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Burns cause damage in a number of different ways, but by far the most common organ affected is the skin. However, burns can also damage the airway and lungs, with life-threatening consequences.",
+      "isMain":false
+    },   
+    {
+      "title":"Warning signs of burns to the respiratory system",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Burns around the face and neck\n• A history of being trapped in a burning room\n• Change in voice",
+      "isMain":false
+    }, 
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"When skin is damaged by burning,it can no longer function effectively as a natural barrier against infection. In addition, body fluid may be lost because tiny blood vessels in the skin leak tissue fluid (serum). In a burn that covers a large area of the body, fluid loss will be significant and the risk of shock high.",
+      "isMain":false
+    },  
+    {
+      "title":"TYPES OF BURN AND POSSIBLE CAUSE\n  1. Dry burn",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Flames\n• Contact with hot objects, such as domestic appliances \n•Cigarettes",
+      "isMain":false
+    },
+    {
+      "title":" 2. Scald",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Steam\n• Hot liquids, such as tea and coffee, or hot oil",
+      "isMain":false
+    },
+    {
+      "title":" 3. Electrical burn",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Low-voltage current, as used by domestic appliances\n• High-voltage currents, as carried in overhead or underground cables\n• Lightning strikes",
+      "isMain":false
+    },
+    {
+      "title":" 4. Radiation burn",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• LSunburn\n• Overexposure to ultraviolet rays from a sunlamp\n• Exposure to a radioactive source, such as an X-ray",
+      "isMain":false
+    },
+    {
+      "title":" 5. Chemical burn",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Industrial chemicals, including inhaled fumes and corrosive gases\n• Domestic chemicals and agents, such as paint stripper, caustic soda, weed killers, bleach, oven cleaner, or any other strong acid or alkali chemical",
+      "isMain":false
+    },
+    {
+      "title":" 6. Cold injury",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Frostbite\n• Contact with freezing metals\n• Contact with freezing vapors, such as liquid oxygen or liquid nitrogen",
+      "isMain":false
+    },
+    {
+      "title":"DEPTH OF BURNS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" Burns are classified according to the depth of skin damage\n• Superficial partial-thickness\n• Deep partial-thickness\n• Full-thickness",
+      "isMain":false
+    },
+    {
+      "title":" 1. Superficial partial thickness",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Involves only the outermost layer of skin, the epidermis\n• Characterized by redness, swelling, and tenderness\n• It usually heals well if first aid is given promptly\n• Sunburn and minor domestic incidents common types of superficial burn",
+      "isMain":false
+    },
+    {
+      "title":" 2. Deep partial-thickness",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• They destroy the epidermis and cause the skin to become red and blistered\n• Blisters form over the skin due to fluid released from the damaged tissues beneath\n•Are very Painfull",
+      "isMain":false
+    },
+    {
+      "title":" 3. Full-thickness",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• With this type of burn, all the layers of the skin are affected\n• there may be some damage to nerves, fat tissue, muscles, and blood vessels\n• pain sensation is lost, which masks the severity of the injury\n• The skin may look waxy, pale, or charred and needs urgent medical attention.",
+      "isMain":false
+    },
+    {
+      "title":" WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Start cooling the burn as soon as possible after the injury occurred with plenty of cool tap water.\n• Call for emergency help; if possible, get someone to do this while you cool the burn\n• Do not touch or otherwise interfere with the burn. Gently remove rings, watches, belts, shoes, and burned or smoldering clothing before the tissues begin to swell. Do not remove clothing that is stuck to the burn.\n• When the burn is cooled, cover the injured area with plastic wrap to protect it from infection",
+      "isMain":true
+    },
+    {
+      "title":"WHAT NOT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Do not remove anything sticking to the burn; you may cause further damage and introduce infection into the burned area\n• Do not burst any blisters\n• Do not apply any lotion or ointment to the burned area; it may damage tissues and increase the risk of infection\n• The use of specialized dressings, sprays, and gels to cool burns is not recommended.\n• Do not use adhesive dressings or apply adhesive tape to the skin; a burn may be more extensive than it first appears. \n• If the casualty has a burn on his face, do not cover the injury. you could cause the casualty distress and obstruct the airway.\n• Do not allow the casualty to eat or drink because he may need an anesthetic",
+      "isMain":true
+    }
+  ]
+},
+
+
+
+{
+  "name":"ቃጠሎ",
+  "iconUrl":"assets/images/fire.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" ሰውነታችንን የሚያቃጥሉ እንደ እሳት፣ ኬሚካል፣ ጨረር፣ አሌክትሪክ ንክኪ በሚኖር ጊዜ  የሚደርስ ጉዳት ነው፡፡ ቃጠሎ ከቀላል እስከ ከባድ (ለህይወት አስጊ) የሚደርስ ጉዳት ሊያስከትል ይችላል፡፡ \n\nስለ ቃጠሎ ስናወራና የቃጠሎውን መጠን ለማወቅ የሚከትሉትን ጥንቃቄዎች ማውቅ ያስፈልጋል፡፡",
+      "isMain":false
+    },   
+    {
+      "title":"የቃጠሎው ጥልቀት",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" ይህ ማለት ቃጠሎው ምን ያህል ቆዳችንን ወደ ታች አቃጥሎታል የሚውን ይነግረናል፡፡",
+      "isMain":false
+    }, 
+    {
+      "title":"ቃጠሎው ስፋት",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" ይህን ስንል ቃጠሎው ሰውንታችንን ምን ያህል አቃጥሏል የሚለውን በመቶኛ የሚገልጽ ነው፡፡ ብዛት ያለው የሰውነታችን ክፍል ከተቃጠለ በአፋጣኝ የህክምና እርዳታ ያስፈልጋል፡፡",
+      "isMain":false
+    },  
+    {
+      "title":"የተቃጠለው ቦታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" መዳፍ፣ አፍ፣ ጭንቅላት፣አንገት፣ አፍንጫ፣  የመራቢያ አካላትን፣ እንዲሁም ቃጠሎው ዙሪያውን ካቃጠለ (እጆችን ሙሉ ዙሪያ) ከፍተኛ ቃጠሎ  ውስጥ እንመድባቸዋለን፡፡",
+      "isMain":false
+    },
+    {
+      "title":"የተቃጠለው ሰው እድሜ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" ቃጠሎ የደረሰበት ሰው እድሜ ከ 5 ዓመት በታች ወይም ከ60 ዓመት በላይ ከሆነ ከፍተኛ ቃጠሎ ውስጥ እንመድበዋልን",
+      "isMain":false
+    },
+    {
+      "title":"ያቃጠለው ነገር",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" በአሌክትሪክ፣ በፍንዳታ፣ በጨረር እና በኬሚካል የደረሰ ቃጠሎ ከፍተኛ ቃጠሎ ውስጥ ይመደባሉ፡፡",
+      "isMain":false
+    },
+    {
+      "title":"የቃጠሎ  ምልክቶች",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የተቃጠለው ክፍል ይለበልባል፣ መቅላት፣ መጥቆር፣ ወይም መንጣት ያሳያል፡፡\n• ቃጠሎው በጣም ህመም ሊኖረው ወይም ህመም አልባ ሊሆን ይችላል፡፡ (የነርቮች ጫፍ ከተቃጠለ)\n• የተቃጠለው ክፍል ማበጥና  ውሃ መቆጠር ያመጣል",
+      "isMain":false
+    },
+    {
+      "title":">የኬሚካል ቃጠሎ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" የኬሚካል ቃጠሎ እንደሌላው የቃጠሎ አይነት ምንጩን ማስወግድ፣ ቦታውን ማቀዝቀዝ እና ቁስሉን መሸፈን ይኖርብናል፡፡ ነገር ግን ምንጩን ስናስወግድ የተለየ ጥንቃቅ ማድረግ ያስፈልጋል፡፡\n\n   • ደረቅ ኬሚካል፡ ቃጠሎው በደረቅ ኬሚካል የደረሰ ከሆነ መጀመሪያ ኪሚካሉን ማራገፍ ይኖርብናል፤ ይህንንም ስናረግ እኛ ላይም ሆነ ተጎጂው ላይ እንዳይረጭ ጥንቃቆቄ ማደርግ ያስፈልጋል፡፡ ከዚያም ተጎጂው ላይ ያሉ ልብሶችን ያውልቁና ከብከላው ያጽዱት፡፡ ከዚያም የተቃጠለው ስፍራ ላይ ንፁህና ቀዝቃዛ ውሃ ለ15 ደቂቃ ያፍስሱብት፡፡\n   • ፈሳሽ ኬሚካል፡ ቃጠሎው በፈሳሽ ክሚካል የደረሰ እንደሆነ፤ ቦታው ላይ ንፁህና ቀዝቃዛ ውሃ ለ15 ደቂቃ ያፍስሱብት፡፡\n   • የተቃጠለው ስፍራ አይናችን ከሆነ ብዛት ያለው ውሃ ያፍስሱብት ጭንቅላቱን ዘንበል አድርገው ይያዙትና ጉዳት የደረሰበትን አይን ከጤነኛው ዝቅ ያድርጉት፤ ወደ ህክምና ተቋም በፍጥነት ይውሰዱት::",
+      "isMain":false
+    },
+    {
+      "title":"የአሌክትሪክ ቃጠሎ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" የአሌክትሪክ ቃጠሎ እንደሌላው የቃጠሎ አይነት ምንጩን ማስወግድ፣ ቦታውን ማቀዝቀዝ እና ቁስሉን መሸፈን የሚሉትን መርህ የሚከተል ሲሆን በተጨማሪም የሚከተሉትን ይተግብሩ\n • አካባቢው ተጨማሪ አደጋ እንደማያስከትል ያረጋግጡ፡፡\n • ወደ 907 ይደውሉና፤ እርዳታ ይጠይቁ\n • ከቻሉ አሌክትሪኩን ከመቆጣጠሪያው ያጥፉት\n • ተጎጂው ከአሌክትሪክ መስመሩ ጋር መላቀቁን ሳያረጋግጡ በፍጹም አይንኩት\n • የአሌክትሪክ ቃጠሎ የልብን ምት ሊያዛባ፣ መተንፈስ ሊከለክል ስለሚችል ተጎጂውን በህይወት ለማቆየት እስተንፋስ መስጠት እንዲሁም ኢኢዲ መጠቀም ሊኖርብን ይችላል፡፡\n • በአሌክትሪክ የተጎዳ ሰው በአፋጣኝ ወደ ህክምና ተወስዶ ምርመራ ያስፈልገዋል፤ ምክንያቱም የአሌክትሪክ ቃጠሎ ከውጪ ሲታይ ትንሽ ጉዳት ያደረሰ ቢመስልም የውስጥ ብልቶቻችንን በከፍተኛ ሁኔታ ሊጎዳ ይችላል፡፡",
+      "isMain":false
+    },
+    {
+      "title":" የተቃጠለ ሰው የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ተቃጠለው ቦታ ብዙ ከሆን፣ ወይም ተጎጂው ራሱን ከሳተ፣  ወደ 907ይደውሉና፤እርዳታ ይጠይቁ\n• የአመዝጉሎ ተግባራትን ይፈጽሙ\n• የቃጠሎውን ምንጭ ያስወግዱ፡ በእርሶ ላይ ጉዳት ማያመጣ ከሆነ የቃጠሎውን ምንጭ ያጥፉ፣ ወይም ተጎጂውን ከቃጠሎው ያርቁ፡፡\n• ነበልባል፡ ያልጠፋ ነበልባል ካለ፤ ባሉብት ይቁሙ፣ መሬት ላይ ይውደቁ ከዚያም ይንደባለሉ፡፡ \n• ተጎጂው ላይ ያሉ ልብሶችን ያውልቁ፤ ምክንያቱም ልብሱ ሙቀት ሊይዝና ተጨማሪ ጉዳት ሊያመጣ ይችላል፡፡ ይሁንና ልብሱ ከተቃጠለው ቆዳ ጋር የተጣበቀ ከሆነ እርሱን ትተው ዙሪያውን ቀርፍፈው ያንሱት፡፡\n• ውሃ የቋጠረ ቆዳን አያፍርጡት፡፡\n• በተለምዶ የሚደረጉ ሊጥ መቀባት፣ ዘይት መቀባት፣ ከጥቅማቸው ጉዳቱ ስለሚያመዝን መቀባት የለብንም፡፡\n• በተቃጠለው አካል ላይ ያለ ጌጣ ጌጥ ያውልቁ ምክንያቱም የተቃጠለው ቦታ እብጠት ሲያመጣ ጌጣ ጌጡ የደም ዝውውርን ሊከለክል ይችላል፡፡\n• የተቃጠለውን ቦታ ያቀዝቅዙት፡ ንጹህና ቀዝቃዛ ውሃ ለ10 ደቂቃ ያህል ያፍሱበት፡፡ ነገር ግን በረዶ አይጠቀሙ፡፡\n• የተቃጠለውን ስፍራ ይሸፍኑት፡ የተቃጠለውን ስፍራ በንጹህ ጨርቅ ይሸፍኑት፡፡\n• ተጎጂውን እንዲሞቀው ይሸፍኑት፡ ቆዳችን ከሚሰጠን ጥቅሞች አንዱ የሰውነታችንን ሙቀት አፍኖ መያዝ ሲሆን የተቃጠለ ሰውነት ለቅዝቃዜና ውሃ ትነት የተጋለጠ በመሆኑ የተነሳ በደንብ መሸፈን ይኖርበታል፤ ነገር ግን ስንሸፍን ሰፋ ያለና የተቃጠለው ቆዳ ላይ እማይጣብቅ ጨርቅ መሆን አለበት፡፡",
+      "isMain":true
+    }
+
+  ]
+},
+
+
+
+
+
+{
+  "name":"Gubachuu",
+  "iconUrl":"assets/images/fire.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" Gubachuun qaama keenya wantooonni guban kan akka ibiddaa, kemikaalaa, cararii. Elektirika tuquun faan balaa dhufu jechuudha. gubachuun miidhaa salphaa hanga cimaatti(lubbuuf sodaachisaa) fiduu dandaha. \n\nWaa‟ee gubachuu yoo haasofnu hamma gubachuu beekuuf qabxiilee armaan gadii beekuu barbaachisa",
+      "isMain":false
+    },   
+    {
+      "title":"Gad fageenye gubachuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" kana jechuun gubachuun hangam takka gogaa keenya gara gadiitti gubee jira kan jedhu nutti hima",
+      "isMain":false
+    }, 
+    {
+      "title":"Ballina gubachuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" kana yoo jannu 100 keessaa qaamni keenya hangam takka gubatee kan agarsiisuudha. Kutaan qaama keenyaa baayyeen yoo gubate dafnee yaala fayyaa argachuu qabna",
+      "isMain":false
+    },  
+    {
+      "title":"Iddoo gubannaa",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" gubatinsi shanachaa, afaanii, funyaanii, mormaa, mataa, qaamota walhormaata akkasumaas naannowni qaamaa yoo gubate (harki guutuun) gubatinsa cimaa keessatti ramanna",
+      "isMain":false
+    },
+    {
+      "title":"Umurii nama gubatee",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" namni gubate umriin isaa waggaa 5 gad ykn 60 ol yoo tahe gubatinsa cimaa keessatti ramanna.",
+      "isMain":false
+    },
+    {
+      "title":"Wanta gube",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" balaa elektirikiin, dhoohinsaan, carariin, keemikaalaan kan dhufe yoo tahe gubatinsa cimaa keessatti ramadamu",
+      "isMain":false
+    },
+    {
+      "title":"Mallattoolee gubachuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Kutaan gubate ni balbala. Ni diimata, gurraachomuu, ykn daalachaa‟uu agarsiisa.\n• Gubatinsi haalaan dhukkubbi qabaachuu ykn dhukkubuu dhiisuu danda‟a.(Fixeen narkii yoo gubatee)\n• Kutaan gubate dhiita‟ee bishaan kuufata",
+      "isMain":false
+    },
+    {
+      "title":">Keemikaalaan gubachuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" Yennaa keemikaalaan gubannuus akkuma gubatinsa wantoota biroon dhufuutti madda isaa gogsuu, bakka san qabbaneessuu fi madaa uwwisuu qabna. Garuu madda yoo gogsinu of eeggannoo addaa gochuu qabna \n\n   • Keemikaala gogaa: gubantinsi keemikaala gogaan kan dhufe yoo tahe jalqaba keemikaalicha irraa hurgufuu qabna. Kana yoo goonuus nuus tahee miidhamaa irratti akka hin facaane of eeggannoo godhuu qabna. Achi boodaan uffata miidhamaa irra jiru irraa baasaatii akka hin faalamne qulqulleessaa. Achumaaniis iddoo gubaterratti bishaan qulqulluu daqiiqaa 15 itti naqaa\n   • Keemikaala dhangala‟aa: gubatinsi keemikaala dhangala‟aan kan gahe waan taheef iddoo sanirratti bishaan qulqulluu fi qabbanaa‟aa daqiiqaa 15 itti naqaa\n   • Iddoon gubate ija keenya yoo tahe bishaan baayyee itti naqaa mataa mataa isaa gadii qabaatii ija miidhaan irra gahe ija kaanirraa gad godhaatii dafaa gara mana yaalaa geessaa",
+      "isMain":false
+    },
+    {
+      "title":"Elektirikaan Gubachuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" Gubatinsi elektirikiin dhufa akkuma warra kaanii madda isaa gogsuu iddoo san qabbaneessuu fi uwwisuun kan barbaachisu tahee dabalataan wantoota armaan gadii godhaa: \n\n • Naannoo sanittti balaan dabalataa akka hin uumamne mirkaneeffadhaa\n • Gara 907 bilbilaatii gargaarsa /deeggarsa gaafadhaa\n • Yoo dandeessan lakkooftuu elektirikii san dhaamsaa\n • Miidhamaan sarara elektirikiin adda bahuu isaa osoo hin mirkaneeffanne gonkumaahuu hin tuqinaa\n • Gubachuun elektirikii dhahannaa onnee sirriin ala godhuu, fi hafuura baafachuu waan dhoorkuu dandahuuf miidhamaan akka lubbuun turuuf hafuura kannuu (dhahannaa onnee fi hafuurbaafannaa deebisuu) fi maashina AED fayyadamuu malla.\n • Namni elektirikiin miidhame ariitiin gara mana yaalaa geeeffamee laalamuu qaba, sabaniis elektirikiin gubachuun alaa yo laalamu miidhaa xiqqaa kan fide fakkaatee qaama keenya keessaa irra miidhaa cimaa fiduu dandaha.",
+      "isMain":false
+    },
+    {
+      "title":"Gargaarsa jalqabaa nama gubateef",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Bakki gubate hedduu yoo tahe ykn miidhamaan yoo ifwallaale. Gara 907 bilbilaatii gargaarsa gaafadhaa\n• Hojii amazguloo raawwadhaa\n• Madda gubtinsaa san dhabamsiisaa: isinirra balaa kan hin finne yoo tahe madda gubatinsaa dhaamsaa, ykn miidhamaa iddoo gubatinsaa sanaa irra fageessaa\n• Belbela: belbelli hin dhaamin yoo jiraate bakkuma jirtanitti dhaabbadhaa, lafarra ciisaa achumaaniis lafarra bororaa.\n• Uffata miidhamaa irra jiru hoo‟a qabatee miidhaa dabalataa fiduu dandaha. Waan kana taheef uffanni gubatee yoo coraa wajjin walitti goggogee jiraate isa dhiisaa naannawa isaa ciraa irraa baasaa.\n• Wantoota aadaadhaan dibaman kan akka qooshaa dibuu, zaayitaa dibuu faayidaa isaaniirra miidhaan waan caaluuf itti dibuu hin qabnu\n• Gogaa bishaan kufatee itin dhosinaa.\n• Qaama gubaterra kan jiru faaya adda addaa irraa baasaa sababni isaas bakki gubate dhiita'u iita‟u marsaa dhiigaa kutuu danda‟a\n• Idoo gubate qabbaneessa: bishaan qulqulluu fi qabbanaahaa hanga daqiiqaa 20 tiif irratti naqaa. Garuu cabbii hinfayyadaminaa.\n• Bakka gubate uwwisaa: bakka gubate huccuu qulqulluun uwwisuun.\n• Miidhamaaf akka hoo‟uuf itti uwwisaa: faayidaa gogaan Kenya nuuf kannu keessaa tokko hoo‟a qaama keenyaa ukkamsee nuuf qabuu yoo tahu qaamni gubate qabbana/qorraa fi huurkaan bahuu bishaan qaama keessaaf kan saaxilame waan taheef sirritti uwwwisuu nubarbaachisa, tahuus yaroo uwwisnu huccuu ballaa fi coraa/gogaa gubate irratti kan hin maxxanne tahuu qaba",
+      "isMain":true
+    } 
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Chocking",
+  "iconUrl":"assets/images/chocking.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"A foreign object that is stuck in the throat may block it and cause laryngeal spasm.",
+      "isMain":false
+    },   {
+      "title":"YOUR AIMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• To remove the obstruction\n• To arrange urgent removal to the hospital if necessary",
+      "isMain":false
+    }, 
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Ask the casualty: (Are you choking?)\n• Mild obstruction: Casualty able to speak, cough, and breathe \n• Severe obstruction: Casualty unable to speak, cough or breathe, with eventual loss of consciousness\n• If the casualty is breathing, encourage him/her to continue coughing. If he/she is not coughing and not able to breathe, he/she is choking. Go to the next step\n• Heimlich maneuver. If the obstruction persists, go behind the child and pass your arms around the child’s body; form a fist with one hand immediately below the child’s sternum; place the other hand over the fist and pull upwards into the abdomen; repeat this Heimlich maneuver 5 times\n• If the casualty loses consciousness, carefully support him/her to the floor, immediately call for emergency help or send someone to do so, then begin CPR with chest compressions. Each time the airway is opened during CPR, look for an object in the casualty's mouth and, if seen, remove it.\n• If the obstruction still has not cleared, continue CPR until help arrives",
+      "isMain":true
+    },
+    {
+      "title":"BACK BLOW",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• When you're going to give a back blow you should stand on the side back if the person\n• Put one of your arm across the person chest diagonally \n•Help the person to bend forward a little\n• Now give a strong blow to the back of the person using your palms.",      
+      "isMain":true
+    },
+    {
+      "title":"ABDOMINAL THRUST",
+      "imageUrl":"assets/images/h_maneuver.png",
+      "vedioUrl":"",
+      "content":"• Stand at the back of the person chocking, and put one foot in front of another\n• Using your two arms hug the person from the back \n• Find the belly button of the person with your fingers, and add the other hand on top of it\n• After you put one hand on another, strongly pull your hands inwards and up.",
+      "isMain":true
+    },
+    {
+      "title":"WHAT TO DO FOR CHOKING INFANT UNDER ONE YEAR",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Lay the infant on your arm or thigh in a head down position\n• Give 5 blows to the infant’s back with heel of hand\n• If obstruction persists, turn infant over and give 5 chest thrusts with 2 fingers, one finger breadth below nipple level in midline.",
+      "isMain":true
+    },
+    {
+      "title":"BACK BLOWS FOR CHOKING INFANT",
+      "imageUrl":"assets/images/child_blow.png",
+      "vedioUrl":"",
+      "content":"• Hold the infant by his/her chest on your hands and support the child's chin with your fingers.\n• Put the infant faced down by his/her chest then blow its back with your palms with a little strength",      
+      "isMain":true
+    },
+    {
+      "title":"CHEST PRESSURE FOR CHOKING INFANT",
+      "imageUrl":"assets/images/child_chest_pressure.png",
+      "vedioUrl":"",
+      "content":"• Hold the infant by its back on your hand, support his/her head with your fingers\n• Then lower your hands and tilt the infant so his/her head could lower. \n• Now with your other hand two fingers press his/her chest bone and press down to 4 cm then release.\n• Five back blows and five chest pressure till the infant coughs, cries or till he/she loses consciousness",
+      "isMain":true
+    },
+    {
+      "title":"WHAT NOT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Don't ask them if they are ok. Instead ask them if they are choking.\n• Don't put your fingers in\n• Don't give a breath first, if you need to start CPR start with compressions.\n• Don't pick up a child and turn them upside down",
+      "isMain":true
+    }
+  ]
+},
+
+
+{
+  "name":"ትንታ",
+  "iconUrl":"assets/images/chocking.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"  ትንታ የሚከሰተው የአየር ቱቦችን በግማሹ ወይም ሙሉ ለሙሉ በባዕድ ቁስ ሲዘጋ ነው፡፡ ትን ያለው ሰው በፍጥነት ተዝለፍልፎ ራሱን ሊስት ይችላል፡፡ ስለዚህም በፍጥነት መርዳት ተገቢ ነው፡፡ ከ 5 አመት በታች ያሉ ህፃናት ለትንታ በይበልጥ ተጋላጭ ናቸው፡፡ ህፃናት አካባቢያቸው ያሉ ነገሮችን ወደ አፍ መክተት ያዘወትራሉ፡፡ \n\nበባዕድ ቁሶች እንደ ሳንቲም፣ ቁልፍ፣ ጌጦች፣ ማግኔት፣ ኪኒኖች፣ የእስክሪብቶ ክዳን፣ ጠጠሮች፣ ብይ… የመሳሰሉት እንዲሁም ምግቦች ለውዝ፣ ባቄላ፣ ፈንዲሻ፣ ካሮት፣ ፍሬዎች የመሳሰሉት በአብዛኛው ጊዜ ወደ አየር ትቧችን ገብተው ትንታን የሚፈጥሩ ናቸው፡፡",
+      "isMain":false
+    },   {
+      "title":"አላማ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ችግሩን ለማስወገድ\n• አስፈላጊ ከሆነ አስቸኳይ ቁሱን ከአየር ቱቦ ለማስመወገድ የሆስፒታል ሁኔታን ለማመቻቸት",
+      "isMain":false
+    }, 
+    {
+      "title":"የትንታ የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ትን ያለውን ሰው፤ ትን እንዳለው ይጠይቁ ወይም ህፃን ከሆነ ማልቀሱን/ ድምፅ ማውጣቱን ይመልከቱ፡፡\n• ካወራ ወይም ካለቀሰና በኃይለኛ መሳል ከቻለ ይበልጥ እንዲስል እናበረታታው፡፡ \n• ማውራት/ማልቀስ የቻለ ሰው ለመተንፈስም በቂ አየር ያገኛል\n• የታማሚው ሁኔታ በድንገት ሊባባስ ስለሚችል ራሳችንን እናዘጋጅ፡፡\n• ትን ያለው ሰው ግን ቀጭን ድምፅ ካወጣ ወይም በደካማ ሁኔታ ብቻ ከሳለ ወይም መናገር፤ ማልቀስ ካልቻለ የአየር ቱቦው ሙሉ ለሙሉ ስለተዘጋ የአየር ቱቦው በአፋጣኝ ካልተከፈተ ብዙም ሳይቆይ ራሱን ስቶ ሊወድቅ ይችላል፡፡ስለዚህም ሌላ አብሮት ያለን ሰው በአፋጣኝ ስልክ  እንዲደውል ያድርጉ እርሶ ደግሞ የመጀመሪያ እርዳታ ለመስጠት ይዘጋጁ",
+      "isMain":true
+    },
+    {
+      "title":"ጀርባ ድለቃ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የጀርባ ድለቃ ለመስጠት ራሶን ከተጎጂው ጎን ትንሽ ወደ ኃላ ሆነው ይቁሙ (ህፃን ከሆን መንበርከክ ይኖርብናል)\n• አንዱን እጆን በሰያፍ በተጎጂው ደረት ላይ ያሳልፉ (ድጋፍ ለመስጠት) \n•በተጎጂውን ከወገቡ ወደ ፊት ሰበር አርገው የላይኛውን የሰውነት ክፍል ወደ ፊት ያርጉ፡፡\n• ጠንከር አድርገው ተጎጂውን በትከሻው መሃከል በእጆ መዳፍ ይምቱት፡፡",      
+      "isMain":true
+    },
+    {
+      "title":"ህልፅ ግፊት",
+      "imageUrl":"assets/images/h_maneuver.png",
+      "vedioUrl":"",
+      "content":"• ህልፅ ግፊት ለመስጠት ከተጎጂው ጀርባ ይቁሙ፤ አንዱን እግሮን ከሌላኛው ፊት ያኑሩ\n• በሁለቱንም እጆ የተጎጂውን ወገብ ይቀፉ (ህጻን ከሆነ ደግሞ ይንበርከኩና የህጻኑን ወገብ በሁለቱም እጆ ይቀፉ \n• በጣቶ የተጎጂውን እምብርት ይፈልጉና ጣቶን በዚያ ያሳርፉ፤ ከዚያም አውራ ጣቶን ሌሎች ጣቶች ላይ በመደረብ እጆን ጠበቅ አድርገው ይጨብጡ\n• እጆን በሌላኛው እጆ ይደርቡና በፍጥነት ወደ ውስጥና ወደ ላይ በኃይል ይግፉት፡፡",
+      "isMain":true
+    },
+    {
+      "title":"ለጨቅላ ህጻናት",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ትን ያለውን ጨቅላ ህጻን አምስት ጀርባ ድለቃ እና አምስት የደረት ግፊትበየተራ ያድርጉ (ከታች በተገለፀው መልኩ)\n• መቀመጥ፤ መንበርከክ ወይም መቆም ይቻላል፡፡\n• በታፋዎት ጨንቅላቱን ይደግፉና ጭንቅላቱን ወደታች ያድርጉት",
+      "isMain":true
+    },
+    {
+      "title":"የጨቅላ ጀርባ ድለቃ",
+      "imageUrl":"assets/images/child_blow.png",
+      "vedioUrl":"",
+      "content":"• እጆን በህጻኑ ደረት ላይ አሳልፈው በጣቶቹ የህጻኑን አገጭ ይደግፉ\n• ህጻኑን በደረቱ ዘቅዝቀው በታፋዎት ላይ ካረጉ በኃላ በመዳፎ ጠንከር አድርገው በትከሻው መሃል ይምቱት፡፡",      
+      "isMain":true
+    },
+    {
+      "title":"የደረት ግፊት",
+      "imageUrl":"assets/images/child_chest_pressure.png",
+      "vedioUrl":"",
+      "content":"• በአንድ እጆ ጨቅላው በጀርባ በኩል ይቀፉት፤ በጣቶ ጭንቅላቱን ይደግፉት\n• እጅዎን ወደ ታች ዘቅዘቀ ያድርጉትና የህጻኑን ጭንቅላት ዝቀ እንዲል ያድርጉት \n• ሁለት ጣቶን በደረት አጥንቱ ላይ ያድርጉና ወደ 4 ሳ.ሜ የሚሆን ወደ ታች ጫን ያርጉትና ይልቀቁት፡፡\n• አምስት ጀርባ ድለቃ እና አምስት የደረት ግፊት በየተራ ህጻኑ በኃይል እስኪስል፤ እስኪያለቅስ ወይም እራሱን እስኪስት ድረስ ያድርጉ፡፡ ራሱን ከሳተና ምንም አይነት እንቅስቃሴ የማያሳይ ከሆነ ደግሞ ከታች የተገለጸውን ይተግብሩ፡፡",
+      "isMain":true
+    }
+   
+  ]
+},
+
+
+
+{
+  "name":"Fe'amuu",
+  "iconUrl":"assets/images/chocking.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Fe'amuun kan dhufu yeroo ujummoon qilleensa keenya guutummaan guutuutti yookaan cinaadhaan wantoota garagaraatiin cufamuudha. Namni fe'ame ariitiidhaan of wallaalee kufuu danda'a. kanaafuu hatattamaan gargaaruun baay'ee barbaachisaadha Daa'imma waggaa shanii (5) gadi ta'an immoo fe'amuudhaaf hedduu saaxilamoodha.Daa'imman wantoota naannoo isaanitti argaman gara afaaniitti geessuu baay'isu \n\n Baayisuu, wantoota gergara kan akka saantime, fuutuu, meshalee baredinee (warqee meetii), qadadaa peenaa, xaxerii, Caalee, Fikkf yeroo bayee ujummoo qilleensaa keenyee seenun fe'amuu fiduu. ",
+      "isMain":false
+    },   {
+      "title":"Mul’ata",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Rakkoo dhabamsisuuf\n• Barbaaachisaa taanaan wanta arifachiisaa ujummo qillensaa keessaa dhabamsisuuf (baasuuf) haala hospiitaalaa mijjessu",
+      "isMain":false
+    }, 
+    {
+      "title":"Gargaarsa duraa fe'amuudhaaf godhamu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Nama fe'ame tokko akka fe'ame gaafachuu, yoo daa'ima ta'e immoo boo'uu ykn sagalee baasuu isaa ilaaluu.\n• Yoo boo‟e, dubbate ykn humnaan qufa'e sirriitti akka qufa'u jajjabeessuu. \n• Namni dubbate/boo‟e harganuudhaaf qilleensa gahaa argata.\n• Haalli dhukkubsatichaa daran itti hammaachuu waan deemuf gargaarsa itti aanu kennuuf qophaa'uu qabna\n• Namni fe'ame garuu yoo sagalee qal'aa baase, qufa'uu yoo dadhabe ykn dubbachuu/ boo'uu yoo dadhabe, ujummoon qilleensaa guutummaan guutuutti cufamee waan jiruuf hatattamaan yoo hin banamne namni sun of wallaalee kufuu danda'a. kanaafuu namni isa waliin jiru dafee  irratti akka bilbilu gochisiisuu, ofii keessanii immoo gargaarsa duraa kennuuf qophaa'uu",
+      "isMain":true
+    },
+    {
+      "title":"Dugda rukutuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Rukuttaa dugdaa laachuuf nama miidhame sana irraa xiqqoo gara duubaa fagaadhaatii dhaabadhaa (daa'ima yoo ta'e jilbeeffachuun nurra jiraata)\n• Harka keessan tokko qoma miidhamaa jala dabarsaa (gargaarsa laachuuf) \n• Dhukkubsatticha dugdasaatiin akka gadi jedhu goochuun qaamni gubbaa akka gara fulduraa dhufu godha.\n• Barruu harkaatiin gateetti miidhamaa jiddu humnaan rukutaa",      
+      "isMain":true
+    },
+    {
+      "title":"hiibbaa karaa booddee miidhamaaf kennamu",
+      "imageUrl":"assets/images/h_maneuver.png",
+      "vedioUrl":"",
+      "content":"• Dhiibbaa kana laachuuf dugda duuba miidhamtichaa dhaabadhaa, miila keessan tokko isa biraa fuldura godhaa\n• Harka keessan lamaaniin dugda miidhamtichaa haammadhaa (daa'ima yoo ta'e jilbiifachuudhaan dugda isaanii harka lamaan haammachuu.) \n• Quba keesaniin handhuura miidhamtichaa barbaaduun argachuu, sanaan booda quba guddaa quboota biroo irraa gochuudhaan harka keessan jabeessitanii walitti qabuu\n• harka keessan kaan immoo isa duraa irra kaayuudhaan saffiisaan gara keessaafi gara olii humnaan dhiibuu",
+      "isMain":true
+    },
+    {
+      "title":"Daa'imman xiqqoodhaaf",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Daa'imman fe'amaniif yeroo shani (5) bukkuttaa dugdaafi yeroo shan dhiibbaa qomaa godhaa (akka arman gediti ibsameen)\n• Taa'uu, jilbeefachuu ykn dhaabbachuun ni danda'aama.\n• Mataa daa'imichaa sarbaa keessan irraa gochuun mataa isaa gara gadiitti akka gadi jedhu godhaa",
+      "isMain":true
+    },
+    {
+      "title":"ukkuttaa dugdaa daa'imaniif",
+      "imageUrl":"assets/images/child_blow.png",
+      "vedioUrl":"",
+      "content":"• Harka keessan qoma daa'imaa jala dabarsuun qubootaan boqoo(chin) daa'imaa qabaa.\n• Eerga daa'ima qomo isaattin gadi gombiffitanii sarba keessan irra gootani booddee barruu keessaniin gateetti isaa gidduu jabeesaatii rukutaa.",      
+      "isMain":true
+    },
+    {
+      "title":"Dhiibbaa Qomaa",
+      "imageUrl":"assets/images/child_chest_pressure.png",
+      "vedioUrl":"",
+      "content":"• Daa'imini akka harka keessan isa tokko irra kara dugdaan ciisu gochuun; mataa isaa quboota keessaniin qabadhaa.\n• Sanaan booda gadi gombisaatii akka mataan daa'imaa gara gadii aanu godhaa. \n• Quba keessan lamaan lafee qomaa irra godhaatii, waan saantimeetira afur (4cm) ta‟u gadi dhiibaatii gadhiisaa.\n• Rukkuttaa dugdaa yeroo shani fi dhiibbaa qoma yeroo shani wal-jijjiiraa hanga daa'imni humnaan qufa'u, boo'u ykn of-wallaalutti itti fufaa. Yoo daa'imini of-wallaale fi sochii tokkoyyuu kan hinagarsiifne ta'e waan armaan gaditti ibsamee godha.",
+      "isMain":true
+    }
+   
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Heart Attack",
+  "iconUrl":"assets/images/heart.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"A heart attack is most commonly caused by a sudden obstruction of the blood supply to part of the heart muscle—for example, because of a clot in a coronary artery (coronary thrombosis). It can also be called a myocardial infarction. The main risk is that the heart will stop beating ",
+      "isMain":false
+    },   {
+      "title":"SYMPTOMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Chest pain\n• Difficulty breathing\n• Sweating and dizziness\n• Nausea and vomiting\n• Fatigue\n• Paleness, darkening of the lips and fingers\n• Fainting\n• Symptoms of heart attack on female, elderly people and on diabetic people might not show different symptoms or no symptoms at all. ",
+      "isMain":false
+    }, 
+    {
+      "title":"YOUR AIMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• To ease the strain on the casualty’s heart by ensuring that he rests\n• To call for urgent medical help without delay",
+      "isMain":false
+    },
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Call for emergency help\n• Make the casualty as comfortable as possible to ease the strain on his heart. A half sitting position, with his head and shoulders supported and his knees bent, is often best. Place cushions behind him and under his knees.\n• If the casualty has angina medication, such as tablets or a pump-action or aerosol spray, let him administer it; help him if necessary. Encourage him to rest\n• Monitor and record vital signs—level of response, breathing, and pulse —while waiting for help. Stay calm to avoid undue stress.",      
+      "isMain":true
+    }
+    
+   
+  ]
+},
+
+
+
+
+
+
+
+{
+  "name":"ልብ ድካም",
+  "iconUrl":"assets/images/heart.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"የልብ ድካም የሚከሰተው ወደ ልብ ጡንቻዎች የሚዘዋወረው ደም ሲቆረጥ ነው፡፡ የሚዘዋወረው ደም ሲቆረጥ ወደ ልብ መሄድ ያለበት ኦክስጅንና ሌሎች ጠቃሚ ንጥረ ነገሮች ስለማይደርሱ የልብ ህዋሶች በቋሚነት ይጎዳሉ፡፡ የልብ ድካም ምልክቶችን ባዮበት ፍጥነት ወደ ህክምና ተቆም መሄድ ይኖርቦታል፡፡",
+      "isMain":false
+    },   {
+      "title":"የልብ ድካም ምልክቶች",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የደረት ህመም፡ የህመሙ ደረጃ ከትንሽ እስከ ከባድ ሊሆን ይችላል፤ ታማሚው ደረቱ ላይ መክበድ፣ መጨምደድ፣ መግፋት ሊሰማው ይችላል፤ ህመሙ ከ3 እስከ 5 ደቂቃ የሚቆይ ወይም ሄድ መለስ የሚል ይሆናል፤ የልብ ድካምን ህመም ከቃር ጋር ሊመሳሰል ይችላል፡፡ ህመሙ የአቀማመጥ ቦታን በመቀያየር አይጠፋም፡፡ የህመሙ ምልክት ወደ ትከሻዎች፣ አገጭ፣ አንገት መሰራጭት ሊኖረው ይችላል፡፡\n• ለመተንፈስ መችገር፣ ትንፋሽ መቆራረጥ፣ ቶሎ ቶሎ መተንፈስ\n• በላብ መዘፈቅ፣ ማዞርና ድንግዝግዝ ማለት\n• ማቅለሽለሽና ማስመለስ\n• ድካም ድካም ማለት\n• መገርጣት፣ ከንፈርና ጣቶች አካባቢ መጥቆር\n• ራስን መሳት\n• የልብ ድካም ምልክቶች በሴቶች፣ በአዛውንቶች እና በስኳር ታማሚዎች ላይ የተለየ ምልክቶች ወይም ከነ ጭራሹም ምልክት ላያሳዩ ይችላሉ፡፡ ",
+      "isMain":false
+    }, 
+    {
+      "title":"አላማ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ማረፉን በማረጋገጥ በታማሚው​ልብ ላይ ያለውን ጫና ለማቃለል\n• በአስቸኳይ የህክምና እርዳታ ያለ መዘግየት ለመጥራት",
+      "isMain":false
+    },
+    {
+      "title":"የልብ ድካም የመጀመሪያ  እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የልብ ድካም ምልክቶችን ካዩ lእርዳታ ይደውሉ፤ እርዳታን ይጠይቁ\n• የታመመውን ሰው ስራ ላይ ከሆነ አስቁመው፣ ቁጭ ያርጉት\n• የሚያስጨንቅ/የሚወጥር ልብስ ካላ ላላ ያድርጉለት\n• ታማሚውን ያረጋጉት፣ ያበረታቱት (ጭንቀት በሽታውን ያባብሰዋል)\n• ከዚህ በፊት የልብ ድካም ታማሚ ከነበረ፤ ለህመም ማስታገሻ መድሃኒት የሚወስድ ከነበረ (እንድ ናይትሮግላይሰሪን) እርሱን በትዛዙ መሰረት ይስጡት\n• ታማሚው መዋጥ የሚቸል ከሆነ አስፕሪን 81 ሚሊግራም 4 ፍሬ ወይም 325 ሚሊግራም 1 ፍሬ ይስጡት\n• እርዳታ እስኪመጣ ታማሚውን በደንብ ይከታተሉት\n• ታማሚው ልቡ መምታት ካቆመ እስትንፋስ ለመስጠትና ኣኢዲ ለመጠቀም ይዘጋጁ፡፡",      
+      "isMain":true
+    }
+    
+   
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Dadhabu Onnee",
+  "iconUrl":"assets/images/heart.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Dadhabbuun onnee kan muudatu dhiiyni gara maashaalee onnee naanna‟u yoo adda citudha. Dhiiyni naanna‟u yoo addaan citu oksijiinaa fi albuudoonni barbaachisoon waan gara onnee hin geenyeef seeliin onnee dhaabbataan miidhama. Mallattoolee dadhabina onnee yoo mul‟atan daftanii gara mana yaalaa deemuun barbaachisaadha",
+      "isMain":false
+    },   {
+      "title":"Mallattoolee dadhabuu onnee",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Dhukkubbii qomaa: dhukkubbiin sadarkaa salphaa hanga cimaa tahuu dandaha. Qomni ofii namatti ulfaachuu, waan akka micciramuu fi gadi dhiibuun namatti dhagahamuu danda‟a. Dablataaniis ceekuu, morma fi harka karaa bitaatti illee dhagahamuu kan danda‟u yoo ta‟u haala taa‟umsaa ykn ciisichaa jijjirachuun kan wayya‟u/badu miti. Dhukkubbiin isaa daqiiqaa 3-5 kan turu ykn kan dhufee badu taha. Akkasumas mallatto dhibee garaachaatiin ille wal fakkatee uumamuu ni danda‟a.\n• Hafuura baafa chuuf rakkachuu, hafuurii cituu fi hargensisuu\n• Huurkuu, lafti namaan maruu fi ijji dimimmisuu\n• Lollooccisuu fi haqqisiisuu ykn beleqamfisuu\n• Dadhabsiisuu\n• Daalachaa‟uu hidhii fi naannoon qubbeenii gurraacha‟u\n• Gaggabuu\n• Mallattooleen dadhabuu onnee namoota dullooman, dhalaa fi namoota dhukkuba sukkaraa qaban irratti mallattoo addaa ykn ammo mallattuma takkalleehuu agarsiisuu dhabuu dandahu akka tasaa mallattoo melee dhukune onnek sexilamu danda'uu ",
+      "isMain":false
+    }, 
+    {
+      "title":"Mul’ata",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Tasgabeessuu dhaan dliibee onnee dhukkubsatatii dhufu hirisuu\n• Bodeetii harkifachu tajajila yeelii jalqebe hirisuuf",
+      "isMain":false
+    },
+    {
+      "title":"Gargaarsa jalqabaa dadhabuu onnee",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Mallattoolee dadhabbii onnee yoo argitannii hatattamaan gara 907 bilbilaa gargaarsa gaafadhaa\n• Namni dhukkube yoo hojitti jiraate dhaabsisaa teessisaa\n• Uffanni qabu ykn-rakkisu yoo irra jiraate irraa laaffisaa\n• Dhukkubsataa tasgabbeessaa, jajjabeessaaa (yaaddoon dhukkubicha hammeessuu danda‟a)\n• Yoo amma dura dhukkubsataa onnee tahee dawaa/qoricha fudhataa jiraate (kan akka naaytiroogilaayseriin) akkuma ajajameefitti kannaafii\n• Dhukkubsataan yoo liqimsuu dandahe Aspirin 81mg firii 4 ykn 325mg firii 1 kannaafi\n• Gargaarsi hanga dhufuufitti dhukkubsataa sirritti hordofaa\n• Dhahannaan onnee dhukkubsataa yoo kan dhaabbattu taate dhahannaa onnee fi hafuur baafannaa(CPR) deebisuu fi AED fayyadamuuf qophaahaa.",      
+      "isMain":true
+    }
+    
+   
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Unconsciousness",
+  "iconUrl":"assets/images/unconcious.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"On discovering a collapsed casualty, you should first make sure the scene is safe and then establish whether he is conscious or unconscious. Do this by gently shaking the casualty’s shoulders. Ask\n• “What happened?”\n• or give a command such as, “Open your eyes.”\n• Always speak loudly and clearly to the casualty",
+      "isMain":false
+    }, 
+    {
+      "title":"IF THERE IS A RESPONSE",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"If there is no further danger, leave the casualty in the position in which he was found, check for life threatening injuries, and summon help if needed",
+      "isMain":false
+    }, 
+    {
+      "title":"HOW TO PLACE CASUALTY IN RECOVERY POSITION",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" If the casualty is found lying on his side or front, rather than his back, not all the following steps will be necessary to place him in the recovery position.",
+      "isMain":false
+    },
+    {
+      "title":"SPECIAL CASE RECOVERY POSITION FOR SUSPECTED SPINAL INJURY",
+      "imageUrl":"assets/images/unconcious1.png",
+      "vedioUrl":"",
+      "content":"If you suspect a spinal injury and need to place the casualty in the recovery position, try to keep the spine straight. &lt;br>&lt;\nIf you have a helper, one of you should steady the head while the other turns the casualty (right).",      
+      "isMain":false
+    },
+     {
+      "title":"IF THE CASUALTY IS NOT BREATHING",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"1. Send a helper to call for emergency help.&lt;br>&lt;\n2. Begin CPR with chest compressions",      
+      "isMain":false
+    },
+    {
+      "title":"HOW TO GIVE CPR",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"1. Call for emergency or ask someone else to\n2. Lay the person on their back and open their airway.\n3. Check for breathing. If they are not breathing, start CPR.\n4. Perform 30 chest compressions.\n5. Perform two rescue breaths.\n6. Repeat until an ambulance or automated external defibrillator (AED) arrives.",      
+      "isMain":false
+    },
+    {
+      "title":"ABCDE OF LIFE",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" The procedure we use to diagnose a person who has lost consciousness is as follows:",      
+      "isMain":true
+    },
+    {
+      "title":"A-AIRWAY",
+      "imageUrl":"assets/images/abcde_a.png",
+      "vedioUrl":"",
+      "content":"•Let us call out the name of the victim or ask their name.\n• If there is no answer, let's examine the airways.\n• Open the mouth carefully (as shown in the picture) by holding the chin.\n• If there is any blood clots, broken tooth and any foreign body in the mouth cavity, lets try to remove it only if it is visible.\n• When examining the airway, care must be taken not to move the spine as much as possible. If there is a neck collar, it is necessary to apply it ; If not, let's roll the soles of our shoes tightly around the neck (as shown in the picture)",      
+      "isMain":true
+    },
+    {
+      "title":"B–BREATHING",
+      "imageUrl":"assets/images/abcde_b.png",
+      "vedioUrl":"",
+      "content":"• After inspecting the airway and tightening the collar, make sure the victim is breathing; We do this by hearing, seeing, and touching.\n• See if the patient's chest is raised and lowered to see.\n• Listen carefully as the air comes in and out (as shown in the picture)\n• When you touch, notice the air coming out of the person on your cheek and touching you",
+      "isMain":true
+    }, 
+    {
+      "title":"C-CIRCULATION",
+      "imageUrl":"assets/images/abcde_c.png",
+      "vedioUrl":"",
+      "content":" Make sure the injured person has a pulse around major blood vessels by palpating. If the victim is an adult, make sure there is pulse around the neck or the groin area. If it is a child, check z pulse inside the elbow(as shown in the picture). If you hear a pulse when pressed in these places, it means that the person has blood circulation; if not, there is no blood transfusion. So start CPR.",
+      "isMain":true
+    },
+    {
+      "title":"D-Disability",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• If altered mental status, no trauma, ABCDEs otherwise norma l ,place in RECOVERY POSITION&lt\n• If altered mental status, low glucose  -see hypoglycemia\n• If actively seizing, see seizure.",
+      "isMain":true
+    },
+    {
+      "title":"E-EXPOUSRE",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• You may need to remove or cut away clothing to examine and/or treat the injury.",
+      "isMain":true
+    }
+  ]
+},
+
+
+
+
+
+
+{
+  "name":"ራሱን የሳተን ሰው መመርመር",
+  "iconUrl":"assets/images/unconcious.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"የመጀመሪያ እርዳታን ከመስጠታችን በፊት የተለያዩ መረጃዎችን መሰብሰብ በቀጣይ ለምናደርገው እርዳታ ወሳኝ ነው፡፡ ይህንንም ለማድረግ የሚከተለውን እንጠቀም፡፡ \nግለሰቡ አይኑን መክፈት መቻሉን እንዲሁም ለጥያቄዎቹ መልስ መስጠቱን ይዩ\n\nግለሰቡ አይኑን መክፈት መቻሉን እንዲሁም ለጥያቄዎቹ መልስ መስጠቱን ይዩ\n• ስምህ ማን ነው?\n• የት ነው ምትኖረው?\n• እድሜህ ስንት ነው?\n• ከታች ያሉትን ትእዛዛት መፈፅም መቻሉን\n• እጄን ጨብጥ\n• እጅህን/እግርህን አንቀሳቅስ\n• ከላይ ላሉት ምላሽ ከሰጠ ተጎጂው ራሱን አልሳተም ማለት ነው፡፡ ራሱን ካልሳተ በማገገሚያ አቀማመጥ መሰረት ያስቀምጡት",
+      "isMain":false
+    },
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" የ”አመዝጉሌ” ተግባራት \nአንድን  ራሱን  የሳተ  ሰው  ለመመርመር  የምንጠቀምበት  ቅደም  ተከተል  ከታች  የተገለፀው  ሲሆን ይህንንም በቀላሉ ለማስታወሰ የ”አመዝጉሌ” ተግባራት ብለነዋል፡፡",      
+      "isMain":true
+    },
+    {
+      "title":"አ፡ የአየር ቱቦ፡",
+      "imageUrl":"assets/images/abcde_a.png",
+      "vedioUrl":"",
+      "content":"• ጉዳት የደረሰበትን ሰው ጮክ ብለን ስሙን እንጥራ፡፡\n• ከዚያም ምንም አይነት መልስ ማይሰጠን ከሆነ የአየር መተላለፊያ አካላቱን እንመርምር፡፡\n• ይህም በጥንቃቄ የአገጩን ጠርዝ በመያዠ አፉን ይክፈቱ (በምስሉ እንደሚታየው)፡፡\n• ውስጡ ያለ  የረጋ ደም፣ የጥርስ ስባሪ፣ እና  ማንኛውም በአድ ነገር ካለና በቅርብ እርቀት ላይ ከሆን እናውጣ፡፡\n• ይሁንና ወደ ውስጥ ያለና በጣቶቻችን ማንደርስበት ከሆን ለማውጣት አይጣሩ፡፡\n• የአየር  ቱቦን  ስንመረምር  በተቻለ  መጠን  የአከርካሪ  አጥንቶቸን  እንዳይንቀሳቀሱ መጠንቀቅ  ያስፈልጋል፡፡  የአንገት  መደገፊያ  ካለ  ማሰር  ያስፈልጋል፤  ከሌለም  የጫማችን ሶል ገልብጠን በአንገቱ ግራና ቀኝ ጠበቅ አድርገን እንሰር፡፡\n• የአንገት  መደገፊያ  አስተሳስር፡የአንገት  መደገፊያ  ለማሰር  አጠገቦ  ያለ  ሰው  እርዳታን ይጠይቁ፡፡ አንድ ሰው ከተጎጂው በራስጌ በኩል ይቆምና ሁሉቱንም እጆቹ ዘርግቶ ጣቶቹን በተጎጂው ትከሻ ስር ያሳልፍ፤ በክንዶቹ ደግሞ የተጎጂው አንገት እንዳይንቀሳቀስ ያድርግ፡፡ ሌላ ሰው ደግሞ ትክክለኛወን መደገፊያ በመለካት አንገቱ ላይ ይሰር፡፡ ተስተካክሎ በተያዘ አንገት  ከአገጩ  እስከ  ደረት  አጥንቱ  ያለውን  ርቀት  በመለካትና  የአንገት  መደገፊያውን በተመሳሳይ አቅጣጫ በመለካት ትክክለኛውን መጠን መምረጥ ይቻላል፡፡",      
+      "isMain":true
+    },
+    {
+      "title":"መ፡ መተንፈስ፡",
+      "imageUrl":"assets/images/abcde_b.png",
+      "vedioUrl":"",
+      "content":"• የአየር ቱቦውን ከመረመርንና የአንገት መደገፊያን ካሰርን  በኃላ  እየተነፈሰ  መሆኑን  እናረጋግጥ፤ ይህንንም ምናደርገው በመስማት፣ በማየት እና በመንካት ነው፡፡\n• ማየት ሲባል የታማሚውን ደረት ከፍ ዝቅ እያለ መሆኑን ይመልከቱ፡፡\n• መስማት ሲባል ደግሞ አየር ሲወጣና ሲገባ ጠጋ በለው በምስሉ እንደሚታይው ያዳምጡት፡፡\n• መንካት ስንል ደግሞ ጉንጮት ላይ ከግለሰቡ የሚወጣውን አየር ሲያርፍና ሲነካዎት ያስተውሉ፡፡",
+      "isMain":true
+    }, 
+    {
+      "title":"ዝ፡ የደም ዝውውር፡",
+      "imageUrl":"assets/images/abcde_c.png",
+      "vedioUrl":"",
+      "content":" ጉዳት  የደረሰበት  ሰው  የደም  ዝውውር  እንዳለው  ትልልቅ  የደም  ስሮችን  ነክተው ያረጋግጡ፤  ይህንንም  ለማድረግ  አዋቂ  ከሆነ  አንገቱ  ስር  ወይም  ብሽሽቱ  ስር  ጨቅላ ከሆነ ደግሞ በውስጥ ክርን በኩል የደም ዝውውር እንዳለው ያረጋግጡ፡፡ እነኚህ ቦታዎች ላይ ሲጫኑ የስር ትርታ ከሰሙ፣ ግለሰቡ የደም ዝውውር አለው  ማለት ነው፤ ከሌለው ደግሞ  የደም  ዝውውር  የለውም  ማለት  ነው፡፡  ስለዚህ  እስትንፋስ  መስጠት  ይጀምሩ (ለበለጠ እስትንፋስ መስጠት የሚለውን ይመልከቱ)",
+      "isMain":true
+    },
+    {
+      "title":"ጉ፡ ተጨማሪ ጉዳቶች:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የግለሰቡን ንቃት ይመርምሩ፡፡ ብዙ አይነት የንቃት መመርመሪያ መስፈርቶች አሉ፤ \n• ከታች በተገለጽው መልኩ መርምረው የንቃቱን ደረጃ ያስቀምጡ፡፡\n• ንቁ፡ ተጎጂው በራሱ አይኑን ይገልጣል፤ ሲያዋሩትም ምላሽን ይሰጣል፡፡ (ምላሹ ትክክለኛ ሊሆንም ላይሆንም ይችላል፡፡)\n• ድምጽ፡ተጎጂው ድምፅ ሲሰማ ብቻ አይኑን ይገልጣል፡፡\n• ህመም፡ ተጎጂው ህመም እንዲሰማው ስናደርግ ብቻ እንቅስቃሴ /ምላሽን ይሰጣል፡፡\n• ራሱን የሳተ፡ምንም አይነት ምላሽ ማይሰጥ ከሆነ ራሱን የሳተ እንለዋለን፡፡\n• የደም ስኳር መለኪያ ካለ ይለኩ፤ በውጤቱም መሰረት ቀጣይ እርምጃን ይውሰዱ (ለበለጠ ስኳር ማነስ የሚለውን ክፍል ይመልከቱ)",
+      "isMain":true
+    },
+    {
+      "title":"ሌ፡ ሌሎች፡",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ሌሎች ተጨማሪ ጉዳቶች ካሉ ከላይ እስከ ታች መርምረው ይዩ፡፡\n• እያንዳንዱን የሰውነት ክፍል ጉዳት እንደደረሰበት በጥንቃቄ ይመርምሩ፡፡\n•  ገልብጠውም ጀርባውን ማየት እንዳይረሱ\n• ጉዳት  ካገኙ  ደግሞ  ተጨማሪ  እርዳታን  መጥራት  እንዳለቦት  ይወስኑ፤  ተጎጂውን በሚመች አኳሃን ያሳርፉት፤ የሚያስፈልገውን እርዳታ በጉዳቱ መጠን ይስጡ፡፡",
+      "isMain":true
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+{
+  "name":"Nama of wallaale waldhaanuu",
+  "iconUrl":"assets/images/unconcious.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Gargaarsa jalqabaa kennuu keenyaan dura, odeeffannoo garagaraa walitti qabuun gargaarsa taasifnuuf murteessaa dha. Kana godhuufis haala armaan gadii fayyadamna. \nNamichi miidhame ija banachuu danda‟uu isaa fi gaafii dhaaf deebii kennuu isaa laalaa\n\nNamichi miidhame ija banachuu danda‟uu isaa fi gaafii dhaaf deebii kennuu isaa\n• Maqaan kee eenyu\n• Eessa jiraatta? \n• Umriin kee meeqa?\n• Ajajoota armaan gadii raawwachuu danda‟uu isaa\n• Harka koo qabi\n• Harka kee/ miila kee sossoosi",
+      "isMain":false
+    },
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" Nama of wallaale tokko qorachuuf adeemsi gaggeessinu akka armaan gadii kana fakkaataNama of wallaale tokko qorachuuf adeemsi gaggeessinu akka armaan gadii kana fakkaata",      
+      "isMain":true
+    },
+    {
+      "title":"A. Ujummoo Qilleensaa:",
+      "imageUrl":"assets/images/abcde_a.png",
+      "vedioUrl":"",
+      "content":"• Nama miidhaan irra gahe sagalee ol kaafnee waamna \n• Ergasiin booda deebii kamiyuu yoo nuf hin deebisne qaamolee haargansuu qoranna.\n• Kunis of eeganoodhaan areeda/malloolee isaa qabuun afaan isaa nii banna. (akka fakkii irratti mul‟atutti).\n• Afaan keessa dhiigni itite, ilkeen cabe fi wanti biraa kamiyyuu alagaa ta‟e yoo jiraate fi dhihoo yoo ta‟e kessaa baasi.\n• Haa ta‟uu malee wantichi gara keessaa yoo jiraate fi qubaan itti hin geenyu yoo ta‟e baasudhaaf hin yaalin.\n• Qaamolee haargansuu gaafa qooranu lafeeleen mormaa akka hin sochoone of eeguun barbaachisaadha. Wanta moorma ittin deeggarru yoo dhabnee sooli kophee kenyaa gara galchinee morma isaa mirga fi bitaa irratti jabeesine hiina. \n• Akkaataa morma deeggaruuf itti hiinu: deeggartuu morma hidhuudhaaf gargaarsa nama naannawa kee jiruu gaafadhu. Namni tokko gara mataa miidhamaa biraan dhaabatee haarka isaa lameen diriirsun quuba isaa qoma irra kaa‟udhaan ciqilee isaatiin immoo mormi dhukubsataa akka hin sochoone yaa taasisnu. Namni biraa immo deeggartuu mormaa dheerina isaa sirriitti safaruun morma isaa irratti haa hidhu. Morma sirraa‟e qabamee irratti dheerina areeda/malloolee irraa haanga lafee qoomaatti jiru safaruun deeggartuu mormaa kallattii walfakkaataan safaruun dheerina sirrii safaruun ni dand‟ama.",      
+      "isMain":true
+    },
+    {
+      "title":"B. Haarganuu:",
+      "imageUrl":"assets/images/abcde_b.png",
+      "vedioUrl":"",
+      "content":"• Qaamoota haargansuu eerga qorannee deeggartuu mormaa hiineen booda namtichi harganaa/ haafura baasaa akka jiru haa mirkaneessinu. Kanas mirkaneessuu kan dandeenyu dhaggeeffachuu, ilaaluu fi tuquudhaan ta‟a.\n• Ilaaluu yoo jennu qomni miidhamaa oli fi gad sochoo‟aa akka jiru ilaaluu dha.\n• Dhaggeeffachuu yoo jeenu immoo qilleensi gaafa seenuufi bahu itti siqanii caqasuudha (akka fakki irrati mul‟atuuti).\n• Tuquu yoo jennu immoo qilleensi dhukkubsataa irraa bahu mallaa kee gaafa tuqu.",
+      "isMain":true
+    }, 
+    {
+      "title":"C. Marsaa dhigaa፡",
+      "imageUrl":"assets/images/abcde_c.png",
+      "vedioUrl":"",
+      "content":" Namni midhaan irra gahee marsaan dhiiga isaa akka jiru ujummolee dhiigaa gurguddoo tuquun mirkaneessi. Kana gochuuf nama daa‟ima hin taaneef morma isaa jala, yoo daa‟ima ta‟e immo ciqilee gara keessaatiin marsaan dhigaa akka jiru mirkaneessi. Naannawaa qaamolee kanaa dhawannaa ujummoo dhiigaa yoo dhageese midhamaan marsaa dhiigaa ni qaba jeechuudha. Yoo hin qabaanne immoo marsaa dhiigaa hin qabu jechuudha. Kanaafuu qilleenssa kennuu jalqabi. (dabalataaf haargansuu/qilleenssa kennu kan jedhu dubbisi)",
+      "isMain":true
+    },
+    {
+      "title":"D. Miidhaa Dabalataa:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\n• Dammaqina midhamaa madaali. Ulaagaaleen ittiin dammaqina safarru heedduun jiru.\n• Akkaataa armaan gadiin qorachuun sadarkaa damaqiina isaa murteesi. \n• Damaqaa: miidhamaan ija isaa ofi banuu danda‟a, yoo haasooysiisan deebii ni deebisa. (deebiin isaa sirrii ta‟uus ta‟u dhabuus danda‟a).\n• Sagalee: miidhamaan gaafa sagalee dhaga‟u qofa ija isaa bana. \n• Dhukkubbii: miidhamaan gaafa dhukkubiin akka itti dhagaahamu taasifnu qofa sochii/ deebii agarsiisa. \n• Kan of wallaale: sochii kamiyyuu yoo hin qabaanne yookiin deebii kamiyyuu yoo hin keennine of wallaalee jira jedhama. \n• Meeshaan hamma sukkaara dhiiga keessa jiruu ittiin safarru yoo jiraate, safarree haa barru. Bu‟aa isaa irrattis hundaa‟un tarkaanfi itti aanu haa fudhannu. (Dabalataaf hir‟achu sukaraa kan jedhu ilaali.)",
+      "isMain":true
+    },
+    {
+      "title":"E. Kan biraa፡",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"1 Miidhaaleen dabalataa biroo yoo jiraatan gubbaa haanga gadiitti qorachuun ilaali.\n2 Qaamolee tokko tokkoon isaani midhaan akka irra gahee of eeggannoon qoradhu.\n3 Garagalchani dugda duuba isaas ilaaluun barbaachisaadha.\n4 Yeroo qorannoo, miidhaa yoo agarte gargaarsa dabalataa waamuun akka barbaachisu murteessi; miidhamaa akkaataa mijjaa‟utti boqochiisi. Gargaarsa barbaachisu sadarkaa miidhaa irratti hundaa‟uun kenni.",
+      "isMain":true
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Seizure",
+  "iconUrl":"assets/images/brain.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"A seizure, also called a convulsion, consists of involuntary contractions of many of the muscles in the body. The condition is due to a disturbance in the electrical activity of the brain. Seizures usually result in loss or impairment of consciousness. \n\nThe most common cause is epilepsy. Other causes include head injury, some brain-damaging diseases, shortage of oxygen or glucose in the brain, and the intake of certain poisons, including alcohol or drugs",
+      "isMain":false
+    },
+    {
+      "title":"YOUR AIMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• To protect the casualty from injury during the seizure\n• To care for the casualty when consciousness is regained and arrange removal to the hospital if necessary",      
+      "isMain":false
+    },
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Make space around the casualty, and ask bystanders to move away. Remove potentially dangerous items, such as hot drinks and sharp objects. Note the time that the seizure started\n• Protect the casualty’s head from objects nearby; place soft padding such as rolled towels underneath or around his neck if possible. Loosen tight clothing around his neck if necessary.\n• When the convulsive movements have ceased, open the casualty’s airway and check breathing. If he is breathing, place him in the recovery position.\n• Monitor and record his vital signs—level of response, breathing, and pulse —until he recovers. Make a note of how long the seizure lasted.",      
+      "isMain":true
+    }
+    
+  ]
+},
+
+
+
+
+
+
+{
+  "name":"የሚጥል በሽታ",
+  "iconUrl":"assets/images/brain.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"የሚጥል በሽታ የሚከሰተው አንጎላችን በተዛባ መልኩ መልእክት ወደ የተለያዩ የሰውነታችን ክፍሎች ሲለቅና ይህንንም ተከትሎ የተለያዩ እንቅስቃሴን ሲያረግ ነው፡፡ \nየሚጥል በሽታ በተለያዩ ምክንያቶች ሊከሰት ይችላል፣ ከነዚህም መካከል ኢፒለፕሲ፣ ትኩሳት፣ ኢንፌክሽን፣ የጭንቅላት ላይ አደጋዎች ወዘተ ናቸው፡፡ \nየሚጥል በሽታ ሲከሰት በአብዛኛውን ታማሚው ራሱን ይስታል፡፡ በአጠቃላይ የሚጥል በሽታ ለጥቂት ደቂቃ ብቻ ይቆያል፤ ነገር ግን ከአምስት ደቂቃ በላይ ካንቀጠቀጠው ወይም ደጋግሞ ካንቀጠቀጠውና  በመሃሉ ራሱን እንደሳተ ከቆየ እስታትስ ኢፒለፕቲከስ (status epilepticus) ይባላል፡፡ ይህም አደገኛ ነው ምክንያቱም የአንጎላቸንንህዋስ በቆሚነት ይጎዳል፡፡ \n\nብዙ አይነት የሚጥል በሽታ ሲኖሩ ለምሳሌ ግራንድ ማል ሲዥር የሚባለው ሲከሰት ተጠቂው ራሱን ይስታል፣ እጅና እግሮቹን ያወራጫል፣ አይኖቹን ይገልብጣል፣ አረፋ ይደፍቃል፡፡ አብሰንት ሲዥር የሚባለው ደግሞ ታማሚው ለጥቂት ቅስፈት ራሱን ይስታል ነገር ግን ማንቀጥቅጥ አይኖረውም፡፡የሚጥል በሽታ ያለብት ሰው ማንቀጥቀጡ ከመምጣቱ በፊት የሚሰማቸው ቅድም ምልክት ይኖራል፤ ይህም ሲሆን አጠገባቸው ላለ ሰው ነግረው አደጋ በማይፈጥር ቦታ ቁጭ ማለት ይኖርባቸዋል፡፡",
+      "isMain":false
+    },
+    {
+      "title":"ከታች የተዘረዘሩት ካሉ በአፋጣኝ ወደ አምቡላንስ  ይደውሉ ወይም ወደ ጤና ተቆም ይዘው ይሂዱ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የማይውቁት ታማሚ ከሆነና ተጎዳኝ ህመም እንዳለው እማይታወቅ  ከሆነ\n• ማንቀጥቀጡ ከ 5 ደቂቃ በላይ የሚቆይ ከሆነ ወይም ተጠቂው ሳይነቃ ማንቀጥቀጡ የሚደጋገም ከሆነ\n• በማንቀጥቀጡ ወቅት ታማሚው አደጋ ከደረሰበት\n• ታማሚው የማይተንፍስ ከሆነ\n• ነፍሰ ጡር ከሆነች\n• ስኳር በሽተኛ ከሆነ\n• ህጻናት ሆንው ማንቀጥቀጡ በሃይለኛ ትኩሳት ከመጣ\n• በእድሜ የገፋ ከሆነ",      
+      "isMain":false
+    },
+    {
+      "title":"የሚጥል በሽታ የመጀመሪያ  እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ይረጋጉና ከታማሚው ጋር ይቆዩ\n• ምግብ ወይም መጠጥ በታማሚው አፍ ውስጥ ካለ ወደ አየር ቱቦ እንዳይገባ ታማሚውን በጎን ያስተኙት\n• የሚንቀጠቀጠውን ታማሚ ማንቀጥቀቱን ይዘው ለማቆም አይሞክሩ\n• ማንቀጥቀጡ እስኪ ቆም እየጠብቁ አካቢያቸው ካለ አደጋ ሊፈጥር ከሚችል ነገር  ይጠብቁዋቸው\n• ለስለስ ያለ ነገሮች አንገታቸውና ጭንቅላታቸው ስር ያኑሩ\n• በተለምዶ እንደሚደርገው የክብሪት ጭስ የምሳሰሉትን አይጠቀሙ\n• ምላስ ይውጣል በሚል ምክንያት በጥርሶቻቸው መሃከል እንጨትና የመሳሰሉትን ማስገባት ተገቢ አይደልም፣ ይበልጡኑ ለማስገባት ስንታገል የጥርሶች መሰብር እንዲሁም እንጨት ሊሰበርና ወደ አየር ቱቦ ገብቶ ትንታን ሊፈጠር ይችላል፡፡\n• የማንቀጥቀጡን ርዝመት ከቻሉ ሰዓት ይዘው ይመዝገብት፡፡\n• ማንቀጥቀጡ ካቆመ በኃላ ታማሚውን በሪከቨሪ አቀማመጥ ያድርጉዋቸው (ምስልላይ እንድሚታየው)\n• ከላይ እስከ ታች በማንቀጥቀጡ ምክንያት የደረሰ ጉዳት ካለ ይመርምሩ\n• ታማሚው መተንፍስ ካቆመ ትንፋሽ መስጠት ይጀምሩ (ለበለጠ ትንፋሽ አሰጣጥ የሚልውን ይመልከቱ)",      
+      "isMain":true
+    }
+    
+  ]
+},
+
+
+
+
+
+
+{
+  "name":"Gaggaba/doo",
+  "iconUrl":"assets/images/brain.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Dhukkubni gaggabaa/doo kan uumamu yeroo sammuun keenya dogoggora ta’een gara kutaa qaamaa garagaraatti ergaa yeroo dabarsuu fi sana hordofee sochiilee hin barbaachisne godhuudha. \nDhukkubi kunis sababoota garagaraatin kan dhufu yoo ta’u isaan keessaa muraasi; eppilepsii, hoo’a qaamaa (leeqdaaa), dhukkuboota daddarboo (infeekshinii), balaan sammuurra gahuu fi k.k.f fa’i.  \nDhukkubbiin kun yoo uumame namni gaggaba qabu of wallaala. Walumagalatti daqiiqaa yartuuf qofa tura. Dhukkubichi daqiiqaa shanii ol yoo ture ykn amma amma irra deddeebiin yoo gaggabse ‘istaatas eppiliptikus’ (status epilepticus) jedhamuun kan beekamu yoo ta’u hammaataa fi sammuu namaarraan dhiibbaa kan geessisu ta’a. \n\nDhukkubni gaggabaa kun gosoota hedduu qabaachuu mala. Fakkeenyaaf, giraandi maal siizjar kan jedhamu yoo uumamu dhukkubsatichi of wallaala, harkaa fi miila facaasa, ija ol garagalcha, hoomacha afaaniin yaasa. Absansi siizjar kan jedhamu immoo namni dhukkuba qabu sekondii muraasaaf qofa of wallaala, hurgufamuu hin qabaatu. \nNamoonni dhukkuba gaggabaa qaban yeroo gaggabni itti dhufuuf jedhu mallattooleen dursanii agarsiisuu malan. Mallattoon kunneen yoo itti dhagahaman nama isaan wajjin jirutti himuu fi bakka balaan irra hin geenye ta’uu qabu. ",
+      "isMain":false
+    },
+    {
+      "title":"Wantoonni armaan gaditti eeraman yoo jiraatan gara 907 bilbilaa ykn gara mana yaalaatti hatattamaan geesssaa",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Dhukkubsataa isin hin beekne yoo ta‟ee fi dhukkuba biroo qabaachuun hin beekamu yoo ta‟e. \n• Gaggabi daqiiqaa shanii fi isaa ol yoo ture ykn dhukkubsatichi osoo deebi‟ee of hin barin deddeebi‟ee yoo gaggabe\n• Yeroo gaggabaa balaan irra gahe yoo jiraate \n• Afuura baafachuu hin danda‟u yoo ta‟e \n• Dubartii ulfaa yoo taate \n• Nama dhukkuba sukkaaraa qabu yoo ta‟e \n• Daa‟maa yoo ta‟ee fi gaggabi hoo‟i qaamaa cimaan kan dhufe yoo ta‟e \n• Nama umriidhaan dulloome yoo ta‟e",      
+      "isMain":false
+    },
+    {
+      "title":"Yaalii sadarkaa duraa namoota gaggaba qabaniif",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Tasgabbaa‟aa dhukkubsataa bira turaa \n• Nyaataa fi dhugaattin afaan dhukkubsatichaa keessa yoo jiraate gara ujummoo qilleensaa akka hin seenne dhukkubsataa cinaa tokkotti ciibsaa akka ujiumoo qillensaa salbati seenan gochu danda'a\n• Nama gaggabaan hurgufamu qabdanii dhaabuuf hin yaalinaa\n• Gaggabi hanga dhaabbatutti eegaatii waan balaa irraan gahuu danda‟u akka ibiddaa irraa eegaa \n• Wantoota lallaafoo ta‟an mormaa fi mataa isaanii jala kaayafii \n• Akka barmaataatii aara kibriitii hin fayyadaminaa \n• Arraba ni liqimsa Sababa jedhuun mukaa fi wantoota biraa Afaan keessaa hin galchinaa. Kana gochuun caalaatti ilkaan akka cabuu fi wantoomii biraa\n• Gaggabni daqiiqaa meeqaaf akka ture yoo dandeessan sa‟aatii qabaa galmeessaa \n• Gaggabni erga dhaabbatee booda dhukkubsaticha teessuma bayyananaatiin (recovery position) kaa‟aa (fakkii armaan gadiirraa akka mul‟atutti) \n• Sababa gaggabuutiin balaan irra gahe yoo jiraatee mataa hanga miilaatti ilaalaa \n• Dhukkubsatichi hargansuun isaa yoo dhaabbate qilleensa kennaafii (odeeffannoo dabalataaf mata duree qilleensa kennuu jedhu ilaalaa)",      
+      "isMain":true
+    }
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Bleeding",
+  "iconUrl":"assets/images/blood.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Blood is a body fluid in humans and other animals that delivers necessary substances such as nutrients and oxygen to the cells and transports metabolic waste products away from those same cells. There are three main types of blood vessels Artery, Vein and Capillary.",
+      "isMain":false
+    },
+    {
+      "title":"Types of bleeding",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"            • Arterial\n With this type of bleeding, the blood is typically bright red to yellowish in color, due to the high degree of oxygenation. A wound to a major artery could result in blood ‘spurting’ in time with the heartbeat, several meters and the blood volume will rapidly reduce.\n            • Venous\nThis blood is flowing from a damaged vein. As a result, it is blackish in colour (due to the lack of oxygen it transports) and flows in a steady manner. Caution is still indicated: while the blood loss may not be arterial, it can still be quite substantial, and can occur with surprising speed without intervention.\n            • Capillary\nBleeding from capillaries occurs in all wounds. Although the flow may appear fast at first, blood loss is usually slight and is easily controlled. Bleeding from a capillary could be described as a ‘trickle’ of blood.",      
+      "isMain":false
+    },
+    {
+      "title":"Bleeding can also be classified as External and Internal",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"            • External bleeding\n happens when blood exits through a break in the skin. Blood loss from bleeding tissue can also be apparent when blood exits through a natural opening in the body, such as the: mouth.\n            • Internal bleeding\nis a loss of blood from a blood vessel that collects inside the body. Internal bleeding is usually not visible from the outside. The symptoms include dizziness, severe weakness, passing out, low blood pressure, acute visual problems, numbness, weakness on one side of the body, severe headache, and severe abdominal pain.",      
+      "isMain":false
+    },
+
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"assets/images/bleeding_img.png",
+      "vedioUrl":"",
+      "content":"• Remove or cut clothing as necessary to expose the wound\n• Apply direct pressure over the wound with your fingers using a sterile dressing or clean, gauze pad. If you do not have a dressing, ask the casualty to apply direct pressure himself. If there is an object in the wound, apply pressure on either side of the object (opposite)\n• Maintain direct pressure on the wound to control bleeding. Raise and support the injured limb above the level of the casualty’s heart to reduce blood loss.\n• Help the casualty lie down—on a rug or blanket if there is one, because this will protect him from the cold. Since shock may develop, raise and support his legs so that they are above the level of his heart. Ask a helper to call for emergency help, and to give the dispatcher details of the site and extent of the bleeding\n• Secure the dressing with a bandage that is firm enough to maintain pressure, but not so tight that it impairs circulation\n• If bleeding shows through the dressing, apply a second one on top of the first. If blood seeps through the second dressing, remove both and apply a fresh one, ensuring that pressure is applied accurately at the point of bleeding\n• Support the injured part in a raised position with a sling and/or bandage. Check the circulation beyond the bandage every ten minutes. If the circulation is impaired, loosen the bandage and reapply\n• Monitor and record vital signs—level of response, breathing, and pulse —while waiting for help to arrive",      
+      "isMain":true
+    }
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"መድማት",
+  "iconUrl":"assets/images/blood.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"ደም ከልብ እየተረጨ በደም ስሮች ውስጥ በመዘዋወር ለተለያዩ የሰውነታችን ክፍሎች ኦክስጅንና ጠቃሚ ንጥረ ነገሮች ያደርሳል እንዲሁም ከሰውነት ክፍል ደግሞ ካርቦንዳይ ኦክሳይድን ወደ ሳንባ ይወስዳል፡፡ በዋናነት ሶስት አይነት የደም ስሮች አሉ፤ ደም ቀጂ(አርተሪ)፣ ደም መላሽ(ቬይን) እና ካፒለሪ ናቸው፡፡",
+      "isMain":false
+    },
+    {
+      "title":"ደም መድማት በሶስት እንከፍለዋለን",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"            • ከደም ቀጂ መድማት\n ቀይ የሆነ ደም ይፈሳል፡፡ በተለይ ትላልቅ ስሮች ከሆነ የተቀደዱት እየተፈናጠረ የሚወጣ  መድማት ይኖራል፡፡ በደም ቀጂ በኩል የተከሰተ መድማት ብዛት ያለውን ደም በአጭር ጊዜ እንድናጣ ስለሚያደርገን አደገኛ ነው፡፡\n            • ከደም መላሽ መድማት\nጠቆር ያለ ደም ይወጣል፤ ደም በደም መላሽ ስሮች ውስጥ በዝቅተኛ ግፊት ስለሚሄድ እየተፈናጠረ መድማት አይኖረውም ነገር ግን የደም መላሽ ስር ግድግዳ ስስ ስለሆነ ሰፋ ብለው ሊቀደድና ብዙ ደም ልናጣ እንችላለን፡፡\n            • ከካፒለሪ መድማት\nበአብዛኛውን ብዙ ደም ማጣትን አያስከትልም፡፡ ቁስል ሲደማ በአብዛኛውን ከካፒለሪ ይደማል፡፡",      
+      "isMain":false
+    },
+    {
+      "title":"መድማትን በተጨማሪ ውጪያዊ እና ውስጣዊ ብለን እንከፍለዋለን",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"            • ውጪያዊ መድማት\n የሚባለው ደም ወደ ውጪ ይፈሳል\n            • ውስጣዊ መድማት\nየሚባለው ወደ የተለያዩ የሰውነት ክፍሎች ውስጥ ማለትም ጭንቅላት ውስጥ፣ ሳንባ ማቀፊያ ውስጥ፣ ሆድ ውስጥ፣ ዳሌ ውስጥ እና ትላልቅ ጡንቻዎች ውስጥ ሲፈስ ውስጣዊ መድማት ይባላል፡፡\n  መደማት ሲከሰት የደም መፍሰሱን ለመቀነስ ሰውነታችነ የተለያዩ ዘዴዎችን ይጠቀማል፡፡ እኘህም የደም ስሮችን መኮማተርና ደም መርጋት ናቸው፡፡ ብዛት ያለው ደም ከፈሰሰ ለክውታ ያጋልጣል፡፡",      
+      "isMain":false
+    },
+
+    {
+      "title":"የመድማት የመጀመሪያ እርዳታ",
+      "imageUrl":"assets/images/bleeding_img.png",
+      "vedioUrl":"",
+      "content":"• እርሶ ላይ አደጋ ሊፈጥር የሚችል ነገር እንደሌለ ያረጋግጡ\n• ተጨማሪ እርዳታ ይጣሩ እንዱሁም ወደ አምቡላነስ  ላይ ይደውሉ\n• ራሶን ለመከላከል ጓንት ወይም ሌላ መከላከያ ያጥልቁ\n• ተጎጂውን እንደሚመቸው ያስተኙት/ያስቀምጡት\n• ምን እንደተፈጠረ ያስረዱትና በተቻለ መጠን ያረጋጉት\n• መድማቱን ለማቆም ወይም ለመቀነስ ከታች በተገለጽው መልኩ ይሞክሩ፡፡\n• በንጽ ጨርቅ/ባንዴጅ ቁስሉን ተጭነው ይያዙ\n• ባንዴጁን በቁስሉ ዙሪያ መጠቅለልም ይችላሉ (ይህንን ሲያደርጉ ጠበቅ አድርገው ይሰሩት ነገር ግን በጣም አጥብቀው ከቁስሉ በታች ያለን የደም ዝውውር እንደምማያቋርጥ ያረጋግጡ )\n• የተሸፈነው ጨርቅ በደም ከራሰ በላዩ ላይ ሌላ ይደርቡበት\n• በአካባቢው ላይ ባለ ጨርቅ፣ ላስቲክ ወይም ሌላ መሸፈኛ ሰውነቱን እንሸፍንና ሙቀትን እንፍጠርለት፡፡\n• የተጎጂውን ንቃትና አተነፋፈስ ህክምና እስኪደርስ ድረስ ይከታተሉ፡፡\n• ምግብም ሆነ መጠጥ አይስጡዋቸው\n• አጥብቆ ማሰር (መጠፍነግ):እየደማ ያለን ቦታ ተጭነን ማቆም ካልቻልን ከሚደማበት ስፍራ ከፍ ብለን በኃይል በማሰር (በመጠፍነግ) የደም ዝውውርን በመግታት የሚፈሰውን ደም ለመቀነስ መሞከር እንችላለን፡፡አጥብቆ ማሰር እንደ ጥቅሙ ሁሉ በትክክል ካልተተገበረ የከፋ ጉዳት ሊያስከትል ይችላል፡፡ የደም ዝውውርን ለረጅም ሰዓታት ሲቋረጥ ከታች ያለውን የሰውነት ክፍል ሙሉ በሙሉ ኦክስጅን ሊያጣና ሊሞት ይችላል፡፡አጥብቀው ያሰሩበትን ሰዓት መዝግበው ይያዙ፤ ከ2 ሰዐት በላይ ታስሮ መቆየት ስለሌለበት በፍጥነት ወደ ህክምና ተቋም የሚሄድበትን መንገድ ያመቻቹ፡፡",      
+      "isMain":true
+    }
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Dhiiguu",
+  "iconUrl":"assets/images/blood.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Dhiiyni onneerraa burquun hidda dhiigaa qaama keenyaa keessa naanna‟uun oksijiinaa fi albuudoota barbaachisoo kutaalee qaama keenyaaf raabsa, kutaalee qaama keenyaa irraa kaarbondaayoksaayidii fuudhee sombatti geessa. Hidda dhiigaa gurguddoo 3tu jira; kan dhiiga waraabu(aarterii), kan dhiiga deebisu(veenii) fi kaappilariidha.",
+      "isMain":false
+    },
+    {
+      "title":"Dhiiguun bakka etti qoodama.",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"            • Waraabduu dhiigaarraa dhiiguu (arterial bleeding):\n dhiiga diimaatu faca‟a. keessahuu ujummoon dhiigaa gurguddaa taanaan iddoo baqayxen utaalaa dhiiyni baha. Dhiiguun dhiiga waraabduudhaa yeroo gabaabaatti dhiiga baaay‟ee akka dhabnu waan nu godhuuf balaafamaadha.\n            • Dhiiga deebiftuurraa dhiiguu (venous bleeding)\nDhiiga gurraachaatu baha. Dhiiyni dhiiga deebistuu keessa deemu dhiibbaa xiqqaan waan deemuuf utaalaa hin dhiigu, garuu dhaabni dhiiga deebistuu haphii waaan taheef ballatee dhoohuudhaan dhiiga baayyee dhabuu dandeenya.\n            • Kaappilarii irraa dhiiguu:\nDhiiga baay‟ee dhabuu hin fidu. Madaan yoo dhiigu irra jireessa kaappilarii irraa dhiiga.",      
+      "isMain":false
+    },
+    {
+      "title":"Dhiiguu ammaas kan keessaa fi kan alaa jannee adda qoodna.",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"            • Dhiiguu alaa:\n kan jedhamu dhiiyni gara alaatti yeroo face‟uude.\n            • Dhiiguu keessaa:\nkan jedhamu kutaalee qaama keenyaa kan adda addaa keessatti yoo dhiigni faca‟u dha. Kutaaleen kunis sammuu, hammattuu sombaa, garaa fi maashaalee qaamaa gurguddoo ta‟u danda‟u.\n  Rakkinni dhiiguu yoo muudatu dhiiga dhangala‟u irrisuuf qaamni keenya maloota adda addaa fayyadama. Inniis hidda dhiigaa dhiphisuu fi dhiiga itichuudha. Dhiiyni baay‟een yoo faca‟e shookiif (dhangala‟aan qaama keessaa gad bu‟uu) ‟f nama saaxila.",      
+      "isMain":false
+    },
+
+    {
+      "title":"Gargaarsa jalqabaa dhiiguuf godhamu ",
+      "imageUrl":"assets/images/bleeding_img.png",
+      "vedioUrl":"",
+      "content":" Miidhama dhiigaa jiru yoo dafnee dhiiguu to‟achuu baanne lubbuusaaf sodaachisaa tahuu dandaha.\n• Wanti balaa isinirra fidu akka hin jiraanne mirkaneeffadhaa\n• Gargaarsa dabalataaf sakatta‟aa akkasumaas gara ambulaansii bilbilaa\n• Mataa keessan of ittisuuf gilaavii ykn ittisoo biraa kaawwadhaa, miidhamaa akka mijjaahuufitti ciibsaa/teessisaa \n• Maaltu akka uumame ibsaafii tasgabbeessaa \n• Dhiiguu dhaabuuf ykn hir‟isuuf bifa ibsameen yaalaa \n• Hucuu qulqulluu ykn baandeejiin madaa cuqqaalaa qabaa \n• Baandeejii naannoo madaattiis maruu dandeessu (kana yoo gootan jabeessaa hidhaa garuu hedduu jabeessitanii marsaa dhiigaa kan achiin gadii akka hin kunne mirkaneefadhaa) \n• Hucuun cuqaalleen yoo dhiigaan cuuphamte kan biraa gubbaan itti dabalaa.\n• Hucuun ykn laastika naannoo san jiruun ykn haguugduu biraa qaama haguugaatii ho‟a uumaaf. \n• Dammaqinsaa fi hafuurbaafannaa miidhamaa hanga yaala argatutii hordofaa. \n• Nyataas tahe dhugaatii hin kanninaaf.\n• Jabeessanii hidhuu Iddoo nu dhiigaa jirtu yoo jabeessinee qabuu hin dandeenye iddoo sanirraa ol jennee jabeessinee hidhuun marsaa dhiigaa dhoorkuun dhiiga faca‟u irrisuuf yaaluu ni dandeenya. Marsaan dhiigaa yaroo dheeraaf yoo cite qaamni bakka hidhamee gaditti jiru guutumaatti oksijiinii dhabuun du‟uu dandaha. Yeroo itti jabeessitanii hiitan galmeessaa qabadhaa, sa‟aatii 2 ol hidhamee turuu waan hin qabneef daddaffiin akkaataa itti gara mana yaalaa geeffamu mijjeessaa",      
+      "isMain":true
+    }
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Wound",
+  "iconUrl":"assets/images/wound.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"A wound is any type of injury to the skin. In general, wounds can be classified as closed (where the skin stays intact) or open",
+      "isMain":false
+    },
+    {
+      "title":"IN OPEN WOUNDS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" The skin is cracked open, leaving the underlying tissue exposed to the outside environment, which makes it more vulnerable to bleeding and infections",      
+      "isMain":false
+    },
+    {
+      "title":"IN CLOSED WOUNDS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" The skin is intact and the underlying tissue is  not directly exposed to the outside world. Even with the skin intact, the damage can reach down to the underlying muscle, internal organs and bones. That is why these kinds of wounds can be complicated by severe bleeding, large bruises, nerve damage, bone fractures and internal organ damage.",      
+      "isMain":false
+    },
+
+    {
+      "title":"WHAT TO DO FOR OPEN WOUND",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Stop the bleeding -- Minor cuts and scrapes usually stop bleeding on their own.  If they don't, apply gentle pressure with a clean cloth or bandage. Hold the pressure continuously for 20 to 30 minutes and if possible elevate the wound\n• Clean the wound -- Rinse out the wound with clear water. Soap can irritate the wound, so try to keep it out of the actual wound. If dirt or debris remains in the wound after washing, use tweezers cleaned with alcohol to remove the particles. To clean the area around the wound, use soap and a washcloth. There's no need to use hydrogen peroxide, iodine or an iodine-containing cleanser.\n• Cover the wound -- If the bleeding slows, cover the wound with a clean dressing and bandage. Dressings and bandages can help keep the wound clean and keep harmful bacteria out.",      
+      "isMain":true
+    },
+    {
+      "title":"WHAT TO DO FOR CLOSED WOUND",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Application of direct pressure, preferably with ice wrapped in a cloth, for several minutes, in order to arrest the bleeding as well as to reduce the swelling.\n• Elevation of the affected region will also support in reducing the pressure as well as the re-absorption process and it should be practiced as and when appropriate.",      
+      "isMain":true
+    },
+    {
+      "title":"When should you see a doctor?",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• When the wound is more than 6.5 mm deep\n• The lesion is more than 20 mm wide\n• When wounds are too painful to clean\n• Deep lesions of fat, muscle, or bone\n• Wounds that do not stop bleeding even after being pressed for 15 minutes",      
+      "isMain":false
+    }
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"ቁስል",
+  "iconUrl":"assets/images/wound.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"ቁስል ቆዳ በተለያየ ምክንያቶች በሚጎዳበት ጊዜ የሚከሰት ጉዳት ሲሆን ቁስልን በሁለት እንክፍለዋለን፤ይህም ክፍት ቁስልና ዝግ ቁስል ናቸው፡፡",
+      "isMain":false
+    },
+    {
+      "title":"ክፍት ቁስል",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" ስንል ደሞ የውጪኛው ቆዳ ክፍተት ይኖረዋል፤ ሊደማም ይችላል፡፡ ክፍት ቁስል ብዙ አይነት ሊሆን ይችላል፡፡ መፋቅ፣ መቆረጥ፣ መገሽለጥ፣ መወጋት ወዘተ ናቸው፡፡",      
+      "isMain":false
+    },
+    {
+      "title":"ዝግ ቁስል",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" ስንል የውጪኛው ቆዳ ክፍተት የለውም ነገር ግን ቆዳው ከውስጥ በኩል የተጎዳ ነው፡፡ ብልዝ አንዱ የዝግ ቁስል አይነት ሲሆን ሰውነታችን ላይ ምት ሲያርፍ ጥቃቅን የደም ስሮች ተቀደው ሲድሙ የሚከሰት ነው፡፡ የዝግ ቁስል ምልክቶች መቅላት፣ መጥቆር፣ ማበጥ፣ እና ህመም ናቸው፡፡",      
+      "isMain":false
+    },
+
+    {
+      "title":"ክፍት ቁስል የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"\n• እጅዎን በሳሙናና በንጹህ ውሃ በደምብ ይታጠቡ\n• ቁስሉን ቢያንስለ 5 ደቂቃ በንጹህ ውሃ አድርገው ያለቅልቁ\n• ቁስሉን በሳሙና ይጠቡ\n• አፈር ወይም ብናኝ ነገር ቀርቶ ከሆነ፣ አጥበው በድጋሜ ያለቅልቁ\n• ቁስሉ መድማት ከጀመረ፣ መድማቱ እስከሚያቆም ድረስ፣ ቁስሉን መጫን ይቀጥሉ\n• በቁስሉ ላይ ጸረ ባክቴሪያ (አንቲባዮቲክ ክሪም) ይቀቡና አካባቢውን በፋሻ ይጠቅልሉ።",      
+      "isMain":true
+    },
+    {
+      "title":"ዝግ ቁስል (ብልዝ) የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" አራቱን የ”ማ” መርሆዎች ይጠቀሙ\n• ማሳረፍ፡ የተጎዳውን አካል ያሳርፉት፤ ለምሳል የእግር ጡንቻችን ከሆነ መንቀሳቀስ ከፈለግን በድጋፍ እንጠቀም\n• አለማንቀሳቀስ፡ የተጎዳውን አካል አያንቀሳቅሱት፤ እንደ ባንዴጅ አይነት ጨርቆችን በመጠቀም ይሰሩት\n• ማቀዝቀዝ/ማሸት፡ የተጎዳውን አካል በበረዶ ለ20 ደቂቃ ያህል ይሹትና ለ20 ደቂቃ ያህል ደግሞ እረፍት ይወሰዱ፡፡\n• ማንሳት፡ የተጎዳውን አካል ከፍ አድርገው ያንሱት፡፡ ይህም እብጠት እንዳይፈጠር፤ ከፈጠረም ቶሎ እንዲጎል ያግዛል፡፡",      
+      "isMain":true
+    },
+    {
+      "title":"በሐኪም መቼ መታየት አለበዎት?",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ቁስሉ ከ 6.5 ሚ.ሚ በላይ ጥልቅ ሲሆን\n• ቁስሉ ከ 20ሚ.ሚበላይ የሰፋ ሲሆን\n• ለማጽዳት በጣም የሚያሙ ቁስሎች ሲሆኑ\n• ስብ፣ ጡንቻ ወይም አጥንት ውስጥ ዘልቀው የሚደርሱ ጥልቅ ቁስሎች\n• ለ 15 ደቂቃ ተጭነው ከቆዮ በኋላ እንኳን መድማት የማያቆሙ ቁስሎች",      
+      "isMain":false
+    }
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+{
+  "name":"Madaa",
+  "iconUrl":"assets/images/wound.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Madaan gogaan keenya karaa adda addaatiin yoo miidhamu kan dhufu yoo ta‟u, iddoo 2tti qoodna: isaaniis madaa cufaa fi madaa banaati",
+      "isMain":false
+    },
+    {
+      "title":"Madaa banaa:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" hoggaa jannu gogaan alaa banaa qaba, dhiiguus dandaha. Madaan banaa gosa adda addaa ta‟uu danda‟a. Isaanis Qunca‟uu, muramuu, falaxamuu fi waraanamuu fa‟aati.",      
+      "isMain":false
+    },
+    {
+      "title":"Madaa cufaa:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" jachuun gogaan alaa banaa kan hinqabne tahee garuu gogan gara keessatiin kan miidhmuudha. Dhiiynaqaa‟uun madaa cufaa keessaa tokko yoo tahu qaamni keenya yoo dhawamu hiddi dhiigaa xixiqqaan dhoohee yoo gogaa keessatti dhiiguudha. Mallattoon madaa cufaa diimachuu gurracha‟uu, dhiita‟uu, fi dhukkubbii fa‟a",      
+      "isMain":false
+    },
+
+    {
+      "title":"Madaan banaa ennaa jiraatu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Harka keessan saamunaa fi bishaan qulqulluun sirriitti dhiqadhaa • Madaa yoo xiqqaate daqiiqaa 5‟f bishaan qulqulluun dhiqaa \n• Biyyeen/xuriin hundi haxaawamuu isaa mirkaneeffdhaa \n• Madaa saamunaan dhiqaa \n• Biyyeen ykn balfi xixiqqaan yoo keessatti kan hafu tahe irra deebi‟aa sirritti dhiqaa \n• Madaan dhiiguu yoo eegale hamma dhiiguun dhaabbatutti qabaa \n• Madaarratti farra baakteeriyaa (antibiotic cream) dibaatii naannicha faashaan uwwisaa",      
+      "isMain":true
+    },
+    {
+      "title":"Madaan cufaa (dhiiynaqaa‟uun) ennaa jiraatu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" Gochoota armaan gadii 4‟n kana fayyadamaa\n• Boqochuu: qaama miidhame boqochiisaa, fkn maashaa miila keenya yoo tahe socho‟uu yoo feene gargaarsaan fayyadamuu \n• Sochoosuu dhabuu: qaama miidhame hin sochoosinaa, waan akka baandeejiin of hidhaa\n• Qabbaneessuu/sukkuumuu: qaama miidhame cabbiin sukkuumaa \n• Olkaasuu: qaama miidhame olkaasaa. Kuniis akka hin dhiitoyne yoo ittisu, dafee akka gadi bu‟us nu gargaara.",      
+      "isMain":true
+    },
+    {
+      "title":"Yoom haakimaan ilaalamuu qabdu?",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Madaan yoo mm 6.5 ol guddaa tahe \n• Madaan yoo mm 20 ol ballaa tahe\n• Qulqulleessuuf yoo hedduu kan dhukkubu tahe \n• Maashaa ykn lafee keessa kan gadi seene madaa guddaa yoo ta‟e \n• Daqiiqaa 15 qabnee eega turree booda dhiiguun yoo dhabbachuu dide",      
+      "isMain":false
+    }
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Stroke",
+  "iconUrl":"assets/images/stroke.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"A stroke or brain attack is a medical emergency that occurs when the blood supply to the brain is disrupted. This condition is more common later in life and is associated with disorders of the circulatory system, such as high blood pressure",
+      "isMain":false
+    },
+    {
+      "title":"Use the FAST (Face-Arm-Speech-Time) guide if you suspect a casualty has had a stroke:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" F– Facial weakness—the casualty is unable to smile evenly and the mouth or eye may be droopy\nA– Arm weakness—the casualty is only able to raise one of is arms\nS– Speech problems—the casualty is unable to speak clearly or may not understand the spoken word\nT– Time to call for emergency help if you suspect that the casualty has had a stroke",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Look at the casualty’s face. Ask him to smile; if he has had a stroke he may only be able to smile on one side—the other side of his mouth may droop\n• Ask the casualty to raise both his arms; if he has had a stroke, he may be able to lift only one arm\n• Find out whether the person can speak clearly and understand what you say. When you ask a question, does he respond appropriately to you?\n• Call for emergency help. Tell the dispatcher that you have used the FAST guide and you suspect a stroke.\n• Keep the casualty comfortable and supported. If the casualty is conscious, you can help him lie down. Reassure him that help is on the way\n• Regularly monitor and record vital signs—level of response, breathing, and pulse —while waiting for help to arrive. Do not give the casualty anything to eat or drink because it may be difficult for him to swallow",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"ስትሮክ",
+  "iconUrl":"assets/images/stroke.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"ስትሮክ አጣዳፊ የሆነ የአእምሮ ስራ መስተጓጎል ሲሆን ይህም የሚከሰተው ወደ ጭንቅላት የሚፈሰው ደም ሲቋረጥ ነው፡፡  ስትሮክ የጭንቅላት የደም ስሮች ሲቀደድና ደም በጭንቅላት ውስጥ ሲፈስ ወይም የደም ስር ውስጥ ደም ሲረጋና የደም ፍሰቱን ሲገታ የሚከሰት ነው፡፡ ስትሮክ የተለያዩ የአእምሮ ክፍሎችን ሊጎዳ ይችላል፤ ታማሚውም እንደ ተጎዳው የአእምሮ ክፍል የተለያዩ ምልክቶች ሊያሳይ ይችላል፡፡በአብዛኛውን በእድሜ የገፉና ተጓዳኝ ህመሞች (ደም ግፊት፣ የልብ ህመም ) ለስትሮክ የተጋለጡ ናቸው",
+      "isMain":false
+    },
+    {
+      "title":"የስትሮክ መሆኑን የምናውቅባቸው ምልክቶች ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" \n\nአንድን ግለሰብ በስትሮክ መጠቃቱን ከጠረጠሩ የሚከተሉትን ተግባራት ይፈጽሙ\n• ግለሰቡን እንዲስቅ ወይም ጥርሱን እንዲያሳይ ይጠይቁ፤ ስትሮክ ካለ ፊት በአንድ በኩል ይዛነፋል፡፡\n• ግለሰቡን ሁለቱንም እጆች ከፍ እንዲያደርጉ ይጠይቋቸው፤ ሁለቱም እጆች እኩል መነሳታቸውን ይዩ\n• ቀላል የሆኑ አረፍተ ነገሮችን እንዲደግሙ ያድርጉ\n• ከሶስቱ አንዱ ካለ ግለሰቡ በስትሮክ የተጠቃበት እድሉ ከፍተኛ ስለሆነ በአፋጣኝ ወደ ህክምና ተቋም የሚሄዱበትን መንገድ ያመቻቹ፡፡",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"የስትሮክ የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ህመሙ መቼ እንደ ጀመረ ያረጋግጡ\n• ወደ አምቡላንስ  ላይ ይደውሉና እርዳታን ይጠይቁ\n• ተጎጂውን መቀመጥ ከቻለ እንዲቀመጥ ያድርጉ፤ መቀመጥ ካልቻለ ደግሞ በማገገሚያ አቀማመጥ ያስተኙት\n• ተጎጂውን ያረጋጉት፤ እረፍት እንዲያገኙ ያድርጉ\n• ምግብና ውሃ አይስጧቸው\n• ተጎጂው ራሱን አለመሳቱንና በትክክል እየተነፈሱ መሆኑን ያረጋግጡ\n• ተጎጂው መተንፈስ ካቆመ እስትንፋስ መስጠት ይጀምሩ",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Istirookii",
+  "iconUrl":"assets/images/stroke.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Istirookiin balaa hatattamaa hojiin sammuu jeeqamuu yoo ta‟u, kunis kan uumamu yeroo dhiigi gara sammuutti yaa‟u adda citeedha. Istirookiin ujummooleen dhiigaa sammuu keessaa yeroo tarsa‟an fi dhiigi sammuu keessatti dhangala‟uun ykn ujummoolee dhiigaa keessatti dhiigni kantaruun yaa‟insi dhiigaa adda cituun uumama. Istirookiin kutaalee sammuu garagalaa miidhuu danda‟a; dhukkubsatichi kutaa sammuu miidhamerratti hundaa‟uun mallattoolee garagaraa agarsiisuu danda‟a. Yeroo baay‟ee namoota umriin deemanii fi dhukkuboota biroo akka olka‟uu dhiibbaa dhiigaa (dhiiga danfaa), dhukkuba onnee kan qabanii fi qoricha sammuu hadoochuu namooti fayyadaman dhibee kanaaf saaxilamoodha",
+      "isMain":false
+    },
+    {
+      "title":"Mallattoolee Istirookii",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" \n\nNamni tokko rakkoo istirookiin qabamuu isaa yoo shakkitan kanneen armaan gadii raawwadhaa.\n• Akka kolfu yookin ilkaan isinitti agarsiisu gaafadhaa. Istirookiin yoo jiraate fuulli isaa gam-tokkotti jal‟ata. \n• Harka isaa lamaan akka ol kaasu gaafadhaa. Lachuu wal qixxee kaasuu fi dhiisuu ilaalaa. Istirookiin yoo jiraate wal qixa kaasuuf ni rakkata.\n• Hima salphaa akka irra deebi‟ee dubbatu gaafadhaa. Yeroo dubbatu Afaan ni hidhama yoo ta‟e Istirookii ta‟uu mala. \n• Kanneen armaan olii sadan keessaa tokkollee yoo argattan namichi istirookiin carraan qabamuu isaa guddaa waan ta‟eef gara mana yaalii akka geessitaniif haala mijeessaa.",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"Gargaarsa sadarkaa duraa namoota istirookiin qabamaniif",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Dhukkubichi yoom akka jalqabe baruuf yaalaa. \n• Gara ambulansiii tti bilbilaa gargaarsaa gaafadhaa. \n• Dhukkubsatichi taa‟uu ni danda‟a yoo ta‟e teessisaa; yoo hin danda‟u ta‟e immoo teessuma bayyanannaatiin ciibsaa. \n• Dhukkubsaticha tasgabbeessaa.\n• Yeroodhaaf nyaata fi dhugaatii hin kenninaafii. \n• Dhukkubsatichi akka of beekuu fi harganaa jiru sirrriitti mirkaneeffadhaa.\n• Yoo harganaa hin jiru ta‟e qilleensa kennaafii. (odeeffannoo dabalataaf mata duree qilleensa kennuu jedhu ilaalaa",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Fainting",
+  "iconUrl":"assets/images/fainting.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Fainting is a brief loss of consciousness caused by a temporary reduction of the blood flow to the brain. It may be a reaction to pain, exhaustion, lack of food, or emotional stress. It is also common after long periods of physical inactivity, such as standing or sitting still, especially in a warm atmosphere. This inactivity causes blood to pool in the legs, reducing the amount of blood reaching the brain",
+      "isMain":false
+    },
+    {
+      "title":"YOUR AIMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• To improve blood flow to the brain\n• To reassure the casualty and make him/her comfortable",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• When a casualty feels faint, advice him to lie down. Kneel down; raise his legs, supporting his ankles on your shoulders to improve blood flow to the brain. Watch his face for signs of recovery\n• Make sure that the casualty has plenty of fresh air; ask someone to open a window if you are indoors. In addition, ask any bystanders to stand clear\n• As the casualty recovers, reassure him and help him sit up gradually. If he starts to feel faint again, advise him to lie down once again, and raise and support his legs until he recovers fully",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"ፌንት ማድረግ",
+  "iconUrl":"assets/images/fainting.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"ጊዜያዊ ወደ አንጎል የደም ፍሰት በመቀነስ ምክንያት የሚመጣ አጭር የንቃተ ህሊና ማጣት ነው ፡፡ እሱ ለህመም ፣ ለድካም ፣ ለምግብ እጥረት ወይም ለስሜታዊ ጭንቀት ምላሽ ሊሆን ይችላል። እንዲሁም ረዘም ላለ ጊዜ አካላዊ እንቅስቃሴ-አልባነት ካለ በኋላ ቆሞ ወይም ዝም ብሎ በመቀመጥ በተለይም በሞቃት አየር ውስጥ የተለመደ ነው ፡፡ ይህ እንቅስቃሴ-አልባነት ወደ አንጎል የሚደርሰውን የደም መጠን በመቀነስ በእግሮች ውስጥ ደም እንዲዋሃድ ያደርገዋል፡፡",
+      "isMain":false
+    },
+    {
+      "title":"አላማችን",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ወደ አንጎል የደም ፍሰትን ማሻሻል\n• የደረሰውን ጉዳት ማረጋጋትና ተጎጂው  ምቾት እንዲሰማው/ት ማድረግ",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"ለፌንት ማድረግ ያለብን የመጀመሪያ ዕርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ጉዳት የደረሰበት ሰው ድካም ሲሰማው እንዲተኛ ይመክሩት ፡፡ ወደ አንጎል የደም ፍሰትን ለማሻሻል ተንበርክከው ፣ እግሮቹን ከፍ በማድረግ ፣ ትከሻዎ ላይ ቁርጭምጭሚቱን ያሰቀምጡ፡፡\n• የጉዳቱ ሰለባ ያለበት አካባቢ ንጹህ አየር ያለው መሆኑን ያረጋግጡ ፡፡ ቤት ውስጥ ከሆኑ መስኮት መክፈት አለቦት።\n• የጉዳቱ ሰለባ ሲያገግም አረጋግጠው ቀስ ብሎ ቁጭ እንዲል እርዱት፡፡ እንደገና የመሳት ስሜት ከተሰማው አንዴ እንደገና እንዲተኛ ያድርጉት እና እስኪድን ድረስ እግሮቹን ከፍ እና ደገፍ አድርገዉ ይያዙት፡፡",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Feentii tahu (Of wallaaluu)",
+  "iconUrl":"assets/images/fainting.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Sababa dhiigni yeroodhaaf gama sammuu dhangalu xiqqaachurraa kan kahe beeysfanna sammu (qalbii) dhabuu dha. Inni dhukkubiif, dadhabiif, hanqina nyaataatiif yookaan rakkachuu miiraatiif deebii tahu ni danda’a. Akkasumaas yeroo dheraaf sochii qaamaa godhu dhabuu jiraachuun booda dhaabachuun yookaan taahuun kessaafuu yeroo how’aa kessa waan baratameedha. Sochii qaamaa dhabuun Kun dhiiga hamma gama sammuu deemu hirdhisuun milla kenya kessatti dhiignii akka wal simuu godha ",
+      "isMain":false
+    },
+    {
+      "title":"Kaayyoon kenna",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Dhangala’uu Dhiiga gama sammu deemu foyyeessuu. \n• Miidhama muudatee tasgabeessun miidhamaa miirri gaariin akka itti dhagamuu gochu.",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"Feentidhaaf (Of wallaaluuf) waan gargaarsa duraa godhu qabnuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Nama miidhamni irra gahe yoo dadhabbiin itti dhaga’amee akka rafuu gorsaa.dhangala’uu dhiiga gama sammu foyyessuuf jilbifachuun milla ol qabuu, gurmuu isaa irraa komeesaa haa kaa’uu.\n• Iddo miidhaamaan itti saaxilame qillensa qulqullu jiraachuu haa mirkannefannu.mana keessa yoo tahe shubaakni (foodaan) banamu qaba.\n• Yeroo miidhamaaf Kan saaxilamee dandamatu suuta jedhee akka taahuu gargaaraa. Ammaas irra deebiin mirrii of wallaluu yoo itti dhagahame al tokko akka ciisuu haa goonuuti haga fayyuttii milla isaa ol qabufi itti irkanne haa qabnu",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Nose Bleed",
+  "iconUrl":"assets/images/nose_bleeding.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Bleeding from the nose most commonly occurs when tiny blood vessels inside the nostrils are ruptured, either by a blow to the nose, or as a result of sneezing, picking, or blowing the nose. Nosebleeds may also occur as a result of high blood pressure and anticlotting medication. A nosebleed can be serious if the casualty loses a lot of blood",
+      "isMain":false
+    },
+    {
+      "title":"YOUR AIMS",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• To maintain an open airway\n• To control bleeding",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Tell the casualty to sit down and tilt his/her head forward to allow the blood to drain from the nostrils. Ask him/her to breathe through his/her mouth (this will have a calming effect) and to pinch the soft part of his/her nose for up to ten minutes, holding constant pressure. Reassure and help him/her if necessary.\n• Advise the casualty not to speak, swallow, cough, spit, or sniff since this may disturb blood clots that have formed in the nose. Give him a clean cloth or tissue to mop up any dribbling.\n• After ten minutes, tell the casualty to release the pressure. If the bleeding has not stopped, tell him/her to reapply the pressure for two further periods of ten minutes.\n• Once the bleeding has stopped, and with the casualty still leaning forward, clean around his/her nose with water. Advise him/her to rest quietly for a few hours. Tell him/her to avoid exertion and, in particular, not to blow his/her nose, because this could disturb any clots.",      
+      "isMain":true
+    },
+    {
+      "title":"WHAT NOT TO DO",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Do not let the casualty tip his/her head back because blood may then run down the throat and induce vomiting",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"ነስር",
+  "iconUrl":"assets/images/nose_bleeding.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"ነስር በአብዛኛውን የሚከሰተው በአፍንጫችን ውስጥ ያሉ ትናንሽ የደም ስሮች በሚቀደዱበት ወቅት ነው፡፡ እነዚህ የደም ስሮች በአፍንጫችን የውስጠኛው ግድግዳ ላይ የሚገኙ ሲሆኑ ወደ ሳንባ የሚገባውን አየር ለማሞቅ ይረዱናል፡፡ ትናንሽና ስስ ስለሁኑ ለመቀደድ የተጋለጡ ናቸው፡፡ \n\nነስር የሚከሰተው አፍንጫችን ውስጥ በሚፈጠር ችግር ወይም በአጠቃላይ በሰውነታችን ውስጥ ያለን ችግር (ደም የመርጋት ህመም፣ የደም መቅጠን፣ ደም ካንሰር…) አንድ ምልክት ሊሆን ይችላል፡፡ ብዙውን ጊዜ አፍንጫችን ውስጥ በሚፈጠር ችግር ከሆነ ነስሩ በአንዱ የአፍንጫ ቀዳዳ ብቻ ይከሰታል፡፡",
+      "isMain":false
+    },
+    {
+      "title":"ነስር በተለያዩ ምክንያቶች ሊከሰት ይችላል",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• አፍንጫን በጣት ወይም ሌላ ባዕድ ቁስ መነካካት\n• ደረቅ አየርና ሞቃት የአየር ሁኔታ ሲኖር\n• አፍንጫችን አካባቢ ከተመታን\n• በአፍንጫችን ውስጥ ኢንፊክሽን ሲኖር\n• አለርጂ ካለብንና እርሱ ሲነሳብን\n• በጣም በምናምጥበት ወቅት\n• ደም ማቅጠኛ መድሓኒቶች እንድ ዋርፋሪን፣ አስፐሪን፣ክሎፒዶግሪል የመሳሰሉትን\n• የደም መርጋት ችግር ካለብን",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"የነስር የመጀመሪያ እርዳት",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• አይደናገጡ\n• ቀጥ ብለው ይቀመጡና ወደፊት ዘንበል ይበሉ\n• በተለምዶ እንደሚደረገው አንገቶን ቀና አያድርጉ\n• በአመልካችና በአውራ ጣቶች አፍንጫዎትን ጠበቅ አድርገው ከ 10-15 ደቂቃ ይያዙ\n• ረጋ ብለው በአፎ ይተንፍሱ\n• መድማት ማቆሙን ቶሎ ቶሎ ማየት አያስፈልግም\n• ወደ አፎ የሚመጣ ደም ካለ ይትፉት፤ አይዋጡት\n• ደም መፍሰሱ ከቆመም በኃላ አፍንጫዎትን አይነካኩ፣ በኃይልም አይናፈጡ\n• ለ12 -24 ሰዓታትም ሃይለኛ እንቅስቃሴ፣ ማማጥ፣ መናፈጥ፣ አፍንጫዎትን መነካካት በተቻለ መጠን ያስወግዱ፣ የአፍንጫዎ ውስጡ የደረቀ ከሆነ ማለስለሻ ቅባቶችን ይጠቀሙ፡፡\n• የደም ማቅጠኛ መድሃኒቶች የሚጠቀሙ ከሆነ ከሐኪሞ ጋር ይማከሩ",      
+      "isMain":true
+    },
+    {
+      "title":"ማድረግ የሌሎቦት",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የተጎዳው ሰው ብፍትጹም ጭንቅላቱን ወደኋላ እንዲያዘነብል ማድረግ የለቦትም፡፡",      
+      "isMain":true
+    },
+    {
+      "title":"ወደ ሕክምና የምንሄደው",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ደም መፍሰስ ከ 15-20 ደቂቃ ውስጥ ማይቆም ከሆነ\n• ነስር የሚደጋገም ከሆነ\n• ደም ማቅጠኛ መድሓኒቶች ምንጠቀም ከሆነ\n• የማዞርና ጭልም የማለት ስሜቶቸ ካሎት\n• ነስሩ በከባድ አደጋ የተከሰተ ከሆነ\n• ከአፍንጫችን ውጪ ሌላም ቦታ መድማት ካለን",      
+      "isMain":false
+    },
+    {
+      "title":"ነስር እንዳይከሰት ለመከላከል",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የአፍንጫዎን የውስጥ ክፍል ያለስልሱ (እንደ ቫዝሊን ያሉ ቅባቶችን በንፁ ጥጥ መቀባት)\n• ህጻናትን አፍንጫቸውን እንዳይነካኩ መከልከል\n• ሲጋራ ሚያጤሱ ከሆነ ማቆም\n• ሲያስነጥሱ አፎን ይክፈቱት\n• ሲናፈጡ በጥንቃቄና በየተራ እያንዳንዱን ቀዳዳ ይናፈጡ\n• ከሀኪም ካልታዘ በቀር መድሃኒቶችን አይጠቀሙ",      
+      "isMain":false
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Funuuna",
+  "iconUrl":"assets/images/nose_bleeding.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Funuunni yeroo baay‟ee kan uumamu ujummoolee dhiigaa xixiqqoon funyaan keenya keessa jiran wayita tarsa‟ani/dho‟ani dha. Ujummooleen dhiigaa kunneenis keenyaa fuunyaanii isa keessoorratti kan argaman yoo ta‟u qilleensa gara sombaa deemu hoo‟isuuf nu gargaaru. Baay‟ee haphii fi salphaa waan ta‟aniif salphaatti tarsa‟uu/dho‟u danda‟u. \n\nFunuunni rakkoo funyaan keessaa nu mudate ykn rakkoo qaamaa keenya kan biroo akka (olka‟uu dhiibbaa dhiigaa, dhiigni qal‟achuu, kaansarii dhiigaa fi k.k.f) keessatti akka mallattoo tokkootti ta‟uu danda‟a. Rakkoo funyaaan keenyaan wal qabatuun kan uumame yoo ta‟e qaawwa funyaanii gam tokkoon qofa yaa‟a.",
+      "isMain":false
+    },
+    {
+      "title":">Funuuna geessisuu kanneen danda‟an keessaa muraasni:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Funyaan keenya qubaan ykn meeshaa biraatiin tuttuquun \n• Haalli qilleensaa gogaa fi hoo‟aan jiraachuun \n• Balaa funyaan keenyarra gaheeen \n• Infeekshiniin funyaanii yoo jiaate \n• Alarjii yoo qabaanne fi yoo inni nutti ka‟e \n• Yeroo humnaa ol ittannuu fi humnaan haqqisnu \n• Qorichoota dhiiga qal‟isan kan akka „warfariinii‟, „aspiriinii fi „kiloopedoogiriil‟ fa‟aa yoo fudhannu \n• Rakkinni dhiignni qal‟achuu yoo jiraate.",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"Nama funuunni qabeef gargaarsa Yaalii duraa godhamu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Hin rifatinaa! \n• Ol jedhee akka taa‟u fi xiqqoo gara fuulduraatti akka gadi jedhu godhaa. (fakkiirraa akka mul‟atutti) \n• Morma isaa ol qabaa. (fakkiirraa akka mul‟atutti) \n• Quba abbudduu fi quba dheertuun funyaan keessaa jabeessaa daqiiqaa 10-15‟f qabaa. \n• Suuta jedhee afaaniin akka harganu godhaa.\n• Yoo dhiignni hin dhaabbanne ta‟e ammas daqiiqaa 10–15 dabalataaf qabaa turaa. \n• Dhiigaa jiraachuu fi hin jirree ammaa amma ilaaluun hin feesisu. Dhiigi gara afaanii ni dhufe yoo ta‟e tufsiisaa.\n• Dhiigi erga dhaabbatee booda funyaan akka hin tuttuqnee fi humnaan furrii baasuu irraa of qusachuu akka qaban gorsa. \n• Sa‟aatii 12–24 itti aananiif ispoortii qaamaa jabaa hojjechuu, ittanuu, humnaan furrii baasuu fi funyaan ofii tuttuquurraa akka qusatan itti himaa. \n• Keessoon funyaanii nii goga yoo ta‟e dibata jiisu fayyadamuun ni danda‟ama. \n• Qorichoota dhiiga qal‟isan nii fayyadamu yoo ta‟e hatattamaan hakima isaanii beeksisuu qabu.",      
+      "isMain":true
+    },
+    {
+      "title":"Wantoota gochuhin qabne",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Nama midhame tokkoo moume isaa gara dubatii gochuu hin qabden.",      
+      "isMain":true
+    },
+    {
+      "title":"Gara mana yaalaa deemuun kan barbaachisu:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Dhiigi yaa‟uun daqiiqaawwan 15–20 \n• Gidduutti kan hin dhaabbatin yoo ta‟e. \n• Iraa deddeebiin funuuna yoo ta‟e. \n• Qorichoota dhiiga qal‟isan ni fayyadamu yoo ta‟e. \n• Lafti ittiin maruu ykn ijji itti dimimmisuun yoo jiraate. \n• Funuunna balaa cimaa booda dhufe jalqabe yoo ta‟e.",      
+      "isMain":false
+    },
+    {
+      "title":"Funuuna dursitanii ittisuuf",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• የአፍንጫዎን የውስጥ ክፍል ያለስልሱ (እንደ ቫዝሊን ያሉ ቅባቶችን በንፁ ጥጥ መቀባት)\n• ህጻናትን አፍንጫቸውን እንዳይነካኩ መከልከል\n• ሲጋራ ሚያጤሱ ከሆነ ማቆም\n• ሲያስነጥሱ አፎን ይክፈቱት\n• ሲናፈጡ በጥንቃቄና በየተራ እያንዳንዱን ቀዳዳ ይናፈጡ\n• ከሀኪም ካልታዘ በቀር መድሃኒቶችን አይጠቀሙ",      
+      "isMain":false
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Diabetics and Hypoglycemia",
+  "iconUrl":"assets/images/diabetics.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Insulin, a hormone produced by the pancreas, regulates blood sugar levels. This is done by sticking to the cells and allowing the blood sugar to enter the cells. Diabetes occurs when the body cannot produce enough of the hormone insulin or when cells stop responding to insulin. \n\nDiabetics can control their diet, exercise, use artificial insulin, and a variety of medications. Diet time, exercise time, and medication can lead to diabetes and high blood pressure if left untreated. \n\n For low blood sugar (Hypoglycemia), the level of sugar in our blood is lower than normal (60mg/l).",
+      "isMain":false
+    },
+    {
+      "title":">Hypoglycemia",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" is a condition in which your blood sugar (glucose) level is lower than normal (60mg/dl). \nThe symptoms of hypoglycemia are: \n• A history of diabetes—the casualty may recognize the onset of a hypoglycemic (low blood sugar) attack Weakness, faintness, or hunger\n• Confusion and irrational behavior\n• Sweating with cold, clammy skin\n• Palpitations and muscle tremors\n• A deteriorating level of response ",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"First aid to hypoglycemic casualty",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• If the casualty is doing some activities, tell him to stop it and have a rest\n• Measure his glucose level if you have the blood sugar measuring kit\n• If he is conscious give him sugar, sugary drinks or candies\n• Three tea spoon sugar or honey\n• Juice 200 ml\n• Look the progress after 10 minutes. If not improved repeat the above procedures to relieve hypoglycemic symptoms. If improved advice casualty to eat.",      
+      "isMain":true
+    },
+    {
+      "title":"Diabetes",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Diabetes is caused by high blood sugar, which is more than 200 mg /dL. \nDiabetes is usually caused by not getting enough insulin, taking the wrong insulin, infections, and stress.",      
+      "isMain":false
+    },
+    {
+      "title":"Symptoms of Diabetes",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Drinking plenty of water\n• Frequent urination\n• Dry mouth and skin\n• Eye strain\n• Weight loss\n• Vomiting, nausea and abdominal cramps\n• Breathe quickly\n• Loss of consciousness, confusion.",      
+      "isMain":false
+    },
+    {
+      "title":"WHAT TO FOR DIABETIC PATIENT",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Perform ABCD of life if the patient is unconscious\n• If the patient has known diabetes, have a blood sugar test\n• If the patient have high blood sugar and does not faint\n• Give them their insulin\n• Give them sugar-free water",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"የስኳር ማነስና መብዛት",
+  "iconUrl":"assets/images/diabetics.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"ኢንሱሊን ሆርሞን በቆሽት አማካኝነት ተመርቶ የሰውነታችንን የስኳር መጠን ይቆጣጠራል፡፡  ይህም የሚያረገው በህዋሶች ላይ በመጣበቅ በደም ውስጥ ያለን ስኳር ወደ ህዋሶች ገበቶ እንዲጠቀሙበት በማድረግ ነው፡፡ የስኳር በሽታ የሚከሰተው ሰውነታችን ኢንሱሊን ሆርሞን በበቂ ሁኔታ ማምረት ካልቻለ ወይም ህዋሶች ለኢንሱሊን ምላሽ መስጠት ሲያቆሙ ነው፡፡ \n\nየስኳር ታማሚ የስኳር መጠን ለመቆጣጠር ምግቦችን መጠንቀቅ፣ እንቅስቃስ ማድረግ፣ ሰው ሰራሽ ኢንሱሊን እና የተለያዩ መድሃኒቶችን ሊጠቀም ይችላል፡፡ የመመገቢያ ሰአት፣ እንቅስቃስ የማድረጊያ ሰአት፣ የመድሃኒት አወሳሰድ የተስተካከለ ካልሆነ  ለስኳር ማነስና መብዛት ያጋልጣል፡፡ \n\nለስኳር ማነስና መብዛት ስንል በደም ስራችን ውስጥ ያለው የስኳር መጠን ከመደበኛው ሲያንስ ወይም ሲበዛ ነው፡፡",
+      "isMain":false
+    },
+    {
+      "title":"የስኳር ማነስ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" የስኳር ማነስ በደማችን ውስጥ ያለው ስኳር መጠን ዝቅ ሲል የሚከሰት ሲሆን የደም ስኳር መጠን ከ60 ሚግ/ድሊ በታች ሲሆንና የስኳር ማነስ ምልክቶችን ሲያሳይ የደም ስኳር ማነስ እንለዋልን፡፡",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ድካም ድካም ማለት፣ መዛል\n• ራስን መሳት\n• መወዛገብ፣ መነጫነጭ\n• በላብ መዘፈቅ\n• ቶሎ ቶሎ መተንፈስ\n• የአፍ መተሳሰር\n• ማንቀጥቀጥ\n• መገርጣት",      
+      "isMain":false
+    },
+    {
+      "title":"የስኳር ማነስ የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ንቅስቃሴ ላይ ከሆነ ያስቁሙትና ያሳርፉት\n• የደም የስኳር መለኪያ በቅርብ ካለ ይለኩ\n• ትእዛዝ መቀበል የሚችል ከሆነና መዋጥ የሚችል ከሆነ ስኳር ያላቸውን ምግቦች ይስጡት\n• ሶስት የሻይ ማንኪያ ማር ወይም ስኳር\n• ጁስ 200 ሚ.ሊትር\n• ስኳር በውሃ ብጥብጥ 200 ሚ.ሊትር\n• ማገገማቸውን ይከታተሉ፤ ለውጥ በ10 ደቂቃ ውስጥ እንጠብቃለን\n• በ10 ደቂቃ የስኳር ማነስ ምልክቶቹ ካልጠፉና ታማሚው ትእዛዝ መቀበል የሚችል ከሆነና መዋጥ የሚችል ከሆን በድጋሚ ሶስት የሻይ ማንኪያ ማር ወይም ስኳር ጁስ 200 ሚ.ሊትር ወይም ስኳር በውሃ ብጥብጥ 200 ሚ.ሊትር ይስጡዋቸው፡፡\n• ታማሚው ለውጥ ካለው ምግብ እንዲመገቡ ያድርጉዋቸው\n• ከዚህ በታች ያሉት ካሉ ወደ 907 ላይ ይደውሉና እርዳታን ይጠይቁ\n• ታማሚው ራሱን ከሳተ\n• ምልክቶቹ የሚባባሱ ከሆነ\n• ማንቀጥቀጥ ካላው\n• ታማሚው ራሱን ከሳተ</item>የአመዝጉል ተግባራት ይፈጽሙ\n• ትንፋሽ ለመስጠት ይዘጋጁ",      
+      "isMain":true
+    },
+    {
+      "title":"የስኳር መብዛት",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"የስኳር መብዛት በደማችን ውስጥ ያለው ስኳር መጠን ከፍ ሲል የሚከሰት ሲሆን የደም ስኳር መጠን ከ200ሚግ/ድሊ በላይ ሲሆን የስኳር መብዛት እንለዋልን፡፡ \n\nየስኳር መብዛት በአብዛኛውን የሚከሰተው በቂ ኢንሱሊን ካለመውሰድ፣ በተሳሳት መልኩ ኢንሱሊን መውሰድ፣ ኢንፍክሽን፣ ጭንቀት፣ በብዛት ሃይል ሲጭ ምግቦች መመገብ",      
+      "isMain":false
+    },
+    {
+      "title":"የስኳር መብዛት ምልክቶች",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ውሃ ቶሎ ቶሎ መጠጣት\n• ቶሎ ቶሎ መሽናት\n• የአፍና ቆዳ መድረቅ\n• የአይን መጎርጎድ\n• ክብደት መቀነስ\n• ማስመለስ፣ ማቅለሽለሽ እና ሆድ ቁርጠት\n• ቶሎ ቶሎ መትንፈስ\n• ራስን መሳት፣ መዘባረቅ",      
+      "isMain":false
+    },
+    {
+      "title":"የስኳር መብዛት የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ታማሚው ራሱን የሳት ከሆነ የአመዝጉል ተግባራትን ይፈጽሙ\n• ታማሚው የታወቀ የስኳር በሽተኛ ከሆነ የስኳር መለኪያ ካለው እርሱን ይለኩ\n• የስኳር መጠን መብዛት የሚያሳይ ከሆነና ታማሚው ራሱን ካልሳተ\n• ኢንሱሊን እንዲሰጡ ያግዙዋቸው\n• ስኳር የሌለው ውሃ ይስጡዋቸው",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Sukkarri qaamaa keessaa gadi bu‟‟uu fi baay‟achuu",
+  "iconUrl":"assets/images/diabetics.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Hormooniin insuliinii rajiijii irraa madduun sukkara qaamaa keenya keessatti akka hin baay‟anne gargaara. Kunis kan ta‟u hormoonichi dhiigaan baatamuun seelota qaamaa keenyaarratti maxxanuun sukkarri dhiiga keessaa gara seelotaa seenuun akka itti fayyadamaan taasisuudha. \n\nDhukkubni sukkaraa qaamaa keenya keessatti kan uumamu yommuu qaamni keenya hormoonii insuliinii gahaa maddisiisuu dadhabe ykn immoo seelonni qaamaa insuliiniin dammaqanii sukkara dhiiga keessaa fayyadamuu yoo dadhabaniidha \n\nSukkaarri qaama keessaa xiqqaachuu fi baay‟achuu yoo jennu ujummoo dhiigaa keenya keessaa sukkarri jiru isa yeroo kaaniirra yoo baay‟atu ykn xiqqaatu fi akkasumas kanaan mallattooleen walqabatan qaamaa keenyarratti mul‟achuudha.",
+      "isMain":false
+    },
+    {
+      "title":"Hammi sukkaraa xiqqaachuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":" hammi sukkaaraa dhiiga keenya keessa jiru yoo gadi bu‟uu kan uumamu yoo ta‟u kunis mg/dL 60 gadi yoo ta‟ee fi mallattooleen gadi bu‟uu sukkaaraa yoo mul‟atanidha.  ",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Dadhabbii fi laamshessuu\n• Of wallaaluu \n• Dafanii aaruu fi bitaa namatti galuu \n• Dafqisiisuu\n• Dafanii dafanii harganuu \n• Arrabni hidhamuu fi dubbii dadhabuu \n• Gaggaba\n• Miira sodaachuun qabamuu",      
+      "isMain":false
+    },
+    {
+      "title":"Yaalii duraa nama hammi sukkaaraa dhiiga keessaa gadi bu‟eef godhamu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Sosochii qaamaarra jira yoo ta‟e dhaabsisanii boqochiisuu \n• Maashinii safartuu sukkaaraa yoo dhiyeenyatti argattan sukkaara isaa ilaaluu \n• Ajaja hordofuu kan danda‟u, of kan hin wallaaalle fi liqimsuuf ni danda‟a yoo ta‟e nyaata mi‟aawaa dafani kennuufii, fakkeenyaaf\n• Damma ykn sukkaara fal‟aana shaayii sadi \n• Cuunfaa mililiitira 200 \n• Bishaan sukkaarri keessatti bulbulame mililiitira 200 \n• Bayyanachuu isaa fi mallattooleen akka dhabamaa deeman hordofaa; jijjiiramni daqiiqaa 10 keessatti ni eegama. \n• Daqiiqaa 10 keessatti mallattooleen hin badin jiru yoo ta‟e garuu namichi Ajaja hordofuu kan danda‟u, of kan hin wallaaalle fi liqimsuuf ni danda‟a yoo ta‟e irra deebi‟aa damma ykn sukkaara fal‟aana shaayii sadi, cuunfaa mililiitira 200 ykn bishaan sukkaarri keessatti bulbulame mililiitira 200 kennaafii. \n• Dhukkubsatichi jijjiirama ni qaba yoo ta‟e akka nyaata nyaatu godhaa. \n• Kanneen armaan gadii yoo jiraatan gara 907tti bilbilaa gara mana yaalaa geesssaanii \n• Dhukkubsatichi yoo of wallaale \n• Malaattooleen yoo ittumaa cimaa kan deeman ta‟e \n• Yoo hurgufama/kirkiruu qabaate (akka nama gaggaba qabu) \n• Dhukkubsatichi yoo of wallaale </item>Teessuma baayyanachiisaarra kaa‟aa \n• Hafuura kennaafii",      
+      "isMain":true
+    },
+    {
+      "title":"Sukkarri dhiiga keessatti olka‟uu:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Sukkarri olka‟uun dhiiga keenya keessatti hammi sukkaaraa yoo baay‟atu kan uumamu yoo ta‟u; innis sukkaarri mg/dL 200 ol yoo ta‟eedha. \n\nSukkarri olka‟uun kan uumamu dhukkuba sukkaaraaf jedhamee hakimaan dawaa (qoricha) ajajame kan akka insuliinii ykn kiniinii osoo hin fudhatin hafuun, dabalataanis karaa dogoggoraan fudhachuun (qoricha yeroon irra darbe), infeekshinii, dhiphina, nyaata sukkara of keessaa qaban heddumminaan nyaachuu fa‟iin dhufuu danda‟a.",      
+      "isMain":false
+    },
+    {
+      "title":"Sukkarri olka‟uun mallattoolee agarsiisu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• >Bishaan amma amma obaasuu \n• Amma amma fincoofsisuuu \n• Gogaa fi Afaan goggoguu \n• Ijji keessa bubbu‟uu \n• Ulfaatinni qaamaa hir‟achuu \n• Haqqisiisuu, garaan dhukkubuu, \n• Hargansuun daddafuu \n• Of wallaaluu",      
+      "isMain":false
+    },
+    {
+      "title":"Gargaarsa Yaalii duraa nama Sukkarri itti olka‟eef kennamu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Yoo of wallaaleera ta‟e gara 907 tti bilbilaa hatattamaan gara mana yaalaa geesssaa. \n• Yoo maashinii safartuu sukkaaraa qabaate dafaa sukkara isaa ilaalaa.\n• Sukkarri olka‟uu kan agrsiisuu fi kan of hin wallaalle yoo ta‟e\n• Dawaa/qorichi hakiimni ajajeef yoo jiraate akka fudhatu godha.\n• Bishaan sukkaara hin qabne kennaafii.",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Suffocation",
+  "iconUrl":"assets/images/suffocation.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Among the hazards in the smoke are carbon monoxide, cyanide, and particulate matter. When carbon monoxide and cyanide cause short-term damage, tiny particles can cause long-term damage. &lt;br>Carbon monoxide is an odorless, colorless, tasteless poisonous gas that enters the body and binds to red blood cells, blocking oxygen flow and leading to death. &lt;br>Carbon monoxide can be produced from completely unburned carbon such as coal, oil, gas, and wood.",
+      "isMain":false
+    },
+    {
+      "title":"Symptoms to suffocation",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Headache\n• Vertigo\n• Nausea, vomiting, weakness and abdominal pain\n• Shortness of breath\n• Severe exposure to smoke\n• Loss of balance\n• Loss of consciousness\n• Increased heart rate\n• Shortness of breathing\n• Chest pain\n• Seizure",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"Prevention to Suffocation",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Do not bring charcoal into the home without burning it properly\n• Clean the chimney at least once a year",      
+      "isMain":false
+    },
+    {
+      "title":"WHAT TO DO for suffocation",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Call to an ambulance\n• Get the casualty away from the smoke area\n• Allow the casualty to get free and clean air\n• Be with the casualty and encourage him/her to breath\n• If the casualty lose consciousness do CPR",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"በጭስ መታፈን",
+  "iconUrl":"assets/images/suffocation.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"በጭስ ውስጥ ካሉ አደገኛ መርዞች መሃከል ካርቦን ሞኖክሳይድ፣ ሲያናይድ (ፕላስቲክ ሲቃጠል)፣ እንዲሁም ጥቃቅን ቅንጣቶች ናቸው፡፡ ካርቦን ሞኖክሳይድና ሲያናይድ በአጭር ጊዜ ጉዳት ሲያመጡ ጥቃቅን ቅንጣቶች በረጅም ጊዜ ጉዳት ያስከትላሉ፡፡ \n\nካርቦን ሞኖክሳይድ ሽታ አልባ፣ ቀለም አልባ፣ ጣዕም አልባ የሆነ መርዛማ ጋዘ ሲሆን ወደ ሰውነታችን ገበቶ ቀይ የደም ሴል ላይ በመጣበቅ የኦክስጅን ዝውውር በመከልከል እስከ ሞት ሊያደርስ ይችላል፡፡ \n\nካርቦን ሞኖክሳይድ የሚፈጠረው ሙሉ ለሙሉ ባልተቀጣጠለ ካርቦን በያዙ እንደ ከሰል፣ ዘይት፣ ጋዝ፣ እንጨት ሊሆን ይችላል፡፡",
+      "isMain":false
+    },
+    {
+      "title":"በጭስ የታፈነ ሰው የሚከተሉትን ምልክቶች ያሳያል",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ራስ ምታት\n• ማዞር\n• ማቅልሽለሽ፣ ማስታወክ፣ ድካም፣ ሆድ ህመም\n• ትንፋሽ ማጠርና ለመተንፈስ መችገር\n• በከፍተኛ ካርቦን ሞኖክሳይድ የተጋለጠ ሰው\n• መንገዳገድና ምቆም አለመቻል\n• የልብ ምት መጨመር\n• መተንፈስ አለመቻል\n• የደረት ውጋት\n• ማንቀጥቅጥ (የሚጥል በሽታ)",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"በጭስ የመታፈን አደጋ እንዳይከስት ሊደረጉ የሚገቡ ጥንቃቄዎች",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• በደንብ ሳይቀጣጠል ከሰል ወደ ቤት አለማስገባት\n• ጭስ ማውጫ ቢያንስ በአመት አንድ ጊዜ መጥረግ",      
+      "isMain":false
+    },
+    {
+      "title":"በጭስ መታፈን የመጀመሪያ እርዳታ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• ወደ አምቡላንስ  በአፋጣኝ ይደውሉ\n• በጭስ ከታፈነው ቦታ ይዘውት ይውጡ\n• የታፈነው ሰው ንፁህ አየር ያለበት ቦታ ይውሰዱት\n• ከታማሚው ጋር አብረው ይሁኑ፤ እንዲተነፍሱ ያበረታቱዋቸው\n• የታፈነው ሰው ራሱን ከሳተ የ”አመዝጉሌ” ተግባራትን ይመርምሩ",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Aaraan ukkaamfamuu",
+  "iconUrl":"assets/images/suffocation.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Aarri walitti qabama wantoota baay‟ee xixiqqoo jajjaboo, dhangala‟oo fi gaasiiti. Keessoo isaatti keemikaalota garagaraa dhibbootaan lakkaa‟aman qabateera. Hunda caalaatti garuu caarboonii, zayitaa, daaraa fi cilee qabateera. Kunis kan uumamu wanti gubatu tokko guutumaa guututti osoo hin gubatin yoo hafe (oksijiinii gahaa yoo hin argatin) wantooti xixiqqqoon kuufamanii mul‟atu. Kuufama kanatu aara jedhama. Keemikaalota aara keessatti argaman keessaa hamaa kan ta‟an akka kaarboon moonoo oksaayidii, sayaanaayidii (pilaastikiin kan gubate yoo ta‟e) fi akkasumas kuufama xixiqqoo kan biro ni argamu. kaarboon moonoo oksaayidii fi siyaanaayidiin yeroo gabaabduu keessatti balaa kan geessisan yoo ta‟an kanneen hafan immoo yeroo booda dhiibbaa geessisuu malu \n\nkaarboon moonoo oksaayidiin gaasii summaa‟aa foolii, halluu fi dhandhama hin qabnee yoo ta‟u gara qaamaa keenyaa wayita seene seelii dhiiga diimaa wajjin walitti qabachuun daddabarsa oksijiinii qaama keessaa jeequun hanga du‟aatti geessisuu mala. \n\nkaarboon moonoo oksaayidiin kan uumamu wayita wantooti kaarboonii hedduu of keessaa qaban (cilee (kasalaa), zayitaa, gaazii boba‟aa fi mukaa) osoo guutummaan hin gubatin hafaniidha.",
+      "isMain":false
+    },
+    {
+      "title":"Namni aaraan ukkaamfame mallattoolee armaan gadii agarsiisa",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Hamma kaarboon moonoo oksaayidii xiqqoof kan saaxilame yoo ta‟e\n• Bowwoo mataa \n• Lafti ittiin maruu \n• Ol ol jechisiisuu, haqqisiisuu, dadhabbii qaamaa, dhukkubbii gara\n• Afuurri itti ciccituu fi harganuu dadhabuu \n• Hamma kaarboon moonoo oksaayidii hedduuf kan saaxilame yoo ta‟e \n• Raafamuu fi dhaabbachuu dadhabuu \n• Dhahannaan onnee dabaluu \n• Harganuu dadhabuu \n• Waraansa laphee \n• Gaggabdoo",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"Aaraan akka hin ukkaamamneef of eeggannoo gochuu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Cilee osoo sirriitti hin qabatin gara manaa ol galchuu dhiisuu \n• Karaa aarri ittiin bahu waggaatti yoo xiqqaate si‟a tokko qulqulleessuu",      
+      "isMain":false
+    },
+    {
+      "title":"Aaraan nama ukkaamameef gargaarsa duraa godhamuu qabu",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Gara ambulansii hatattamaan bilbilaa\n• Bakka itti ukkaamamee fuudhaa baasaaa \n• Qilleensi qulqulluun bakka jirutti geesssaa \n• Wajjin ta‟aatii akka sirriitti harganu jajjabeessaa",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Poisoning",
+  "iconUrl":"assets/images/poison.png",
+  "language":"en",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"We can be poisoned by any substance that can cause injury, illness, or death. A person can be poisoned, knowingly or unknowingly. Toxins can enter our bodies through the mouth, skin, breath, eyes, injections (blood, muscle, fat).",
+      "isMain":false
+    },
+    {
+      "title":"If we misuse most of the products in the home, they can poison us. These includes",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Alcohol (sanitizers, perfumes, mouthwash)\n• Medicines and vitamins\n• Cleaning products\n• Color and adhesive\n• Herbicides, insecticides\n• Car oil, lubricant\n• Cigarettes\n• Metals(Lead)",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"Prevention to accidental poisoning",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Keep medicines and household products out of the reach of children\n• Monitor children and people with mental illness\n• Store toxic substances in a locked box\n• Keep medicines and household products by their bottle\n• Keep medicines and household products by writing their names if you use another bottle\n• Teach children signs of poisoning\n• When giving medicine to children, do not give them by calling it as 'candy'.\n• Be careful when avoiding medications.",      
+      "isMain":false
+    },
+    {
+      "title":"WHAT TO DO",
+      "imageUrl":"assets/images/poisoning_img.png",
+      "vedioUrl":"",
+      "content":"• Call to an ambulance if the casualty shows these symptoms\n• Loss of consciousness\n• Breathing difficulties\n• Seizures\n• Bloody vomiting or diarrhea\n• Chest pain\n• Aggressiveness\n• Discard the poison carefully\n• Do not give any food or drinks to casualty\n• Do not induce vomiting by your hands\n• Till an ambulance service arrive, record the type of poison, amount of poison and the time when the casualty took the poison\n• If the casualty is conscious and do not have bloody vomiting, you can give him crushed charcoal mixed with clean water if you get the patient within 4 hours after taking the poison. This should be done only if you can’t get to health centers in a short period of time.",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"መመረዝ",
+  "iconUrl":"assets/images/poison.png",
+  "language":"am",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"ማንኛውም ንጥረ ነገር ወደ ሰውነታችን ገብቶ ጉዳት፣ ህመም ወይም ሞት ሊያስከትል የሚችል ነገር መርዝ ልንለው እንችላለን፡፡ አንድ ሰው በማወቅም ሆነ ባለማወቅ ሊመረዝ ይችላል፡፡ መርዝ በአፍ፣ በቆዳ፣ በትንፋሽ፣ በአይን፣ በመወጋት (በደም ስር፣ በጡንቻ፣ በስብ ስር) ወደ ሰውነታችን ሊገባ ይችላል፡፡",
+      "isMain":false
+    },
+    {
+      "title":"በቤት ውስጥ ያሉ አብዛኛውን ምርቶች አለአግባቡ ከተጠቀምንበት ሊመርዙን ይችላሉ፡፡ ከነዚህም መካከል",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• አልኮል (ሳኒታይዘሮች፣ ሽቶ፣ የአፍ ሳሙና)\n• መደሃኒቶችና ቫይታሚኖች\n• ማጽጃ ምርቶች\n• ቀለምና ማጣበቂያ\n• ፀረ አረም፣ ፀረ ነፍሳት\n• የመኪና ዘይት፣ማላስለሻ\n• ሲጋራ\n• ብረቶች (ሊድ)",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"ያልታሰበ መመረዝን ለመከላክለ",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• መድሃኒቶችንና የቤት ውስጥ ምርቶች ህጻናት በማይደርሱበት ቦታ ያስቀምጡ\n• መርዛማ የሆኑ ንጥረ ነገሮችን በቁልፍ ባለው ሳጥን ያስቀምጡ\n• ህጻናትና የአእምሮ ህመም ያለባቸው ሰዎች በደንብ ይከታተሉዋቸው፡፡\n• መድሃኒቶችንና የቤት ውስጥ ምርቶች በመጡበት እቃ በተቻለ ያስቀምጡዋቸው\n• መድሃኒቶችንና የቤት ውስጥ ምርቶች በመያዣ እቃቸው በሚገባ ጽፈው ያስቀምጡት\n• የመርዝ ምልክቶችን ለህጻናት ያስተምሩ\n• ለህጻናት መድሃኒት ሲሰጡ “ከረሜላ“ ብለው አይስጡዋቸው፡፡\n• መድሃኒቶችን ሲያስወግዱ በሚገባ መልኩ ይሁን፡፡",      
+      "isMain":false
+    },
+    {
+      "title":"የመመረዝ የመጀመሪያ እርዳታ",
+      "imageUrl":"assets/images/poisoning_img.png",
+      "vedioUrl":"",
+      "content":"• ተጠቂው የሚከተሉት ምልክቶች ካሉት ወደ አምቡላንስ ይደውሉና እርዳታን ይጠይቁ\n• ራሱን ከሳት\n• ለመተንፈስ ከተቸገረ\n• ካንቀጠቀጠው (እንደ የሚጥል በሽታ)\n• ደም ካስመለስው/ካስቀመጠው\n• ደረት ውጋት/ ህመም ካለው\n• እማይተባበርና አደገኛ ጸባይ ካለው\n• የመርዙን ምንጭ እርሶ ላይ አደጋ በማያደርስ መልኩ ያስወግዱ\n• ለተጠቂው የሚበላም ሆነ የሚጠጣን አይስጧቸው\n• በተለምዶ እንደሚደረገው መርዙን እንዲያስታውከው ለማድረግ የሚደረጉ እንጥል አካባቢ መንካት፤ እንዲሁም ለማርከሻ ተብሎ የሚሰጥ ወተት መጠቀም ተገቢ አይደለም\n• ወደ አምቡላንስ ደወለው እርዳታ እስኪመጣ፣ ተጠቂው ምን አይነት መድሃኒት፣ ምን ያህል መጠን እንደወሰደ፣ መቼ እንደተወሰደ ለማጣራት ይሞክሩ፡፡\n• ታማሚው ራሱን የሳተ ካልሆነ፣ ደም የማያስመልሰው እንዲሁም መርዙን ከወሰደ 4 ሰዓት ካላለፈው የተፈጨ ከሰል በውሃ በጥብጠን እንስጠው፡፡ነገር ግን ይህን ሲያረጉ ወደ ህክምና ተቋም በፍጥነት መድረስ ማይችሉ ከሆነ ብቻ መሆን ይኖርበታል፡፡",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name":"Summaa'uu",
+  "iconUrl":"assets/images/poison.png",
+  "language":"om",
+  "description":[
+    {
+      "title":"",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"Keemikaalli gara qaama keenyaa seenee miidhaa, dhukkubbii, ykn du'a geessisuu danda'u kamiyyuu summit jedhama. Summaa'uu jechuun immoo qaamni alagaa kamiyyuu yommuu qaama keenya seenee ykn gogaa keenya tuqee rakkoon fayyaa nu muudatu jechuu keenya. Namni tokko beekaa ykn tasa summaa'uu danda'a. Summin afaaniin, gogaadhaan, afuuraan, ijaan, lilmoodhaan (karaa ujummoo dhiigaa, maashaa ykn ....) gara qaama keenyaa seenuu ni danda'a.",
+      "isMain":false
+    },
+    {
+      "title":"Wantoota mana keessatti fayyadamnu humnaa ol itti fayyadamuun summiif saaxilamuu ni dandeenya. Akkaatuma kanaan:",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Alkoolii (sanitiiyizarii (qulqulleessituu), urgooftuu (shittoo), saamunaa afaanii)\n• Qorichoota fi vaayitaaminoota garagaraa\n• Keemikaalota qulqulleessituu \n• Qalama garagaraa fi haphee dhoobsituu \n• Zayita konkolaataa fi keemikaalota rigata hir'isuuf fayyadan\n• Sigaaraa \n• Sibiilota akka Liidii",      
+      "isMain":false
+    },
+ 
+
+    {
+      "title":"Summaa'uu itti hin yadamin hambisuuf",
+      "imageUrl":"",
+      "vedioUrl":"",
+      "content":"• Qorichoota fi keemikaalota mana keessaa kan biroo bakka ijoollen hin qaqqabne kaa'aa. \n• Keemikaalota summaa'oo ta'an saanduqa furtuun cufamu keessa kaa'aa \n• Ijoollee fi namoota dhukkuba Sammuu qaban sirriitti hordofaa \n• Mallattoolee summaa'uu garagaraa ijoollee keessan barsiisaa\n• Ijoolleef wayita qoricha kennitan mi'ooftuu (karameellaa) jettanii alka hin kennineef.\n• Qorichoota yeroon itti darbe yoo dhabamsiistan of eeggannoon haa ta'u",      
+      "isMain":false
+    },
+    {
+      "title":"Summaa'uu gargarsaa yala dulaa",
+      "imageUrl":"assets/images/poisoning_img.png",
+      "vedioUrl":"",
+      "content":"• Midhamaan mallattoolee armaan gaditti eeraman kan agarsiisu yoo ta'e gara 907 tti bilbilaa gargaarsa gaafadhaa.\n• Yoo of wallaale \n• Hargansuuf yoo rakkkate\n• Gaggaba yoo qabaate \n• Dhiiga haqqisiisa ykn teessisa (yaasa) yoo ta'e \n• Waraansa laphee yoo qabaate \n• Ajaja hin hordofu ykn amala badaa yoo qabaate • Summicha karaa isin hin miineen dhabamsiisaa \n• Waan nyaatamus ta'ee waan dhugamu hin kenninaafii \n• Summiin fudhatame kan nama gubu yoo ta'e afaanii Kaasee hanga garaachaatti waan gubuuf haqqisiisuuf yaaluun hin barbaachisu. \n• Akka barametti summicha akka ol deebisee haqqisuuf huuba qoonqoo Bira tuquu fi qabbaneessuuf jedhanii aannan kennuufiin sirrii miti. \n• Gara ambulansii tti bilbiluun hanga gargaarsi isin qaqqabutti miidhamaan gosa summii kam, hangamii fi yoom akka fudhate adda baafadhaa.\n• Miidhamaan yoo of wallaale, dhiiga kan haqqisu yoo ta'ee fi akkasumas erga summicha fudhatee sa‟aatii afur kan hin guunne yoo ta'e cilee (kasala) bishaaniin bulbulaa kennaafii (Kunis gara mana yaalaa gahuuf yeroo dheeraa kan isinitti fudhatuu fi gargaarsa argachuuf kan hin dandeenye yoo ta'e qofa haa ta'u).",      
+      "isMain":true
+    }
+
+    
+    
+  ]
+}
+
+
+
+
+
+
+  ]
+}

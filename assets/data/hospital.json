@@ -1,0 +1,727 @@
+{
+  "hospitals":[
+    {
+      "name_en": "Zenbaba General Hospital",
+      "name_am": "ዘንባባ ጠቅላላ ሆስፒታል",
+      "location": {
+       "latitude":  8.955428278944458,
+        "longitude": 38.765010697122996
+        
+      
+      },
+      "phone": "+251114431992",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "St.Pauls Hospital",
+      "name_am": "ቅዱስ ጳውሎስ ሆስፒታል",
+      "location": {
+       "latitude":  9.049012876915919,
+        "longitude": 38.72814239516939
+        
+      
+      },
+      "phone": "+251984848",
+      "facebook":"sphmmc",
+      "telegram":"@SPMMC"
+      
+    },
+    {
+      "name_en": "Hallelujah General Hospital",
+      "name_am": "ሃሌሉያ ጣቅላላ ሆስፒታል",
+      "location": {
+       "latitude":  8.99546434082552,
+        "longitude": 38.75717738717757
+        
+      
+      },
+      "phone": "0930177548",
+      "facebook":"hallelujahgeneralhospital",
+      "telegram":"@hallelujah_GHospital"
+      
+    },
+    {
+      "name_en": "Hamlin Fistula Hospital",
+      "name_am": "ሃምሊን ፌስቱላ ሆስፒታል",
+      "location": {
+       "latitude": 9.016967245570719,
+        "longitude": 38.71692753377459
+        
+      
+      },
+      "phone": "+2510113716544",
+      "facebook":"hamlinfistulaethiopia.hf",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Addis General Hospital",
+      "name_am": "አዲስ ጀነራል ሆስፒታል",
+      "location": {
+       "latitude": 9.04238151823183,
+        "longitude": 38.73197901499625
+        
+      
+      },
+      "phone": " 011 111 0948",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "CURE Ethiopia Childrens Hospital",
+      "name_am": "ኪዩር ኢትፖጲያ የህጻናት ሆስፒታል",
+      "location": {
+       "latitude":  9.058845188397227,
+        "longitude": 38.766680375851806
+        
+      
+      },
+      "phone": "+251111237767",
+      "facebook":"CUREethiopia",
+      "telegram":"@cureethiopia"
+      
+    },
+    {
+      "name_en": "Teklehaimanot General Hospital",
+      "name_am": "ተክለሃይማኖት ጠቅላላ ሆስፒታል",
+      "location": {
+       "latitude":  9.032865269175092,
+        "longitude": 38.746638911848216
+        
+      
+      },
+      "phone": "+251940333333",
+      "facebook":"teklehaimanothospital",
+      "telegram":"@zenbaba_hospital"
+      
+    },
+    {
+      "name_en": "Tikur Ambessa Teaching Hospital",
+      "name_am": "ጥቁር አንበሳ ሆስፒታል",
+      "location": {
+       "latitude": 9.02142164343431,
+        "longitude": 38.74904217091501
+        
+      
+      },
+      "phone": "+251111110948",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Landmark General Hospital",
+      "name_am": "ላንድማርክ አጠቃላይ ሆስፒታል ",
+      "location": {
+       "latitude": 9.01375156658542,
+        "longitude": 38.74864451790641
+        
+      
+      },
+      "phone": "0115525463",
+      "facebook":"LandmarkGeneralHospitalA.A",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Zewditu Memorial Hospital",
+      "name_am": "የዘውዲቱ መታሰቢያ ሆስፒታል ",
+      "location": {
+       "latitude": 9.02208220694672,
+        "longitude": 38.75546639847603
+        
+      
+      },
+      "phone": "0115518085",
+      "facebook":"zmHospital",
+      "telegram":"@ZewdituMemorialHospitaloffical"
+      
+    },
+    {
+      "name_en": "Anania Mothers and Children Specialized Medical Center",
+      "name_am": " አናንያ የናቶችና ህጻናት ስፔሻላይዝድ የጤና ማእከል",
+      "location": {
+       "latitude": 9.042752117466003,
+        "longitude": 38.74686525828974
+        
+      
+      },
+      "phone": "0111565045",
+      "facebook":"AnaniaMC",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Girum Hospital",
+      "name_am": " ግሩም ሆስፒታል ",
+      "location": {
+       "latitude": 9.047378123473113,
+        "longitude": 38.71991930766695
+        
+      
+      },
+      "phone": "0112757676",
+      "facebook":"GirumhospitalEthiopia",
+      "telegram":"@girumhospital"
+      
+    },
+    {
+      "name_en": "Yekatit 12 Hospital",
+      "name_am": "የካቲት 12 ሆስፒታል",
+      "location": {
+       "latitude": 9.044740083971897,
+        "longitude": 38.76035196969303
+        
+      
+      },
+      "phone": "0116623439",
+      "facebook":"pages/category/Medical---health/Yekatit-12-Hospital-Medical-College-314540985970684",
+      "telegram":"@Yekatit12hospital"
+      
+    },
+    {
+      "name_en": "Bethzatha General Hospital stadium",
+      "name_am": "ቤተዛታ ጠቅላላ ሆስፒታል",
+      "location": {
+       "latitude":9.013826795937868,
+        "longitude": 38.7546506516642
+        
+      
+      },
+      "phone": "0115514141",
+      "facebook":"betezata",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Balcha Hospital",
+      "name_am": "ባልቻ ሆስፒታል  ",
+      "location": {
+       "latitude": 9.012130210604308,
+        "longitude": 38.73807086782832
+        
+      
+      },
+      "phone": "+251115514141",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Ethio tebib general hospital",
+      "name_am": "ኢትዮ ጥበብ ጠቅላላ ሆስፒታል ",
+      "location": {
+       "latitude":9.037477128247772,
+        "longitude": 38.72099222549845
+        
+      
+      },
+      "phone": "0935402078",
+      "facebook":"ethiotebib/?ref=py_c&__xts__[0]=33",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "AaBET Hospital",
+      "name_am": "አቤት ሆስፒታል",
+      "location": {
+       "latitude":  9.04048919363312,
+        "longitude": 38.7436957124635
+        
+      
+      },
+      "phone": "+251111266762",
+      "facebook":"AaBET.H",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "LebuStar Medical",
+      "name_am": "ለቡስታር ህክምና ማዕከል",
+      "location": {
+       "latitude": 8.950329560274573,
+        "longitude": 38.71977085479282
+        
+      
+      },
+      "phone": "+251114713939",
+      "facebook":"LebuStar",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Tazma Medical and Surgical Specialised Center",
+      "name_am": "ላጣዝማ የህክምና እና ሰርጂካል ስፔሻላይዝድ ማዕከል",
+      "location": {
+       "latitude": 8.985392086486202,
+        "longitude": 38.75827225479319
+        
+      
+      },
+      "phone": "0114163335",
+      "facebook":"pages/category/Medical---health/TAZMA-Medical-Surgical-Specialized-Center-112338703444378",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Saron Orthopedic Specialty Center",
+      "name_am": "ሳሮን ኦርቶፔዲክ ስፔሻሊቲ ማዕካል",
+      "location": {
+       "latitude": 9.015827128513632, 
+        "longitude":38.78286652411342
+        
+      
+      },
+      "phone": "0910548325",
+      "facebook":"saronOrthopedic",
+      "telegram":"@saronortho"
+      
+    },
+    {
+      "name_en": " DELT General Hospital",
+      "name_am": "ዴልት ጠቅላላ ሆስፒታል ",
+      "location": {
+       "latitude": 8.947769792713139,
+        "longitude": 38.66922479712286
+        
+      
+      },
+      "phone": "+2511130996",
+      "facebook":"DELT-General-Hospital-284857255435369",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Ras Desta Referal Hospital",
+      "name_am": "ራስ ደስታ ሪፈራል ሆስፒታል ",
+      "location": {
+       "latitude": 9.044897686651664,
+        "longitude": 38.74416009712351
+        
+      
+      },
+      "phone": "+251114163335",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Adonai Clinic",
+      "name_am": "አዶናይ ክሊኒክ ",
+      "location": {
+       "latitude": 8.963874177091327,
+        "longitude": 38.7303202971231
+        
+      
+      },
+      "phone": "+2347018385139",
+      "facebook":"adonaimedicalcenter",
+      "telegram":""
+      
+    },
+    {
+      "name_en": " Alem Tena Higher Clinic",
+      "name_am": " አለም ጤና ከፍተኛ ክሊኒክ ",
+      "location": {
+       "latitude": 9.045871691208685,
+        "longitude": 38.72967856828867
+        
+      
+      },
+      "phone": "+251911968576",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Washington Medical Center Addis Ababa",
+      "name_am": "ዋሽንግተን የህክምና ማዕከል ",
+      "location": {
+       "latitude": 8.988387786265035,
+        "longitude": 38.77620833945327
+        
+      
+      },
+      "phone": "0116635969",
+      "facebook":"WashingtonMedCenter",
+      "telegram":"@Washingtonmedicalcenter"
+      
+    },
+    {
+      "name_en": "Tirunesh Beijing General Hospital",
+      "name_am": "ጥሩነሽ ቤጂንግ ጠቅላላ ሆስፒታል ",
+      "location": {
+       "latitude": 8.877546993780541,
+        "longitude": 38.789770297122374
+        
+      
+      },
+      "phone": "+251114163335",
+      "facebook":"Tirunesh-Beijing-General-Hospital-1006222246072311",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "22 Mazoria Specialized Clinic",
+      "name_am": "22 ማዞሪያ ስፔሻላይዝድ ክሊኒክ",
+      "location": {
+       "latitude": 9.011637491735415,
+        "longitude": 38.78773725479339
+        
+      
+      },
+      "phone": "+251116614821",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": " St. Peter Referral Hospital",
+      "name_am": " ቅዱስ ጴጥሮስ ሪፈራል ሆስፒታል",
+      "location": {
+       "latitude": 9.074297974454096,
+        "longitude": 38.758623697123724
+        
+      
+      },
+      "phone": "+251111230794",
+      "facebook":"St-Peters-Specialized-Hospital-ቅዱስ-ጴጥሮስ-ስፔሻላይዝድ-ሆስፒታል-351422058259667",
+      "telegram":"@Stpeter"
+      
+    },
+    {
+      "name_en": "TZNA Hospital",
+      "name_am": "ተዘንአ ሆስፒታል",
+      "location": {
+       "latitude":  8.995286591986375,
+        "longitude": 38.71559442595814
+        
+      
+      },
+      "phone": "+251113711208",
+      "facebook":"tznahsptl",
+      "telegram":"@tznahospital"
+      
+    },
+    {
+      "name_en": "Africa Higher Clinic",
+      "name_am": "አፍሪካ ከፍተኛ ክሊኒክ",
+      "location": {
+       "latitude": 9.033593091397838,
+        "longitude": 38.72777799712354
+        
+      
+      },
+      "phone": "+251115546879",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Alert Hospital",
+      "name_am": "አለርት ሆስፒታል",
+      "location": {
+       "latitude": 8.985634692134296,
+        "longitude": 38.71028556828818
+        
+      
+      },
+      "phone": "+251118963821",
+      "facebook":"alertcenter",
+      "telegram":"@alertspecializedhospital"
+      
+    },
+    {
+      "name_en": "Minilik II Hospital",
+      "name_am": "ሚኒሊክ ሆስፒታል",
+      "location": {
+       "latitude": 9.038539395706925,
+        "longitude": 38.77384941061846
+        
+      
+      },
+      "phone": "0910588959",
+      "facebook":"saveliveeveryone",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Torhayloch Hospital",
+      "name_am": "ጦር ሐይሎች ሆስፒታል",
+      "location": {
+       "latitude": 9.012352752871529,
+        "longitude": 38.72438021984295
+        
+      
+      },
+      "phone": "+251113712020",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Gandhi Memorial Hospital",
+      "name_am": "ጋንዲ መታሰቢያ ሆስፒታል",
+      "location": {
+       "latitude":  9.015433584265269,
+        "longitude": 38.75552279712342
+        
+      
+      },
+      "phone": "+251115518185",
+      "facebook":"GHANDIHOSP",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Hayat Hospital",
+      "name_am": "ሃያት ሆስፒታል",
+      "location": {
+       "latitude": 8.99443989199928,
+        "longitude": 38.795302325958296
+        
+      
+      },
+      "phone": "0909464646",
+      "facebook":"pages/category/Hospital/Hayat-Hospital-Addis-Ababa-105770848251383",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Yerer Hospital",
+      "name_am": "የረር ሆስፒታል",
+      "location": {
+       "latitude": 8.992291779922516,
+        "longitude": 38.82886739712325
+        
+      
+      },
+      "phone": "+251116478100",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Nordic Medical Centre",
+      "name_am": "ኖርዲክ የህክምና ማዕካል",
+      "location": {
+       "latitude": 8.984444783758446,
+        "longitude": 38.77804546828832
+        
+      
+      },
+      "phone": "+251929105653",
+      "facebook":"nordicmedicalcentre",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Bethel Hospital",
+      "name_am": "ቤተል ሆስፒታል",
+      "location": {
+       "latitude":  9.004393291846647,
+        "longitude": 38.6927640682884
+        
+      
+      },
+      "phone": "0113495475",
+      "facebook":"pages/category/Medical---health/Bethel-Teaching-General-Hospital-194279617952065",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Lealem Clinic",
+      "name_am": "ለአለም ክሊኒክ ",
+      "location": {
+       "latitude": 9.022546116482449,
+        "longitude": 38.789296287592435
+        
+      
+      },
+      "phone": "+251118284122",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Addis Hiwot General Hospital",
+      "name_am": "አዲስ ሕይወት አጠቃላይ ሆስፒታል",
+      "location": {
+       "latitude": 9.012900682644796,
+        "longitude": 38.7833770101583
+        
+      
+      },
+      "phone": "+251984848",
+      "facebook":"addishiwotgeneralhosptial",
+      "telegram":"@AddisHiwot22"
+      
+    },
+    {
+      "name_en": "Betsega Hospital",
+      "name_am": "በጸጋ ሆስፒታል",
+      "location": {
+       "latitude": 9.008284265731573,
+        "longitude": 38.77658099026383
+        
+      
+      },
+      "phone": "+251115545559",
+      "facebook":"pages/category/Medical---health/Betsegah-Mothers-and-Childrens-Hospital-322333158376925",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "BGM Hospital",
+      "name_am": "ቢጂኤም ሆስፒታል",
+      "location": {
+       "latitude": 9.016761368919779,
+        "longitude": 38.79391878820345
+        
+      
+      },
+      "phone": "0116187035",
+      "facebook":"",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "St. Yared General Hospital",
+      "name_am": "ቅዱስ ያሬድ አጠቃላይ ሆስፒታል",
+      "location": {
+       "latitude": 9.023881981802882,
+        "longitude": 38.810054956582896
+        
+      
+      },
+      "phone": "0116454697",
+      "facebook":"SaintYaredHospital",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Saint Gabriel General Hospital",
+      "name_am": "ቅዱስ ገብርኤል አጠቃላይ ሆስፒታል",
+      "location": {
+       "latitude": 9.013540093142979,
+        "longitude": 38.78876894723128
+        
+      
+      },
+      "phone": "0116187345",
+      "facebook":"stgabrielgeneralhospital",
+      "telegram":"@gabrielgeneralhospital"
+      
+    },
+    {
+      "name_en": "Korean Hospital",
+      "name_am": "የኮሪያዎች ሆስፒታል ",
+      "location": {
+       "latitude": 9.003197908364415,
+        "longitude": 38.80833834292551
+        
+      
+      },
+      "phone": "0116295422",
+      "facebook":"pages/category/Medical-Company/Korean-Hospital-MCM-111057212305443",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "KADISCO General Hospital",
+      "name_am": "ካዲስኮ አጠቃላይ ሆስፒታል",
+      "location": {
+       "latitude": 9.000146059535421,
+        "longitude": 38.81520479858673
+        
+      
+      },
+      "phone": "0116298902",
+      "facebook":"KadiscoGeneralHospital",
+      "telegram":"@kadiscohospital"
+      
+    },
+    {
+      "name_en": "ICMC General Hospital",
+      "name_am": "አይሲኤምሲ አጠቃላይ ሆስፒታል",
+      "location": {
+       "latitude":  9.028628978923988,
+        "longitude": 38.85297029904927
+        
+      
+      },
+      "phone": "0911448627",
+      "facebook":"pages/category/Hospital/ICMC-General-Hospital-168557951507326",
+      "telegram":"@icmcgeneralhospital"
+      
+    },
+    {
+      "name_en": "Addis Cardiac Center",
+      "name_am": "አዲስ የልብ ሆስፒታል",
+      "location": {
+       "latitude": 8.988447066869895,
+        "longitude": 38.784134090524475
+        
+      
+      },
+      "phone": "095 234 3434",
+      "facebook":"Addiscardiachospitalplc",
+      "telegram":"@addiscardiachospitalplc"
+      
+    },
+    {
+      "name_en": "Addis Ababa Silk Road General Hospital",
+      "name_am": "አዲስ አበባ ሲልክ ሮድ ጠቅላላ ሆስፒታል",
+      "location": {
+       "latitude": 8.988985523586381,
+        "longitude": 38.737362641005824
+        
+      
+      },
+      "phone": "+251984848",
+      "facebook":"silkroadaddis",
+      "telegram":"@silkroadhospital"
+      
+    },
+    {
+      "name_en": "Hiwot Fana Referral Hospital",
+      "name_am": "ሂዎት ፋና ሪፈራል ሆስፒታል ",
+      "location": {
+       "latitude": 9.305365405686631,
+        "longitude": 42.12919085433483
+        
+      
+      },
+      "phone": "025 666 0011",
+      "facebook":"people/Hiwot-Fana-Specialized-University-Hospital/100064074513805",
+      "telegram":""
+      
+    },
+    {
+      "name_en": "Jugol Hospital",
+      "name_am": "ጀጎል ሆስፒታል",
+      "location": {
+       "latitude": 9.30911330063184,
+        "longitude": 42.13629329555364
+        
+      
+      },
+      "phone": "",
+      "facebook":"",
+      "telegram":""
+      
+    }
+    
+   
+  
+
+
+
+
+    
+
+  ]
+}
